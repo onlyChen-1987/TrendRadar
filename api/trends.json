@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T14:18:33.360752+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2025-10-14T16:15:31.568906+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "以色列送了特朗普一个特别的礼物",
@@ -30,6 +30,17 @@
           "time_info": "[08时52分 ~ 10时58分]"
         },
         {
+          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
+          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 16时15分]"
+        },
+        {
           "title": "解决了加沙问题能不能上天堂？特朗普：不这么认为",
           "url": "https://news.ifeng.com/c/8nQVoPgf27u",
           "source": "凤凰网",
@@ -52,15 +63,15 @@
           "time_info": "08时52分"
         },
         {
-          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
-          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
-          "source": "凤凰网",
+          "title": "特朗普为何要保住对华贸易",
+          "url": "https://www.toutiao.com/trending/7560960551040323135/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "16时15分"
         },
         {
           "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
@@ -70,11 +81,12 @@
             12,
             13,
             14,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 14时18分]"
+          "appearance_count": 5,
+          "time_info": "[08时52分 ~ 16时15分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -83,11 +95,39 @@
           "ranks": [
             14,
             17,
-            19
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时52分 ~ 16时15分]"
+        },
+        {
+          "title": "特朗普签署加沙停火协议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 16时15分]"
+        },
+        {
+          "title": "特朗普C位合影喊话：大家笑起来",
+          "url": "https://www.toutiao.com/trending/7560888494140182043/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            18,
+            21,
+            25
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时52分 ~ 14时18分]"
+          "time_info": "[10时58分 ~ 16时15分]"
         },
         {
           "title": "特朗普马克龙上演26秒掰手腕式握手",
@@ -97,19 +137,6 @@
             7,
             15,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 14时18分]"
-        },
-        {
-          "title": "特朗普C位合影喊话：大家笑起来",
-          "url": "https://www.toutiao.com/trending/7560888494140182043/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            18,
-            21
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -141,16 +168,16 @@
           "time_info": "[08时52分 ~ 10时58分]"
         },
         {
-          "title": "特朗普签署加沙停火协议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
-          "source": "bilibili 热搜",
+          "title": "特朗普马克龙26秒“掰手腕式握手”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            28,
-            7
+            25,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时58分 ~ 14时18分]"
+          "time_info": "[10时58分 ~ 16时15分]"
         },
         {
           "title": "特朗普的100%关税威胁是政治表演吗",
@@ -198,6 +225,17 @@
           "time_info": "08时52分"
         },
         {
+          "title": "以前总理反驳特朗普：内塔尼亚胡都没认罪，赦免他是巨大的丑闻",
+          "url": "https://news.ifeng.com/c/8nRf7tuZiTU",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "特朗普在以议会演讲遭大喊抗议",
           "url": "https://www.toutiao.com/trending/7559806251903864339/",
           "source": "今日头条",
@@ -215,7 +253,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         },
@@ -273,24 +311,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时58分"
-        },
-        {
-          "title": "特朗普马克龙26秒“掰手腕式握手”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 16时15分]"
+        },
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
           "url": "https://www.cls.cn/detail/2168275",
@@ -313,17 +351,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时52分 ~ 14时18分]"
-        },
-        {
-          "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 14时18分]"
         },
         {
           "title": "科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -349,6 +376,17 @@
           "time_info": "[08时52分 ~ 10时58分]"
         },
         {
+          "title": "美股盘前，明星科技股普跌，英伟达、博通、甲骨文均跌超2%。热门中概股盘前下跌，哔哩哔哩跌5％。",
+          "url": "https://wallstreetcn.com/livenews/2987359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
           "url": "https://www.cls.cn/detail/2168011",
           "source": "财联社热门",
@@ -366,7 +404,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
         }
@@ -386,8 +424,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时58分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[10时58分 ~ 16时15分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -438,9 +476,81 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 4,
+      "keyword_group": "金价",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金价疯狂涨势还能持续多久",
+          "url": "https://www.toutiao.com/trending/7560952972620860947/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "金价银价跳水",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D13%26pos%3D13%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26lcate%3D5001%26flag%3D2%26filter_type%3Drealtimehot%26band_rank%3D13%26c_type%3D31%26cate%3D5001%26display_time%3D1760429690%26pre_seqid%3D17604296905010377812729",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "法国兴业银行将2026年底的黄金价格目标上调至每盎司5000美元，因ETF资金流动强劲和央行买入。",
+          "url": "https://wallstreetcn.com/livenews/2987056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）上海金早盘价为945.32元/克，较国际金价(950.27元/克)低4.95元/克",
+          "url": "https://flash.jin10.com/detail/20251014102105537800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "金价首次站上4130美元",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%A6%96%E6%AC%A1%E7%AB%99%E4%B8%8A4130%E7%BE%8E%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D30%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%25A6%2596%25E6%25AC%25A1%25E7%25AB%2599%25E4%25B8%258A4130%25E7%25BE%258E%25E5%2585%2583%2523%26pos%3D30%26band_rank%3D30%26dgr%3D0%26flag%3D1%26cate%3D5001%26display_time%3D1760403148%26pre_seqid%3D17604031482890374287634",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "IEA月报：下调俄罗斯和伊朗第四季度原油供应预测。",
+          "url": "https://flash.jin10.com/detail/20251014160415086800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
         {
           "title": "林诗栋不敌伊朗15岁小将",
           "url": "https://www.douyin.com/hot/2268937",
@@ -490,45 +600,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时58分 ~ 12时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "法国兴业银行将2026年底的黄金价格目标上调至每盎司5000美元，因ETF资金流动强劲和央行买入。",
-          "url": "https://wallstreetcn.com/livenews/2987056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
-          "title": "金十图示：2025年10月14日（周二）上海金早盘价为945.32元/克，较国际金价(950.27元/克)低4.95元/克",
-          "url": "https://flash.jin10.com/detail/20251014102105537800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "金价首次站上4130美元",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%A6%96%E6%AC%A1%E7%AB%99%E4%B8%8A4130%E7%BE%8E%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D30%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%25A6%2596%25E6%25AC%25A1%25E7%25AB%2599%25E4%25B8%258A4130%25E7%25BE%258E%25E5%2585%2583%2523%26pos%3D30%26band_rank%3D30%26dgr%3D0%26flag%3D1%26cate%3D5001%26display_time%3D1760403148%26pre_seqid%3D17604031482890374287634",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时52分"
         }
       ]
     }
