@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T12:14:39.715694+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2025-10-15T14:20:21.082119+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
@@ -16,8 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时52分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[08时52分 ~ 14时20分]"
+        },
+        {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时52分 ~ 14时20分]"
         },
         {
           "title": "特朗普威胁：如果波士顿存在“不安全”因素，世界杯比赛就换地方办",
@@ -26,20 +38,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
-        },
-        {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时52分 ~ 12时14分]"
         },
         {
           "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
@@ -47,11 +48,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时52分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[08时52分 ~ 14时20分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -73,9 +75,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "特朗普与印尼总统说悄悄话忘关麦 疑似讨论家族商业项目",
@@ -112,7 +125,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -123,11 +136,12 @@
           "ranks": [
             11,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时52分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[08时52分 ~ 14时20分]"
         },
         {
           "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
@@ -138,8 +152,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 12时14分]"
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 14时20分]"
         },
         {
           "title": "富士康董事长：近日会见了OpenAI首席执行官奥尔特曼，探讨了未来合作事宜。",
@@ -148,7 +162,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         }
@@ -170,6 +184,18 @@
           "time_info": "08时52分"
         },
         {
+          "title": "金价创新高还能涨吗",
+          "url": "https://www.toutiao.com/trending/7561268723688934921/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 14时20分]"
+        },
+        {
           "title": "金价又创新高 何时会下跌",
           "url": "https://www.toutiao.com/trending/7561245865755561535/",
           "source": "今日头条",
@@ -179,17 +205,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
-        },
-        {
-          "title": "金价创新高还能涨吗",
-          "url": "https://www.toutiao.com/trending/7561268723688934921/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
         },
         {
           "title": "金十图示：2025年10月15日（周三）上海金早盘价为953.95元/克，较国际金价(958.5元/克)，低4.55元/克",
@@ -218,8 +233,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时52分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[08时52分 ~ 14时20分]"
         },
         {
           "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
@@ -258,11 +273,12 @@
           "ranks": [
             9,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时52分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[08时52分 ~ 14时20分]"
         }
       ]
     }
