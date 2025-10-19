@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T18:12:56.197306+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2025-10-19T20:21:21.487571+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "美媒：美方正商讨安排特朗普与金正恩会晤",
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 18时12分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 20时21分]"
         },
         {
           "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
@@ -30,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时12分 ~ 18时12分]"
+          "appearance_count": 7,
+          "time_info": "[11时12分 ~ 20时21分]"
         },
         {
           "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
@@ -39,11 +40,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 18时12分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 20时21分]"
         },
         {
           "title": "特朗普三戏泽连斯基",
@@ -53,8 +55,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时18分 ~ 18时12分]"
+          "appearance_count": 5,
+          "time_info": "[14时18分 ~ 20时21分]"
+        },
+        {
+          "title": "特朗普对华服软,关税讹诈玩不转",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 20时21分]"
         },
         {
           "title": "美乌总统会晤，特朗普数次语气强硬",
@@ -67,20 +84,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时59分 ~ 12时17分]"
-        },
-        {
-          "title": "特朗普对华服软,关税讹诈玩不转",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 18时12分]"
         },
         {
           "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
@@ -130,6 +133,17 @@
           "time_info": "[08时59分 ~ 11时12分]"
         },
         {
+          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
+          "url": "https://news.ifeng.com/c/8na1AOphcs7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
           "url": "https://news.ifeng.com/c/8nXp14yHS6o",
           "source": "凤凰网",
@@ -139,6 +153,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "全美700万人上街抗议特朗普",
+          "url": "https://www.douyin.com/hot/2274982",
+          "source": "抖音",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时18分 ~ 20时21分]"
         },
         {
           "title": "特朗普又抛歪理：都怪尼克松引出中国",
@@ -202,19 +229,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时12分 ~ 12时17分]"
-        },
-        {
-          "title": "全美700万人上街抗议特朗普",
-          "url": "https://www.douyin.com/hot/2274982",
-          "source": "抖音",
-          "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时18分 ~ 18时12分]"
         },
         {
           "title": "特朗普发AI视频挑衅抗议者",
@@ -293,6 +307,17 @@
           "time_info": "[14时18分 ~ 14时19分]"
         },
         {
+          "title": "全美700万人涌上街头抗议特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E700%E4%B8%87%E4%BA%BA%E6%B6%8C%E4%B8%8A%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 20时21分]"
+        },
+        {
           "title": "英媒：特朗普命令在委海岸集结军力，意在迫使马杜罗下台",
           "url": "https://flash.jin10.com/detail/20251019122453389800",
           "source": "金十数据",
@@ -352,6 +377,18 @@
           "time_info": "[14时18分 ~ 14时19分]"
         },
         {
+          "title": "特朗普发布AI视频向抗议者洒粪",
+          "url": "https://www.toutiao.com/trending/7562522819947511850/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 20时21分]"
+        },
+        {
           "title": "曝美乌总统会晤特朗普数次语气强硬",
           "url": "https://www.toutiao.com/trending/7562354973208707126/",
           "source": "今日头条",
@@ -369,20 +406,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
         {
-          "title": "全美700万人涌上街头抗议特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E700%E4%B8%87%E4%BA%BA%E6%B6%8C%E4%B8%8A%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-19）",
+          "url": "https://flash.jin10.com/detail/20251019180608570800",
+          "source": "金十数据",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "20时21分"
         },
         {
           "title": "特朗普为何对华释放缓和信号",
@@ -396,6 +433,17 @@
           "time_info": "16时15分"
         },
         {
+          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "特朗普口中的美军行动有多离谱",
           "url": "https://www.toutiao.com/trending/7562814748509605430/",
           "source": "今日头条",
@@ -405,17 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
-        },
-        {
-          "title": "特朗普发布AI视频向抗议者洒粪",
-          "url": "https://www.toutiao.com/trending/7562522819947511850/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         }
       ]
     },
@@ -437,17 +474,6 @@
           "time_info": "[08时59分 ~ 14时19分]"
         },
         {
-          "title": "金价涨了 印度人节日买金习惯变了",
-          "url": "https://flash.jin10.com/detail/20251019175330077800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
           "title": "金价为何下跌",
           "url": "https://www.toutiao.com/trending/7562708312681090570/",
           "source": "今日头条",
@@ -461,15 +487,39 @@
           "time_info": "[08时59分 ~ 16时15分]"
         },
         {
+          "title": "金价涨了 印度人节日买金习惯变了",
+          "url": "https://flash.jin10.com/detail/20251019175330077800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 20时21分]"
+        },
+        {
           "title": "金价涨了，印度人节日买金习惯变了",
           "url": "https://news.ifeng.com/c/8na31dSR83g",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 20时21分]"
+        },
+        {
+          "title": "金价狂飙 “租三金”结婚成新选择",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E2%80%9C%E7%A7%9F%E4%B8%89%E9%87%91%E2%80%9D%E7%BB%93%E5%A9%9A%E6%88%90%E6%96%B0%E9%80%89%E6%8B%A9",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 20时21分]"
         },
         {
           "title": "金价银价创新高后跳水，白银跌超 6%，黄金跌破 4200 美元，如何看待此次调整？白银能否打破 50 美元魔咒？",
@@ -478,7 +528,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -492,17 +542,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        },
-        {
-          "title": "金价狂飙 “租三金”结婚成新选择",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E2%80%9C%E7%A7%9F%E4%B8%89%E9%87%91%E2%80%9D%E7%BB%93%E5%A9%9A%E6%88%90%E6%96%B0%E9%80%89%E6%8B%A9",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         }
       ]
     },
@@ -519,19 +558,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时59分 ~ 18时12分]"
+          "appearance_count": 8,
+          "time_info": "[08时59分 ~ 20时21分]"
         },
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
           "url": "https://wallstreetcn.com/articles/3757446",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 20时21分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
