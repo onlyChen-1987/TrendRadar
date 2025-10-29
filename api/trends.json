@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T12:18:57.200860+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2025-10-29T14:19:31.127984+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 40,
       "titles": [
         {
           "title": "“美方没回应”，特朗普高市谈完未举行记者会",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 12时18分]"
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 14时19分]"
         },
         {
           "title": "胡锡进：特朗普访日本，美日同盟更公开“主仆化”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 12时18分]"
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 14时19分]"
         },
         {
           "title": "特朗普吐槽美航母电磁弹射又贵又难用",
@@ -52,13 +52,24 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
+          "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
+          "url": "https://news.ifeng.com/c/8nqIhJxIfmR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 14时19分]"
+        },
+        {
           "title": "韩国总统府表示，韩国周三将以一顶金冠复制品迎接美国总统特朗普，并颁授他韩国最高勳章“无穷花大勳章”。",
           "url": "https://wallstreetcn.com/livenews/2995590",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -69,20 +80,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
         {
-          "title": "特朗普：“愚蠢、荒唐”，将下令美国航母改回去",
-          "url": "https://news.ifeng.com/c/8nqIhJxIfmR",
-          "source": "凤凰网",
+          "title": "特朗普称美航母电磁弹射又贵又难用，要求改回蒸汽弹射，蒸汽弹射与电磁弹射分别有哪些特点？究竟哪个更好？",
+          "url": "https://www.zhihu.com/question/1966809012960977218",
+          "source": "知乎",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时18分"
+          "time_info": "14时19分"
         },
         {
           "title": "特朗普访日在美士兵面前即兴起舞",
@@ -102,11 +113,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 12时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 14时19分]"
         },
         {
           "title": "特朗普搂着高市早苗大谈美日同盟关系：我们是“不打不相识”",
@@ -114,11 +126,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时56分 ~ 12时18分]"
+          "appearance_count": 4,
+          "time_info": "[08时56分 ~ 14时19分]"
         },
         {
           "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
@@ -182,7 +195,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -215,7 +228,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -237,7 +250,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -248,9 +261,53 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "特朗普：韩国谈判非常厉害。 韩国已成为造船业的佼佼者。",
+          "url": "https://wallstreetcn.com/livenews/2995637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "特朗普",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D14%26pos%3D15%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26flag%3D0%26realpos%3D14%26display_time%3D1761718503%26pre_seqid%3D176171850364202608070125",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "韩国总统：特朗普做得很好，带来了和平。 将在造船业上合作。",
+          "url": "https://wallstreetcn.com/livenews/2995634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "美国总统特朗普：我们擅长制造其他东西，但造船业没有做好。造船是非常必要的。",
+          "url": "https://flash.jin10.com/detail/20251029135233900800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "韩国称，特朗普将与李在明举行午宴峰会，特朗普和李在明将在峰会上讨论贸易和联盟现代化问题。",
@@ -281,9 +338,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "特朗普矛头再指鲍威尔 要求美联储降息",
+          "url": "https://flash.jin10.com/detail/20251029135119256800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "英伟达股价在ALT交易所上涨8.5%，此前特朗普在讲话中谈及Blackwell芯片。",
@@ -314,9 +382,53 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "特朗普：与韩国的关系只会愈发牢固。",
+          "url": "https://wallstreetcn.com/livenews/2995628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "韩国股市维持涨势，此前特朗普称美国与韩国有着“特殊纽带”关系，对双边贸易协议持乐观态度",
+          "url": "https://wallstreetcn.com/livenews/2995627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "特朗普为何抨击美航母电磁弹射技术",
+          "url": "https://www.toutiao.com/trending/7566463348447907366/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "特朗普抵韩 落地后专属BGM响起",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E9%9F%A9+%E8%90%BD%E5%9C%B0%E5%90%8E%E4%B8%93%E5%B1%9EBGM%E5%93%8D%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "韩国总统办公室：美国总统特朗普将讨论贸易、投资等问题。",
@@ -328,12 +440,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
+        },
+        {
+          "title": "特朗普或和李在明主谈关税问题",
+          "url": "https://www.toutiao.com/trending/7565869575464550406/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
@@ -345,6 +468,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时56分 ~ 08时57分]"
+        },
+        {
+          "title": "金价暴涨暴跌后 有央行开始考虑卖黄金了……",
+          "url": "https://www.cls.cn/detail/2184251",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 14时19分]"
         },
         {
           "title": "金价跌破3900美元 未来会是什么走势",
@@ -369,15 +504,15 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
-          "title": "金价暴涨暴跌后 有央行开始考虑卖黄金了……",
-          "url": "https://www.cls.cn/detail/2184251",
-          "source": "财联社热门",
+          "title": "现货黄金跌破 3900 美元，6 个交易日累计跌超 10％，黄金是否还具备投资价值？未来金价走势如何？",
+          "url": "https://www.zhihu.com/question/1966579524385903459",
+          "source": "知乎",
           "ranks": [
-            9
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时18分"
+          "time_info": "14时19分"
         },
         {
           "title": "金十图示：2025年10月29日（周三）上海金早盘价为906.41元/克，较国际金价(905.97元/克)，高0.44元/克",
@@ -404,8 +539,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 12时18分]"
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 14时19分]"
         },
         {
           "title": "美股三大股指续创新高 英伟达涨近5%",
@@ -453,11 +588,12 @@
           "url": "https://wallstreetcn.com/articles/3758104",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 12时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 14时19分]"
         }
       ]
     }
