@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T08:54:30.771930+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-11-04T11:07:06.640576+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时07分]"
         },
         {
           "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
           "url": "https://www.cls.cn/detail/2190068",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时07分]"
+        },
+        {
+          "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时07分]"
         },
         {
           "title": "文件显示，美国总统特朗普政府要求美国法院驳回达美航空和墨西哥航空推迟终止合资企业的请求。",
@@ -35,17 +48,6 @@
           "source": "金十数据",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -98,8 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时07分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -109,19 +111,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时07分]"
         },
         {
           "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
           "url": "https://www.cls.cn/detail/2189932",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时07分]"
         },
         {
           "title": "韩国券商在中断一年多后恢复美股日间交易服务",
@@ -138,18 +141,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
           "url": "https://wallstreetcn.com/articles/3758580",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时07分]"
+        },
+        {
+          "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
+          "url": "https://www.cls.cn/detail/2190043",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
         },
         {
           "title": "OpenAI据悉曾在解雇奥特曼后讨论与Anthropic合并",
@@ -165,6 +180,51 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
+          "url": "https://www.cls.cn/detail/2190136",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
+        },
+        {
+          "title": "美元指数DXY一度升破100整数关口，创三个月新高，隔夜ISM数据显示美国制造业活动连续第八个月萎缩，但12月降息前景仍迷雾重重，米兰力推降息的同时，古尔斯比、库克继续表达谨慎……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251104103250106800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价还会继续下跌吗",
+          "url": "https://www.toutiao.com/trending/7568642954525412910/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 11时07分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -176,8 +236,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时07分]"
         }
       ]
     }
