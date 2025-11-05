@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T16:18:40.995479+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2025-11-05T18:14:33.134922+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 16时18分]"
+          "appearance_count": 7,
+          "time_info": "[08时57分 ~ 18时14分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -120,7 +120,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -178,12 +178,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
+        },
+        {
+          "title": "美股盘前，超微电脑跌约9%，公司第一财季净销售额不及预期。 诺和诺德涨约2%，公司此前公布了三季度财报。",
+          "url": "https://wallstreetcn.com/livenews/2999794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
@@ -194,8 +205,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 16时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 18时14分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -214,11 +225,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 16时18分]"
+          "appearance_count": 7,
+          "time_info": "[08时57分 ~ 18时14分]"
+        },
+        {
+          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
+          "url": "https://wallstreetcn.com/articles/3758705",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 18时14分]"
         },
         {
           "title": "美国前财长称特朗普动用紧急权力课关税的做法“有毛病”",
@@ -233,15 +257,15 @@
           "time_info": "[11时08分 ~ 12时16分]"
         },
         {
-          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
-          "url": "https://wallstreetcn.com/articles/3758705",
-          "source": "华尔街见闻",
+          "title": "白宫降半旗悼念切尼 特朗普沉默",
+          "url": "https://www.toutiao.com/trending/7568870591252906035/",
+          "source": "今日头条",
           "ranks": [
-            7
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "18时14分"
         },
         {
           "title": "特朗普将于当地时间上午8:30在与共和党参议员的早餐会上发表讲话。",
@@ -294,7 +318,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         }
@@ -377,6 +401,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "美元走强金价又跌了",
+          "url": "https://www.douyin.com/hot/2295060",
+          "source": "抖音",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 18时14分]"
+        },
+        {
           "title": "金十图示：2025年11月05日（周三）上海金早盘价为904.68元/克，较国际金价(903.54元/克)，高1.14元/克",
           "url": "https://flash.jin10.com/detail/20251105101740650800",
           "source": "金十数据",
@@ -397,17 +433,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数突破100大关，为8月1日来首次",
+          "url": "https://wallstreetcn.com/articles/3758608",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
-          "title": "美元走强金价又跌了",
-          "url": "https://www.douyin.com/hot/2295060",
-          "source": "抖音",
+          "title": "汇市风向骤变！美元指数攻克100大关 有“大动静”正在酝酿？",
+          "url": "https://www.cls.cn/detail/2191412",
+          "source": "财联社热门",
           "ranks": [
-            30
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "18时14分"
         }
       ]
     },
@@ -426,23 +479,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时57分 ~ 16时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数突破100大关，为8月1日来首次",
-          "url": "https://wallstreetcn.com/articles/3758608",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
         }
       ]
     }
