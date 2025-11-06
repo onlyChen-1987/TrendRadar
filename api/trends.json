@@ -1,663 +1,187 @@
 {
-  "generated_at": "2025-11-05T22:12:56.260671+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2025-11-06T08:54:39.421561+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 16,
       "titles": [
         {
-          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
-          "source": "澎湃新闻",
+          "title": "涉及特朗普，BBC被曝严重造假！",
+          "url": "https://news.ifeng.com/c/8o2gk5AC6pP",
+          "source": "凤凰网",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时07分 ~ 22时12分]"
-        },
-        {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时57分 ~ 20时23分]"
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
           "url": "https://wallstreetcn.com/articles/3758705",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            5,
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时18分 ~ 22时12分]"
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
-          "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
-          "url": "https://news.ifeng.com/c/8o11vuaIumr",
+          "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
+          "url": "https://news.ifeng.com/c/8o2w70KHTf3",
           "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时07分 ~ 12时16分]"
-        },
-        {
-          "title": "金十提示：美国总统特朗普讲话结束。",
-          "url": "https://flash.jin10.com/detail/20251105214516365800",
-          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "08时54分"
         },
         {
-          "title": "美国总统特朗普告诉共和党人，不废除冗长辩论是一种错误。",
-          "url": "https://flash.jin10.com/detail/20251105214115505800",
-          "source": "金十数据",
+          "title": "为结束政府“停摆”美国会民主党领袖呼吁特朗普开始会谈",
+          "url": "https://news.ifeng.com/c/8o36aXsrNEC",
+          "source": "凤凰网",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "08时54分"
         },
         {
-          "title": "奥巴马为何高调对特朗普发难",
-          "url": "https://www.toutiao.com/trending/7569156347464257074/",
-          "source": "今日头条",
+          "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
+          "url": "https://wallstreetcn.com/articles/3758695",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
+          "url": "https://news.ifeng.com/c/8o2qbh848kJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3758755",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
+          "url": "https://www.cls.cn/detail/2192410",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "全球瞩目！美国最高法院将审理特朗普关税案",
+          "url": "https://www.cls.cn/detail/2192187",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
-          "title": "美国前财长称特朗普动用紧急权力课关税的做法“有毛病”",
-          "url": "https://wallstreetcn.com/livenews/2999566",
-          "source": "华尔街见闻-快讯",
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            30
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 12时16分]"
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
-          "title": "美国总统特朗普：如果我们废除冗长辩论，（民主党）将不可能击败共和党。",
-          "url": "https://flash.jin10.com/detail/20251105213906721800",
+          "title": "美国白宫：特朗普将于周四上午11点（北京时间周周五零点）发表声明。",
+          "url": "https://flash.jin10.com/detail/20251106080755974800",
           "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "特朗普告诫共和党人：不终止冗长辩论规则是错误之举。",
-          "url": "https://wallstreetcn.com/livenews/2999939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "美国总统特朗普：（就政府停摆和结束冗长辩论表示态）我们今晚就应该开始通过法案。",
-          "url": "https://flash.jin10.com/detail/20251105213223111800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及政府停摆）这是选举中的一个重要因素。 政府停摆影响股市。 股市在过去9个月里屡创新高。 股市将创下更多纪录高位。",
-          "url": "https://wallstreetcn.com/livenews/2999930",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "白宫降半旗悼念切尼 特朗普沉默",
-          "url": "https://www.toutiao.com/trending/7568870591252906035/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "08时54分"
         },
         {
-          "title": "特朗普将于当地时间上午8:30在与共和党参议员的早餐会上发表讲话。",
-          "url": "https://flash.jin10.com/detail/20251105100328874800",
+          "title": "特朗普表示关税案件进展顺利",
+          "url": "https://flash.jin10.com/detail/20251106075051703800",
           "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
-          "title": "美国总统特朗普：股市将再创新高。",
-          "url": "https://flash.jin10.com/detail/20251105212945547800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "美国前财长批评特朗普滥用紧急权力征收关税",
-          "url": "https://flash.jin10.com/detail/20251105100305577800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
-          "title": "美国总统特朗普：需尽快让政府重新开放，（政府停摆）影响到食品券福利、航空公司和股市。",
-          "url": "https://flash.jin10.com/detail/20251105212937957800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "美国总统特朗普：过去9个月，股市已创下多项历史新高。",
-          "url": "https://flash.jin10.com/detail/20251105212922864800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "被问及是否计划袭击委内瑞拉，特朗普嘲讽记者：就算有，我能告诉你？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31879523",
-          "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "08时54分"
         },
         {
-          "title": "美国总统特朗普：政府停摆正影响股市。",
-          "url": "https://flash.jin10.com/detail/20251105212912581800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "如何看待 34 岁马姆达尼成纽约首位千禧一代市长？特朗普曾多次抨击他，他的当选会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1969362121386100394",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "美国总统特朗普：昨晚（地方选举）预计不会是一场胜利，（那是）非常民主党的地区。",
-          "url": "https://flash.jin10.com/detail/20251105212900649800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及政府停摆）这是选举中的一个重要因素。",
-          "url": "https://flash.jin10.com/detail/20251105212614182800",
+          "title": "美国总统特朗普：我听说今天最高法院的审判进行得很顺利。",
+          "url": "https://flash.jin10.com/detail/20251106073030897800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "08时54分"
         },
         {
-          "title": "金十提示： 美国总统特朗普在与共和党参议员的早餐会上发表讲话。",
-          "url": "https://flash.jin10.com/detail/20251105212549514800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "美国总统特朗普：一年前，我取得了那场美丽的大胜利。",
-          "url": "https://flash.jin10.com/detail/20251105212541607800",
+          "title": "美国总统特朗普：（谈最高法院关税听证会）如果我们输掉那起案件，将是一场灾难。",
+          "url": "https://flash.jin10.com/detail/20251106073002297800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 25,
-      "titles": [
-        {
-          "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
-          "url": "https://wallstreetcn.com/articles/3758628",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时57分 ~ 22时12分]"
+          "time_info": "08时54分"
         },
         {
-          "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2191216",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时57分 ~ 14时19分]"
-        },
-        {
-          "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
-          "url": "https://www.zhihu.com/question/1969182296755122552",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 16时18分]"
-        },
-        {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 16时18分]"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-11-05）",
-          "url": "https://flash.jin10.com/detail/20251105214658539800",
+          "title": "美国总统特朗普：（谈政府停摆）我们应该共同致力于医疗保健事业。",
+          "url": "https://flash.jin10.com/detail/20251106072743188800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "麦当劳第三季度营收70.8亿美元，预估71亿美元。 第三季度调整后每股收益3.22美元，预估3.32美元。 第三季度每股收益3.18美元，上年同期3.13美元。 麦当劳美股盘前跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2999898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时23分"
+          "time_info": "08时54分"
         },
         {
-          "title": "金十提示：美股和日韩股市暴跌前，高盛和摩根士丹利多个高管发出高达15%的回调空间警告。",
-          "url": "https://flash.jin10.com/detail/20251105085206088800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "美股股指期货走低，纳指期货跌0.62%，标普500指数期货跌0.4%，道指期货微跌0.08%。",
-          "url": "https://flash.jin10.com/detail/20251105084922100800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "美股三大股指期货相继翻红，此前特朗普表示过去9个月股市已屡创新高，并称股市将再创新高。",
-          "url": "https://flash.jin10.com/detail/20251105214101108800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2999941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2191076",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时57分 ~ 11时08分]"
-        },
-        {
-          "title": "估值担忧波及亚洲市场，日韩股市大跌超4%，美股期货延续跌势，比特币跌破99000美元",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 11时08分]"
-        },
-        {
-          "title": "不惧美股大跌 A股要冲击4000点了吗",
-          "url": "https://www.toutiao.com/trending/7569156241373531654/",
+          "title": "民主党呼吁特朗普会谈结束政府停摆",
+          "url": "https://www.toutiao.com/trending/7569362062070825002/",
           "source": "今日头条",
           "ranks": [
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
-        },
-        {
-          "title": "美联储内部分歧引发年内降息前景疑虑，美元走强致现货黄金一度跌破3920美元关口；隔夜美股大跌，投资者怀疑高估值与市场集中度过窄会否终结本轮牛市行情，当前美股纳指、标普500指数卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251105103351647800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
-          "title": "美股三大股指期货均转涨，此前特朗普称股市在过去9个月里屡创新高，股市将创下更多纪录高位。",
-          "url": "https://wallstreetcn.com/livenews/2999938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "美股散户“黑色星期二”有多惨",
-          "url": "https://www.toutiao.com/trending/7569095245124603438/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "高盛、大摩CEO齐发预警：美股估值太高了，可能出现至少10%回调！",
-          "url": "https://wallstreetcn.com/articles/3758633",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "财报公布后，麦当劳(MCD.N)美股盘前下挫，现跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251105200302694800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
-        {
-          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
-          "url": "https://wallstreetcn.com/articles/3758685",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "金十整理：美股“一夜变天”，华尔街对美股未来走势争论不休",
-          "url": "https://flash.jin10.com/detail/20251105113353093800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "美股收盘：百度涨超3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "美股大跌都怪Palantir？CNBC名嘴：华尔街的眼光太狭隘",
-          "url": "https://flash.jin10.com/detail/20251105095353867800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
-          "title": "凯投宏观：亚洲股市回调是对美股下跌的直接反映 对后续抛售加剧存疑",
-          "url": "https://flash.jin10.com/detail/20251105111647625800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        },
-        {
-          "title": "美股盘前，超微电脑跌约9%，公司第一财季净销售额不及预期。 诺和诺德涨约2%，公司此前公布了三季度财报。",
-          "url": "https://wallstreetcn.com/livenews/2999794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "麦当劳第三季度营收70.8亿美元，预估71亿美元。 第三季度调整后每股收益3.22美元，预估3.32美元。 第三季度每股收益3.18美元，上年同期3.13美元。 麦当劳仍然预测全年资本支出30亿美元至32亿美元，市场预估30.6亿美元。 麦当劳美股盘前跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2999898",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "软银与OpenAI于11月5日成立合资公司。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2999672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
-          "url": "https://www.zhihu.com/question/1968690991750967598",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时07分 ~ 12时16分]"
-        },
-        {
-          "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
-          "url": "https://www.zhihu.com/question/1968690991750967598",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "软银：预计与OpenAI的合资企业将在日本独家推广Crystal Intelligence，计划于2026年上市。",
-          "url": "https://flash.jin10.com/detail/20251105140720098800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "软银：和OpenAI共同推出合资企业“SB OAI Japan”。",
-          "url": "https://flash.jin10.com/detail/20251105140621043800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/2999584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "time_info": "08时54分"
         }
       ]
     },
@@ -666,140 +190,82 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "美元走强金价又跌了",
-          "url": "https://www.douyin.com/hot/2295060",
-          "source": "抖音",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 18时14分]"
-        },
-        {
-          "title": "金十图示：2025年11月05日（周三）上海金早盘价为904.68元/克，较国际金价(903.54元/克)，高1.14元/克",
-          "url": "https://flash.jin10.com/detail/20251105101740650800",
+          "title": "中信证券：金价仍将上行",
+          "url": "https://flash.jin10.com/detail/20251106081622630800",
           "source": "金十数据",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时08分"
+          "time_info": "08时54分"
         },
         {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26pos%3D20%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D21%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26lcate%3D5001%26flag%3D2%26realpos%3D21%26display_time%3D1762304211%26pre_seqid%3D17623042118460258082295&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "中信证券：展望明年，预计金价主线仍是上行",
+          "url": "https://wallstreetcn.com/livenews/3000181",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "08时54分"
+        },
+        {
+          "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/1968706446079299701",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 3,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美元指数突破100大关，为8月1日来首次",
-          "url": "https://wallstreetcn.com/articles/3758608",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "汇市风向骤变！美元指数攻克100大关 有“大动静”正在酝酿？",
-          "url": "https://www.cls.cn/detail/2191412",
+          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
+          "url": "https://www.cls.cn/detail/2192424",
           "source": "财联社热门",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "08时54分"
         },
         {
-          "title": "美国ADP数据公布后，美元指数短线小幅拉升，现货黄金短线走低约5美元",
-          "url": "https://wallstreetcn.com/livenews/2999928",
-          "source": "华尔街见闻-快讯",
+          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
+          "url": "https://wallstreetcn.com/articles/3758685",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "08时54分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科技股估值担忧冲击，全球股市抛售延续，避险情绪提振美债、黄金，比特币大跌后企稳",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
-        },
-        {
-          "title": "美股三大股指期货转涨，股市有望刷记录高位，避险情绪提振美债、黄金，比特币大跌后企稳",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
-          "url": "https://www.cls.cn/detail/2191270",
-          "source": "财联社热门",
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            12
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 16时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "王毅同伊朗外长阿拉格齐通电话",
-          "url": "https://wallstreetcn.com/livenews/2999940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "08时54分"
         }
       ]
     }
