@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T14:20:20.435222+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2025-11-07T16:17:39.322744+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
@@ -20,6 +20,18 @@
           "time_info": "[08时54分 ~ 14时20分]"
         },
         {
+          "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
+          "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时05分 ~ 16时17分]"
+        },
+        {
           "title": "特朗普：佩洛西退休对美国是大好事",
           "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
           "source": "凤凰网",
@@ -29,6 +41,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
+          "url": "https://www.cls.cn/detail/2193664",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时05分 ~ 16时17分]"
+        },
+        {
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时05分 ~ 16时17分]"
         },
         {
           "title": "特朗普政府签署行政令，敲定从周五开始削减4%的航班，并将于11月14日削减至10%。",
@@ -42,15 +80,15 @@
           "time_info": "08时54分"
         },
         {
-          "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
-          "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
           "source": "凤凰网",
           "ranks": [
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 14时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "美国总统特朗普：中亚五国中的一些国家将加入《亚伯拉罕协议》。",
@@ -70,7 +108,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -86,6 +124,17 @@
           "time_info": "11时06分"
         },
         {
+          "title": "特朗普官宣降价减肥药企高管当场晕倒",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%98%E5%AE%A3%E9%99%8D%E4%BB%B7%E5%87%8F%E8%82%A5%E8%8D%AF%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BD%93%E5%9C%BA%E6%99%95%E5%80%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26realpos%3D5%26band_rank%3D5%26c_type%3D31%26flag%3D1%26pos%3D5%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AE%2598%25E5%25AE%25A3%25E9%2599%258D%25E4%25BB%25B7%25E5%2587%258F%25E8%2582%25A5%25E8%258D%25AF%25E4%25BC%2581%25E9%25AB%2598%25E7%25AE%25A1%25E5%25BD%2593%25E5%259C%25BA%25E6%2599%2595%25E5%2580%2592%2523%26lcate%3D5001%26display_time%3D1762503323%26pre_seqid%3D17625033232610162029749&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "美脱口秀节目就政府停摆整活特朗普",
           "url": "https://www.toutiao.com/trending/7568727581982474303/",
           "source": "今日头条",
@@ -93,30 +142,6 @@
             27,
             9,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 14时20分]"
-        },
-        {
-          "title": "特朗普：美国人正为关税付出代价",
-          "url": "https://www.toutiao.com/trending/7569021464603901971/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 14时20分]"
-        },
-        {
-          "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
-          "url": "https://www.cls.cn/detail/2193664",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -158,13 +183,36 @@
           "time_info": "[12时15分 ~ 12时16分]"
         },
         {
+          "title": "特朗普痛骂佩洛西是“邪恶女人”",
+          "url": "https://www.toutiao.com/trending/7569040586016620587/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 16时17分]"
+        },
+        {
+          "title": "关税案开审，特朗普：美国人确实付出代价",
+          "url": "https://news.ifeng.com/c/8o5JSiZK3J5",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "特朗普官宣降价后药企高管当场晕倒",
           "url": "https://www.toutiao.com/trending/7569788096678608905/",
           "source": "今日头条",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -178,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "特朗普就美高院激辩关税表态",
+          "url": "https://www.toutiao.com/trending/7569800305303359018/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "美国总统特朗普：还有许多国家正试图加入《亚伯拉罕协议》。",
@@ -235,17 +294,6 @@
           "time_info": "08时54分"
         },
         {
-          "title": "特朗普痛骂佩洛西是“邪恶女人”",
-          "url": "https://www.toutiao.com/trending/7569040586016620587/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "特朗普：乌兹别克斯坦将采购和投资近350亿美元，乌兹别克斯坦将投资于美国的基础设施、农业、能源。",
           "url": "https://wallstreetcn.com/livenews/3000890",
           "source": "华尔街见闻-快讯",
@@ -266,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        },
+        {
+          "title": "特朗普称已与中俄领导人讨论无核化，外交部：中国核力量与美俄完全不在一个量级",
+          "url": "https://wallstreetcn.com/livenews/3001047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "美国总统特朗普：美国与乌兹别克斯坦达成贸易和经济协议。",
@@ -299,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "特朗普称计划应莫迪邀请到访印度 访问时间可能定在明年",
+          "url": "https://wallstreetcn.com/livenews/3001040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     },
@@ -319,6 +389,18 @@
           "time_info": "[08时54分 ~ 14时20分]"
         },
         {
+          "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
+          "url": "https://wallstreetcn.com/articles/3758813",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 16时17分]"
+        },
+        {
           "title": "小摩：美股牛市格局未改，标普500指数近期料突破7000点",
           "url": "https://flash.jin10.com/detail/20251107114842148800",
           "source": "金十数据",
@@ -328,18 +410,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
-        },
-        {
-          "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
-          "url": "https://wallstreetcn.com/articles/3758813",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时54分 ~ 14时20分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -411,8 +481,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 14时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时05分 ~ 16时17分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -421,11 +491,12 @@
           "ranks": [
             9,
             8,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 14时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时05分 ~ 16时17分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -453,11 +524,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时54分 ~ 14时20分]"
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 16时17分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -507,8 +579,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时54分 ~ 14时20分]"
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 16时17分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -529,7 +601,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
@@ -547,8 +619,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时54分 ~ 14时20分]"
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 16时17分]"
         }
       ]
     }
