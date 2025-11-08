@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T20:21:17.815125+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2025-11-08T22:12:28.897003+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
@@ -31,15 +31,16 @@
           "time_info": "08时50分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
-          "url": "https://flash.jin10.com/detail/20251108183318165800",
-          "source": "金十数据",
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
           "ranks": [
-            3
+            5,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 22时12分]"
         },
         {
           "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
@@ -56,16 +57,29 @@
           "time_info": "[08时50分 ~ 16时14分]"
         },
         {
-          "title": "南非政府发表声明驳斥特朗普言论",
-          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
+          "url": "https://flash.jin10.com/detail/20251108183318165800",
+          "source": "金十数据",
           "ranks": [
-            5,
+            3,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时11分 ~ 20时21分]"
+          "time_info": "[20时21分 ~ 22时12分]"
+        },
+        {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 22时12分]"
         },
         {
           "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
@@ -81,19 +95,6 @@
           "time_info": "[10时58分 ~ 14时17分]"
         },
         {
-          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
-          "url": "https://wallstreetcn.com/articles/3758942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 20时21分]"
-        },
-        {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
           "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
           "source": "澎湃新闻",
@@ -105,6 +106,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时50分 ~ 12时14分]"
+        },
+        {
+          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
+          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 22时12分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -189,17 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时58分 ~ 12时14分]"
-        },
-        {
-          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
-          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
         },
         {
           "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
@@ -294,8 +295,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时50分 ~ 20时21分]"
+          "appearance_count": 8,
+          "time_info": "[08时50分 ~ 22时12分]"
         },
         {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
@@ -405,7 +406,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -480,11 +481,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 20时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 22时12分]"
         }
       ]
     },
@@ -516,11 +518,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 20时21分]"
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 22时12分]"
         }
       ]
     }
