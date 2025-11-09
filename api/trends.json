@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T20:20:26.502504+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2025-11-09T22:10:55.399611+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时15分 ~ 20时20分]"
+          "appearance_count": 9,
+          "time_info": "[12时15分 ~ 22时10分]"
         },
         {
           "title": "拜登狠批特朗普",
@@ -60,15 +60,27 @@
           "time_info": "[16时15分 ~ 20时20分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
-          "url": "https://flash.jin10.com/detail/20251109183325380800",
+          "title": "“特朗普外交政策，万变不离中国”",
+          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 22时10分]"
+        },
+        {
+          "title": "特朗普炮轰美最高法院 为自己的关税政策激烈辩护",
+          "url": "https://flash.jin10.com/detail/20251109213351299800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "22时10分"
         },
         {
           "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
@@ -92,29 +104,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时22分 ~ 16时16分]"
-        },
-        {
-          "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
-          "url": "https://flash.jin10.com/detail/20251109181932753800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "“特朗普外交政策，万变不离中国”",
-          "url": "https://news.ifeng.com/c/8o8e3UWF1zn",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 20时20分]"
         },
         {
           "title": "拜登狠批特朗普：让国家蒙羞",
@@ -152,16 +141,41 @@
           "time_info": "[14时22分 ~ 16时16分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-09）",
+          "url": "https://flash.jin10.com/detail/20251109183325380800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 22时10分]"
+        },
+        {
           "title": "叙利亚领导人沙拉抵美开启访问，将前往白宫会见特朗普",
           "url": "https://wallstreetcn.com/livenews/3001663",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            18
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 22时10分]"
+        },
+        {
+          "title": "特朗普疑似在新闻发布会上“打盹”的画面引发热议",
+          "url": "https://flash.jin10.com/detail/20251109181932753800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时12分 ~ 20时20分]"
+          "time_info": "[20时20分 ~ 22时10分]"
         },
         {
           "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
@@ -196,6 +210,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "特朗普：反对关税的人是“蠢材”！美国现在是世界上最富有的国家",
+          "url": "https://flash.jin10.com/detail/20251109203040228800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "美国总统特朗普：奥巴马医改“糟透了”，这是价格最高但质量最差的医疗体系。",
+          "url": "https://flash.jin10.com/detail/20251109201626112800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "特朗普：共和党人应废除冗长辩论程序 让政府停摆结束",
+          "url": "https://flash.jin10.com/detail/20251109201217511800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
         },
         {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
@@ -338,8 +385,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 20时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 22时10分]"
         },
         {
           "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
@@ -367,8 +414,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 20时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 22时10分]"
         }
       ]
     },
