@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T18:14:25.650746+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2025-11-12T20:23:57.776244+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
@@ -37,6 +37,17 @@
           "time_info": "[08时55分 ~ 18时14分]"
         },
         {
+          "title": "英国自由民主党领袖Davey：特朗普正试图摧毁BBC。",
+          "url": "https://wallstreetcn.com/livenews/3003428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美最高法院：特朗普政府可继续暂扣食品援助金",
           "url": "https://wallstreetcn.com/livenews/3003054",
           "source": "华尔街见闻-快讯",
@@ -54,7 +65,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -115,6 +126,18 @@
           "time_info": "[11时07分 ~ 12时16分]"
         },
         {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 20时23分]"
+        },
+        {
           "title": "特朗普宣称美国不再资助乌克兰",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%86%8D%E8%B5%84%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0",
           "source": "百度热搜",
@@ -137,17 +160,6 @@
           "time_info": "08时55分"
         },
         {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
           "title": "特朗普：将降低部分咖啡关税。",
           "url": "https://wallstreetcn.com/livenews/3003047",
           "source": "华尔街见闻-快讯",
@@ -157,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "特朗普将于11月13日签署“培育未来”行政令。",
+          "url": "https://wallstreetcn.com/livenews/3003417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "特朗普将于美国东部时间周三晚上7:30举行私人晚宴。",
@@ -256,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "特朗普将于11月13日签署“培育未来”行政令。",
+          "url": "https://flash.jin10.com/detail/20251112200610797800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "特朗普将于美国东部时间周三晚上7:30（北京时间周四早晨8:30）举行私人晚宴。",
@@ -379,7 +413,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -402,11 +436,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 20时23分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -423,7 +458,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价",
@@ -444,9 +479,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
+        },
+        {
+          "title": "第一批金价下跌卖出的人后悔了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%96%E5%87%BA%E7%9A%84%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D21%26c_type%3D31%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26flag%3D2%26pos%3D22%26band_rank%3D21%26lcate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%258D%2596%25E5%2587%25BA%25E7%259A%2584%25E4%25BA%25BA%25E5%2590%258E%25E6%2582%2594%25E4%25BA%2586%2523%26display_time%3D1762950045%26pre_seqid%3D17629500452320113590535&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "金十图示：2025年11月12日（周三）上海金早盘价为947.47元/克，较国际金价(944.4元/克)，高3.07元/克",
@@ -474,8 +520,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时55分 ~ 18时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时55分 ~ 20时23分]"
         },
         {
           "title": "机构：10年期美债收益率近期或升至4.50%",
@@ -513,7 +559,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
