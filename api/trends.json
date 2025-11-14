@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T20:23:48.976819+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2025-11-14T22:12:40.357378+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时16分 ~ 20时23分]"
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 22时12分]"
         },
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
@@ -170,7 +170,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
@@ -183,6 +183,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时54分 ~ 14时19分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3004914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2201293",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "美股大跌 特斯拉跌超6%",
@@ -209,15 +231,48 @@
           "time_info": "08时54分"
         },
         {
+          "title": "黄金矿业股美股盘前下跌。金罗斯黄金(KGC.N)跌4.6%，金田(GFI.N)跌3.8%，哈莫尼黄金(HMY.N)跌4.2%。",
+          "url": "https://flash.jin10.com/detail/20251114213532187800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
+          "url": "https://wallstreetcn.com/articles/3759375",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "美股抛售加剧 企业盈利乐观与AI泡沫担忧形成对冲",
           "url": "https://flash.jin10.com/detail/20251114200402077800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1972596571733497781",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "美股为何大跌",
@@ -237,9 +292,81 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "谷歌宣布调整服务回应欧盟反垄断处罚",
+          "url": "https://wallstreetcn.com/livenews/3004912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "市场消息：Alphabet旗下谷歌（GOOGL.O）表示愿意调整其广告技术（Adtech）业务政策，以遵守欧盟的反垄断命令。谷歌拒绝出售其部分广告技术业务，称拆分将对出版商和广告商造成干扰。",
+          "url": "https://flash.jin10.com/detail/20251114140157691800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "谷歌(GOOG.O)计划对欧盟委员会关于广告技术的裁决提出上诉，并表示不认同该决定。",
+          "url": "https://flash.jin10.com/detail/20251114173151372800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "谷歌计划对欧盟委员会关于广告技术的裁决提出上诉，并表示不认同该决定。",
+          "url": "https://wallstreetcn.com/livenews/3004778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩",
+          "url": "https://wallstreetcn.com/livenews/3004901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "美股三大股指期货持续走低，纳斯达克100指数期货跌幅扩大至1.5%，标普500指数期货跌至1%。英伟达盘前跌3.3%，谷歌跌2.7%，博通跌2.5%，台积电跌3.4%，特斯拉跌5%。现货黄金回落至4110美元/盎司下方，日内跌约1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3004877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
@@ -289,55 +416,27 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "伊朗",
       "match_count": 3,
       "titles": [
         {
-          "title": "市场消息：Alphabet旗下谷歌（GOOGL.O）表示愿意调整其广告技术（Adtech）业务政策，以遵守欧盟的反垄断命令。谷歌拒绝出售其部分广告技术业务，称拆分将对出版商和广告商造成干扰。",
-          "url": "https://flash.jin10.com/detail/20251114140157691800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "谷歌(GOOG.O)计划对欧盟委员会关于广告技术的裁决提出上诉，并表示不认同该决定。",
-          "url": "https://flash.jin10.com/detail/20251114173151372800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "谷歌计划对欧盟委员会关于广告技术的裁决提出上诉，并表示不认同该决定。",
-          "url": "https://wallstreetcn.com/livenews/3004778",
+          "title": "伊朗海军扣押了一艘走私燃料的船只。（伊斯兰共和国通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3004910",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
+          "time_info": "22时12分"
+        },
         {
           "title": "伊拉克总理与伊朗总统通电话 讨论双边关系等问题",
           "url": "https://wallstreetcn.com/livenews/3004760",
@@ -356,9 +455,60 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26realpos%3D27%26stream_entry_id%3D31%26band_rank%3D27%26pos%3D27%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26flag%3D1%26display_time%3D1763129089%26pre_seqid%3D17631290890260330555447&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达盘前跌超3%，币圈连崩，黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3759354",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌破99，日内跌0.19%。 美元兑日元下跌0.5%至153.78。",
+          "url": "https://wallstreetcn.com/livenews/3004887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     }
