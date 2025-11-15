@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T16:14:33.198316+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2025-11-15T18:11:35.982675+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -19,15 +19,17 @@
           "time_info": "[08时52分 ~ 16时14分]"
         },
         {
-          "title": "特朗普称对委内瑞拉差不多下定决心",
-          "url": "https://flash.jin10.com/detail/20251115151858037800",
+          "title": "特朗普称将向BBC索赔10亿到50亿美元",
+          "url": "https://flash.jin10.com/detail/20251115132619706800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            11,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时16分 ~ 18时11分]"
         },
         {
           "title": "美媒爆：美能源部官员将赴白宫，劝阻特朗普重启核武器试验",
@@ -43,8 +45,8 @@
           "time_info": "[12时13分 ~ 16时14分]"
         },
         {
-          "title": "特朗普称将向BBC索赔10亿到50亿美元",
-          "url": "https://flash.jin10.com/detail/20251115132619706800",
+          "title": "特朗普称对委内瑞拉差不多下定决心",
+          "url": "https://flash.jin10.com/detail/20251115151858037800",
           "source": "金十数据",
           "ranks": [
             2,
@@ -52,7 +54,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时16分 ~ 16时14分]"
+          "time_info": "[16时14分 ~ 18时11分]"
         },
         {
           "title": "美国总统特朗普：我的律师表示，我们将起诉BBC，要求赔偿10亿美元或更多。我们可能会在美国起诉BBC。",
@@ -94,6 +96,54 @@
           "time_info": "[11时01分 ~ 14时16分]"
         },
         {
+          "title": "特朗普：对委内瑞拉“差不多下定决心”",
+          "url": "https://news.ifeng.com/c/8oIojUJad2R",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 18时11分]"
+        },
+        {
+          "title": "特朗普称对委内瑞拉“差不多下定决心”",
+          "url": "https://wallstreetcn.com/livenews/3005157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 18时11分]"
+        },
+        {
+          "title": "特朗普发图：歌剧魅影造型男子手持“TRUMP 2028”",
+          "url": "https://flash.jin10.com/detail/20251115141405832800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 18时11分]"
+        },
+        {
+          "title": "特朗普指示司法部调查与爱泼斯坦关联的民主党人",
+          "url": "https://wallstreetcn.com/livenews/3005151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 18时11分]"
+        },
+        {
           "title": "特朗普称美国将进行核试验 但拒绝透露相关细节",
           "url": "https://wallstreetcn.com/livenews/3005113",
           "source": "华尔街见闻-快讯",
@@ -106,37 +156,15 @@
           "time_info": "[11时01分 ~ 12时13分]"
         },
         {
-          "title": "特朗普：对委内瑞拉“差不多下定决心”",
-          "url": "https://news.ifeng.com/c/8oIojUJad2R",
-          "source": "凤凰网",
+          "title": "特朗普：给我查查克林顿",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BB%99%E6%88%91%E6%9F%A5%E6%9F%A5%E5%85%8B%E6%9E%97%E9%A1%BF",
+          "source": "百度热搜",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "特朗普称对委内瑞拉“差不多下定决心”",
-          "url": "https://wallstreetcn.com/livenews/3005157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "特朗普发图：歌剧魅影造型男子手持“TRUMP 2028”",
-          "url": "https://flash.jin10.com/detail/20251115141405832800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "18时11分"
         },
         {
           "title": "特朗普：食品关税豁免在美国没有竞争力。 咖啡价格很快就会走低。 将起诉BBC。 下周某个时候将起诉BBC，要求赔偿10 - 50亿美元。 将打电话给斯塔默，问BBC的事。 预计明年某个时候会有关税红利。 不关心爱泼斯坦的文件是否公开。 考虑向沙特阿拉伯出售战斗机。 希望沙特阿拉伯被纳入亚伯拉罕协议。",
@@ -161,17 +189,6 @@
           "time_info": "08时53分"
         },
         {
-          "title": "特朗普指示司法部调查与爱泼斯坦关联的民主党人",
-          "url": "https://wallstreetcn.com/livenews/3005151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
           "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
           "url": "https://flash.jin10.com/detail/20251115034601291800",
           "source": "金十数据",
@@ -181,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "特朗普抵制G20峰会 南非总统硬刚",
+          "url": "https://www.toutiao.com/trending/7572836123530739748/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "特朗普称美国将进行核试验",
@@ -217,11 +245,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 16时14分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 18时11分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -229,11 +258,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 16时14分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 18时11分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -241,11 +271,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 18时11分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -329,7 +360,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -340,8 +371,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 16时14分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 18时11分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -349,11 +380,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 18时11分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -363,11 +395,12 @@
             8,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 18时11分]"
         },
         {
           "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
@@ -381,6 +414,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时01分 ~ 14时16分]"
+        },
+        {
+          "title": "印度官员：谷歌预计将把印度数据中心项目投资金额提高至逾150亿美元",
+          "url": "https://flash.jin10.com/detail/20251115162742778800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
