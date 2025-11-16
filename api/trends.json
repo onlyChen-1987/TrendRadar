@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T20:20:12.237284+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2025-11-16T22:10:20.076526+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时58分 ~ 16时14分]"
+        },
+        {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时14分 ~ 22时10分]"
         },
         {
           "title": "特朗普：已对委内瑞拉问题作出决定",
@@ -58,19 +71,6 @@
           "time_info": "[12时18分 ~ 14时17分]"
         },
         {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时14分 ~ 20时20分]"
-        },
-        {
           "title": "10亿至50亿！特朗普开口了",
           "url": "https://news.ifeng.com/c/8oKTyan4q6j",
           "source": "凤凰网",
@@ -78,8 +78,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 20时20分]"
+          "appearance_count": 4,
+          "time_info": "[18时11分 ~ 22时10分]"
         },
         {
           "title": "据CNN：两名以色列消息人士称，特朗普政府正向以色列施压，要求其就拉法赫的哈马斯武装人员问题取得进展。",
@@ -124,7 +124,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -161,11 +161,12 @@
           "url": "https://wallstreetcn.com/livenews/3005334",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 22时10分]"
         },
         {
           "title": "伊朗外长：美国正在转变为基于武力的霸权主义",
@@ -233,11 +234,12 @@
           "url": "https://flash.jin10.com/detail/20251116184126885800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 22时10分]"
         },
         {
           "title": "伊朗外交部长阿拉奇：伊朗将始终准备好参与外交，但不会参与旨在强加条件的谈判。",
@@ -246,7 +248,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -257,7 +259,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -290,8 +292,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时58分 ~ 20时20分]"
+          "appearance_count": 9,
+          "time_info": "[08时58分 ~ 22时10分]"
         },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
@@ -349,8 +351,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时14分 ~ 20时20分]"
+          "appearance_count": 5,
+          "time_info": "[16时14分 ~ 22时10分]"
         }
       ]
     }
