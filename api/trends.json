@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-19T20:23:15.289618+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2025-11-19T22:12:25.001701+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 25,
       "titles": [
+        {
+          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
+          "url": "https://wallstreetcn.com/articles/3759659",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时06分 ~ 22时12分]"
+        },
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
           "url": "https://www.cls.cn/detail/2204401",
@@ -17,19 +31,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时54分 ~ 14时18分]"
-        },
-        {
-          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
-          "url": "https://wallstreetcn.com/articles/3759659",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时06分 ~ 20时23分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -43,8 +44,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时16分 ~ 20时23分]"
+          "appearance_count": 8,
+          "time_info": "[12时16分 ~ 22时12分]"
         },
         {
           "title": "特朗普怒怼ABC女记者",
@@ -114,6 +115,17 @@
           "time_info": "[16时17分 ~ 20时23分]"
         },
         {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时12分]"
+        },
+        {
           "title": "特朗普：已确定下一任美联储主席人选",
           "url": "https://www.cls.cn/detail/2204373",
           "source": "财联社热门",
@@ -126,17 +138,6 @@
           "time_info": "[08时54分 ~ 14时18分]"
         },
         {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 20时23分]"
-        },
-        {
           "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
           "url": "https://wallstreetcn.com/articles/3759658",
           "source": "华尔街见闻",
@@ -144,8 +145,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 20时23分]"
+          "appearance_count": 3,
+          "time_info": "[20时22分 ~ 22时12分]"
         },
         {
           "title": "特朗普与沙特王储握手露出尴尬表情",
@@ -187,7 +188,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -294,7 +295,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -307,8 +308,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时54分 ~ 20时23分]"
+          "appearance_count": 10,
+          "time_info": "[08时54分 ~ 22时12分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -321,8 +322,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时06分 ~ 20时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时06分 ~ 22时12分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -366,6 +367,20 @@
           "time_info": "[11时06分 ~ 16时17分]"
         },
         {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            21,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时17分 ~ 22时12分]"
+        },
+        {
           "title": "谷歌正式发布Gemini3",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
           "source": "bilibili 热搜",
@@ -377,6 +392,17 @@
           "time_info": "08时54分"
         },
         {
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1974260216498500253",
           "source": "知乎",
@@ -386,19 +412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时17分 ~ 20时23分]"
         }
       ]
     },
@@ -435,11 +448,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 20时23分]"
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时12分]"
         },
         {
           "title": "花旗将携程美股目标价由85美元上调至86美元，预计携程出境业务营收仍能维持中双位数增长。",
@@ -490,7 +504,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -501,8 +515,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时06分 ~ 20时23分]"
+          "appearance_count": 8,
+          "time_info": "[11时06分 ~ 22时12分]"
         },
         {
           "title": "在爱泼斯坦丑闻曝光后，拉里·萨默斯辞去了OpenAI董事会职务。",
@@ -511,7 +525,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         },
@@ -522,9 +536,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
+        },
+        {
+          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
+          "url": "https://wallstreetcn.com/livenews/3007227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
@@ -550,7 +575,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时23分"
         }
