@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-11-23T14:17:02.352314+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2025-11-23T16:15:20.046167+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 16时15分]"
+        },
         {
           "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
           "url": "https://m.thepaper.cn/newsDetail_forward_32021822",
@@ -31,28 +45,34 @@
           "time_info": "09时01分"
         },
         {
-          "title": "特朗普表示，那些煽动美军无视他命令的“叛徒”应该被关进监狱，而不是出现在假新闻上，试图为自己的行为辩解。",
-          "url": "https://flash.jin10.com/detail/20251123123342966800",
-          "source": "金十数据",
+          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009012",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
+            11,
+            16,
             17,
-            15
+            18,
+            26
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时20分 ~ 14时17分]"
+          "time_info": "[09时01分 ~ 16时15分]"
+        },
+        {
+          "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18,
+            19,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 16时15分]"
         },
         {
           "title": "特朗普暗示“28点”计划方案有调整空间",
@@ -60,11 +80,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 14时17分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 16时15分]"
         },
         {
           "title": "美国上诉法院驳回特朗普政府扩大快速驱逐移民的请求。",
@@ -79,6 +100,18 @@
           "time_info": "[09时01分 ~ 11时21分]"
         },
         {
+          "title": "特朗普表示，那些煽动美军无视他命令的“叛徒”应该被关进监狱，而不是出现在假新闻上，试图为自己的行为辩解。",
+          "url": "https://flash.jin10.com/detail/20251123123342966800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 16时15分]"
+        },
+        {
           "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
           "source": "澎湃新闻",
@@ -89,34 +122,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时01分 ~ 12时26分]"
-        },
-        {
-          "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3009012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 14时17分]"
-        },
-        {
-          "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3009010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 14时17分]"
         },
         {
           "title": "纽约市长在特朗普面前言论“大变脸”",
@@ -146,6 +151,28 @@
           "time_info": "[11时21分 ~ 14时17分]"
         },
         {
+          "title": "特朗普强硬逼迫 泽连斯基会逃亡吗",
+          "url": "https://www.toutiao.com/trending/7575790761845722667/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "特朗普：若泽连斯基不同意，可以继续拼死抵抗",
+          "url": "https://news.ifeng.com/c/8oVo9VsbeqC",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
           "url": "https://flash.jin10.com/detail/20251122223224197800",
           "source": "金十数据",
@@ -170,8 +197,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 14时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 16时15分]"
+        },
+        {
+          "title": "Gemini3适合用来编程吗",
+          "url": "https://www.douyin.com/hot/2314319",
+          "source": "抖音",
+          "ranks": [
+            17,
+            16,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 16时15分]"
         },
         {
           "title": "Gemini-3-pro 为什么提升那么大?",
@@ -182,19 +223,6 @@
             13,
             18,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 14时17分]"
-        },
-        {
-          "title": "Gemini3适合用来编程吗",
-          "url": "https://www.douyin.com/hot/2314319",
-          "source": "抖音",
-          "ranks": [
-            17,
-            16,
-            14
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -226,8 +254,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时01分 ~ 14时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 16时15分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
