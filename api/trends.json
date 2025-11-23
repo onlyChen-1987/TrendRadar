@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T09:01:38.431259+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-23T11:21:16.236535+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -23,33 +23,94 @@
           "url": "https://flash.jin10.com/detail/20251123082037157800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时21分]"
         },
         {
           "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时21分]"
+        },
+        {
+          "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32021822",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时21分]"
         },
         {
           "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3009012",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时21分]"
+        },
+        {
+          "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3009010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时21分]"
+        },
+        {
+          "title": "纽约市长在特朗普面前言论“大变脸”",
+          "url": "https://wallstreetcn.com/livenews/3009006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时21分]"
+        },
+        {
+          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
+          "title": "叫停战争、终结通胀、股市新高…特朗普将一切归功于关税",
+          "url": "https://flash.jin10.com/detail/20251123100826752800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "11时21分"
         },
         {
           "title": "德国总理默茨：昨晚与美国总统特朗普通话时，已明确表达了我对俄乌冲突的立场。",
@@ -57,39 +118,6 @@
           "source": "金十数据",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "欧洲称特朗普关于乌克兰的方案仍需”额外的工作”。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3009010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "特朗普警告泽连斯基：不喜欢美国方案也要接受，你手里没牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32021822",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "纽约市长在特朗普面前言论“大变脸”",
-          "url": "https://wallstreetcn.com/livenews/3009006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -109,8 +137,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时21分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -124,26 +152,28 @@
           "time_info": "09时01分"
         },
         {
-          "title": "Gemini3适合用来编程吗",
-          "url": "https://www.douyin.com/hot/2314319",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
           "title": "Gemini-3-pro 为什么提升那么大?",
           "url": "https://www.zhihu.com/question/1974915118199509365",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时21分]"
+        },
+        {
+          "title": "Gemini3适合用来编程吗",
+          "url": "https://www.douyin.com/hot/2314319",
+          "source": "抖音",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时21分]"
         }
       ]
     },
@@ -152,26 +182,16 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "“疫苗之王”科兴或从美股退市",
-          "url": "https://www.toutiao.com/trending/7575693927517261318/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
           "url": "https://wallstreetcn.com/articles/3759920",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时21分]"
         },
         {
           "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
@@ -179,6 +199,17 @@
           "source": "财联社热门",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时21分]"
+        },
+        {
+          "title": "“疫苗之王”科兴或从美股退市",
+          "url": "https://www.toutiao.com/trending/7575693927517261318/",
+          "source": "今日头条",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -191,22 +222,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "俄央行抛售黄金 金价会大跌吗",
+          "url": "https://www.toutiao.com/trending/7575692966363139638/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时21分]"
+        },
+        {
           "title": "澳新银行：金价回落但基本面稳固，白银表现仍亮眼",
           "url": "https://flash.jin10.com/detail/20251122223006926800",
           "source": "金十数据",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "俄央行抛售黄金 金价会大跌吗",
-          "url": "https://www.toutiao.com/trending/7575692966363139638/",
-          "source": "今日头条",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 1,
