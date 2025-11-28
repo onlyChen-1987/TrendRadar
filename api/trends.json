@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-28T16:17:46.498664+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2025-11-28T18:13:58.591089+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
           "url": "https://www.cls.cn/detail/2213724",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 18时13分]"
         },
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -24,11 +25,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 16时17分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 18时13分]"
         },
         {
           "title": "特朗普称美国已订购更多B-2隐形轰炸机",
@@ -67,6 +69,19 @@
           "time_info": "[08时52分 ~ 12时16分]"
         },
         {
+          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时05分 ~ 18时13分]"
+        },
+        {
           "title": "中方回应特朗普要求高市降低声调",
           "url": "https://www.douyin.com/hot/2319515",
           "source": "抖音",
@@ -86,18 +101,6 @@
           "ranks": [
             12,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时05分 ~ 14时19分]"
-        },
-        {
-          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -248,6 +251,17 @@
           "time_info": "14时19分"
         },
         {
+          "title": "特朗普能否影响高市改善中日关系",
+          "url": "https://www.toutiao.com/trending/7577703090468425243/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "特朗普：得益于关税收入，美国将在未来几年“大幅削减甚至可能完全取消”所得税。",
           "url": "https://wallstreetcn.com/livenews/3011707",
           "source": "华尔街见闻-快讯",
@@ -294,8 +308,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 16时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 18时13分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -303,11 +317,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 16时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 18时13分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -329,11 +344,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 16时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 18时13分]"
         },
         {
           "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
@@ -342,9 +358,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 18时13分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -356,6 +372,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
+        {
+          "title": "市场消息：谷歌撤回了针对微软(MSFT.O)云业务做法的欧盟反垄断投诉。",
+          "url": "https://flash.jin10.com/detail/20251128180023594800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "AI争霸下一战场？谷歌皮查伊：希望2027年前将TPU送上太空",
+          "url": "https://www.cls.cn/detail/2213699",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
+          "url": "https://wallstreetcn.com/livenews/3012094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         }
       ]
     },
@@ -410,19 +476,43 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 3,
       "titles": [
         {
-          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
-          "url": "https://www.cls.cn/detail/2213001",
-          "source": "财联社热门",
+          "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
+          "url": "https://wallstreetcn.com/articles/3760251",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 08时53分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 18时13分]"
+        },
+        {
+          "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",
+          "url": "https://flash.jin10.com/detail/20251128174843998800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "新一轮牛市已在路上？华尔街纷纷给美股定下高目标价",
+          "url": "https://www.cls.cn/detail/2213450",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         }
       ]
     },
@@ -441,24 +531,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时05分 ~ 12时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
-          "url": "https://wallstreetcn.com/articles/3760251",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 16时17分]"
         }
       ]
     }
