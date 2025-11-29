@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T14:17:09.124357+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2025-11-29T16:15:39.720250+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
@@ -196,8 +196,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时52分 ~ 14时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 16时15分]"
         },
         {
           "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
@@ -257,11 +257,12 @@
           "url": "https://www.cls.cn/detail/2214556",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时16分 ~ 14时17分]"
+          "appearance_count": 3,
+          "time_info": "[14时16分 ~ 16时15分]"
         },
         {
           "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
@@ -288,8 +289,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时16分 ~ 14时17分]"
+          "appearance_count": 3,
+          "time_info": "[14时16分 ~ 16时15分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -301,8 +302,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时05分 ~ 14时17分]"
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 16时15分]"
         }
       ]
     },
@@ -315,11 +316,12 @@
           "url": "https://www.douyin.com/hot/2321048",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时16分 ~ 14时17分]"
+          "appearance_count": 3,
+          "time_info": "[14时16分 ~ 16时15分]"
         },
         {
           "title": "金价",
