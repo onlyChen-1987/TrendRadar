@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T14:18:11.043727+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2025-11-30T16:15:01.292587+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
@@ -8,17 +8,30 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 16时15分]"
+        },
+        {
           "title": "特朗普称委内瑞拉空域应被视为关闭",
           "url": "https://wallstreetcn.com/livenews/3012482",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
             22,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时01分 ~ 14时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 16时15分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -31,17 +44,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时27分 ~ 14时18分]"
-        },
-        {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -166,11 +168,12 @@
             3,
             8,
             14,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 14时18分]"
+          "appearance_count": 8,
+          "time_info": "[09时00分 ~ 16时15分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -194,11 +197,12 @@
           "url": "https://news.ifeng.com/c/8ohK4NeU28p",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时18分]"
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 16时15分]"
         },
         {
           "title": "土耳其外交部：土耳其外交部长将于11月30日访问伊朗。",
@@ -212,6 +216,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 12时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
         }
       ]
     },
