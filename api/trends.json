@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T12:21:55.213656+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2025-12-03T14:20:05.593363+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 14时20分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -24,11 +24,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 14时20分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -40,8 +41,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 12时21分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时20分]"
+        },
+        {
+          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
+          "url": "https://www.cls.cn/detail/2217685",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时20分]"
         },
         {
           "title": "美国清空G20官网南非创建内容，将首页换上特朗普海报(图)",
@@ -64,19 +78,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
-        },
-        {
-          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
-          "url": "https://www.cls.cn/detail/2217685",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 12时21分]"
         },
         {
           "title": "特朗普宣布拜登时期文件全部作废",
@@ -152,7 +153,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
@@ -171,8 +172,20 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时20分]"
+        },
+        {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时55分 ~ 12时21分]"
+          "time_info": "[12时21分 ~ 14时20分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -184,17 +197,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
         },
         {
           "title": "谷歌的TPU要干掉英伟达吗",
@@ -222,8 +224,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 12时21分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时20分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -234,8 +236,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 12时21分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 14时20分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -291,7 +293,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -319,7 +321,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -330,7 +332,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
@@ -364,7 +366,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
