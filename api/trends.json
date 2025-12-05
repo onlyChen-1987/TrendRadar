@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T14:19:52.803248+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2025-12-05T16:17:45.909830+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
@@ -47,7 +47,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         },
@@ -87,11 +87,12 @@
             6,
             9,
             12,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 14时19分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 16时17分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
@@ -128,7 +129,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
         }
@@ -147,8 +148,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 14时19分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 16时17分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -159,8 +160,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 14时19分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 16时17分]"
         }
       ]
     },
@@ -173,11 +174,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 16时17分]"
         },
         {
           "title": "专访｜伊朗前副总统谈伊朗干旱：“破产”的水资源与“零日”警告",
