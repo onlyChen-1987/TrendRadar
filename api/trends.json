@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-08T18:15:43.402839+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2025-12-08T20:24:03.125049+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
+          "url": "https://news.ifeng.com/c/8ov552jltTT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
         {
           "title": "特朗普称对泽连斯基尚未阅读和平协议草案感到有些失望",
           "url": "https://flash.jin10.com/detail/20251208082023019800",
@@ -28,6 +39,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "特朗普称对泽连斯基感到失望",
+          "url": "https://www.toutiao.com/trending/7581294692906716710/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16,
+            22,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 20时24分]"
         },
         {
           "title": "特朗普长子：特朗普或退出乌和平进程",
@@ -69,9 +95,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "特朗普就美国与加拿大贸易争端最新发声",
+          "url": "https://wallstreetcn.com/livenews/3016981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "特朗普获国际足联和平奖",
@@ -86,6 +123,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时56分 ~ 14时21分]"
+        },
+        {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 20时24分]"
         },
         {
           "title": "以总统拒绝特朗普“求情”",
@@ -111,20 +160,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时56分 ~ 14时21分]"
-        },
-        {
-          "title": "特朗普称对泽连斯基感到失望",
-          "url": "https://www.toutiao.com/trending/7581294692906716710/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            16,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 18时15分]"
         },
         {
           "title": "特朗普：我对泽连斯基有点失望",
@@ -161,18 +196,6 @@
           "time_info": "[11时15分 ~ 14时21分]"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 18时15分]"
-        },
-        {
           "title": "特朗普政府战略调整，赖清德当局战略冒进",
           "url": "https://news.ifeng.com/c/8ouw16T8NSP",
           "source": "凤凰网",
@@ -184,13 +207,35 @@
           "time_info": "[16时20分 ~ 18时15分]"
         },
         {
+          "title": "柬泰再交火 特朗普还会出手吗",
+          "url": "https://www.toutiao.com/trending/7581406828559339014/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
+        {
+          "title": "专家：特朗普版国安战略给欧洲浇冷水",
+          "url": "https://www.toutiao.com/trending/7581427136523669001/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时24分]"
+        },
+        {
           "title": "分析师：Netflix收购华纳面临反垄断压力 特朗普言论引发担忧",
           "url": "https://flash.jin10.com/detail/20251208174011180800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -201,7 +246,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -286,7 +331,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "摩根大通：美联储降息后美股涨势可能停滞",
@@ -295,7 +340,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -317,9 +362,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
+        },
+        {
+          "title": "星展银行：2026年全球经济展望总体积极，需警惕美股回调等三大风险",
+          "url": "https://wallstreetcn.com/livenews/3016963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "美股盘前，美光科技涨超1.4%，博通涨超1.3%，台积电涨近1.8%。",
@@ -328,7 +384,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -342,6 +398,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI调查：员工日均省时近1小时，企业采纳加速",
+          "url": "https://flash.jin10.com/detail/20251208200524592800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户。",
+          "url": "https://wallstreetcn.com/livenews/3016987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户。",
+          "url": "https://flash.jin10.com/detail/20251208200328989800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "OpenAI“红色警报”拉响，30岁ChatGPT负责人走向台前",
+          "url": "https://www.cls.cn/detail/2222099",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
         }
       ]
     },
@@ -387,6 +493,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中金：哈塞特若成为美联储主席或使美债利率和美元先下后上",
+          "url": "https://flash.jin10.com/detail/20251208080055151800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "市场分析：美联储独立性受质疑将致美债收益率曲线趋陡",
+          "url": "https://flash.jin10.com/detail/20251208194142730800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
@@ -412,40 +546,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时20分 ~ 18时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI“红色警报”拉响，30岁ChatGPT负责人走向台前",
-          "url": "https://www.cls.cn/detail/2222099",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中金：哈塞特若成为美联储主席或使美债利率和美元先下后上",
-          "url": "https://flash.jin10.com/detail/20251208080055151800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
         }
       ]
     }
