@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T20:24:10.465408+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2025-12-09T22:15:29.880863+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -33,6 +33,31 @@
           "time_info": "[14时25分 ~ 14时26分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时18分 ~ 22时15分]"
+        },
+        {
+          "title": "匈牙利外长西雅尔多表示，匈牙利总理欧尔班与美国总统特朗普已同意就一种新型金融合作展开谈判，这种合作有望提供金融保障。",
+          "url": "https://flash.jin10.com/detail/20251209215314638800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "特朗普为关税政策强硬辩护：最高法院若推翻关税政策将是美“历史性威胁”",
           "url": "https://flash.jin10.com/detail/20251209154928270800",
           "source": "金十数据",
@@ -42,19 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 20时24分]"
         },
         {
           "title": "特朗普威胁墨西哥：如不“立即放水”，再加征5%关税",
@@ -114,6 +126,17 @@
           "time_info": "[14时25分 ~ 14时26分]"
         },
         {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 22时15分]"
+        },
+        {
           "title": "特朗普：是否公布视频由美防长决定",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%98%AF%E5%90%A6%E5%85%AC%E5%B8%83%E8%A7%86%E9%A2%91%E7%94%B1%E7%BE%8E%E9%98%B2%E9%95%BF%E5%86%B3%E5%AE%9A",
           "source": "百度热搜",
@@ -147,13 +170,24 @@
           "time_info": "16时18分"
         },
         {
+          "title": "特朗普政府秘密制定计划，为马杜罗下台做准备",
+          "url": "https://flash.jin10.com/detail/20251209214613634800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "特朗普拒绝排除派遣美军进入委内瑞拉的可能性",
           "url": "https://flash.jin10.com/detail/20251209194914113800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -164,7 +198,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -175,9 +209,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
+        },
+        {
+          "title": "特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3017721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "特朗普可能会通过调整关税来降低部分商品价格。（Politico）",
@@ -186,7 +231,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -197,7 +242,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -208,7 +253,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -230,7 +275,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -241,9 +286,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
+        },
+        {
+          "title": "据CNN： 特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。",
+          "url": "https://flash.jin10.com/detail/20251209210853362800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "据Politico：特朗普称欧洲在乌克兰问题上“处理不当”。",
@@ -252,7 +308,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -274,7 +330,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
@@ -296,9 +352,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普今天将在宾夕法尼亚州发表积极的经济演讲。",
+          "url": "https://wallstreetcn.com/livenews/3017706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         }
       ]
     },
@@ -384,7 +451,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         }
@@ -392,7 +459,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -428,6 +495,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 08时56分]"
+        },
+        {
+          "title": "美股三大股指期货集体转跌，纳指期货跌0.14%，标普500指数期货跌0.05%，道指期货跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3017732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-09）",
+          "url": "https://flash.jin10.com/detail/20251209213810953800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
@@ -531,7 +620,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -539,11 +628,40 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时55分 ~ 20时24分]"
+          "appearance_count": 13,
+          "time_info": "[08时55分 ~ 22时15分]"
+        },
+        {
+          "title": "美利率决议前市场谨慎，美股指期货集体转跌，欧美债市承压，英伟达涨幅收窄，现货黄金重新站上4200美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 22时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国伊朗沙特三方联合委员会第三次会议联合新闻稿",
+          "url": "https://wallstreetcn.com/livenews/3017703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         }
       ]
     }
