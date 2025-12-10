@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-10T16:18:02.054213+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2025-12-10T18:14:53.873706+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
+          "url": "https://wallstreetcn.com/articles/3761018",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时57分 ~ 18时14分]"
+        },
         {
           "title": "特朗普现在很焦虑",
           "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
@@ -19,18 +31,6 @@
           "time_info": "[08时57分 ~ 14时20分]"
         },
         {
-          "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
-          "url": "https://wallstreetcn.com/articles/3761018",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 16时18分]"
-        },
-        {
           "title": "特朗普：泰柬又打起来了，我得打个电话",
           "url": "https://news.ifeng.com/c/8oyCMciyCox",
           "source": "凤凰网",
@@ -41,17 +41,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时20分 ~ 16时18分]"
-        },
-        {
-          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
-          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 16时18分]"
         },
         {
           "title": "日本央行行长植田和男称，美国经济经受住了特朗普关税的考验。（英国金融时报）",
@@ -98,6 +87,30 @@
           "time_info": "11时16分"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 18时14分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 18时14分]"
+        },
+        {
           "title": "特朗普发长文回击：自诩政绩空前，晒“满分”健康报告，斥责《纽约时报》为“人民公敌”",
           "url": "https://flash.jin10.com/detail/20251210121528240800",
           "source": "金十数据",
@@ -131,15 +144,15 @@
           "time_info": "08时57分"
         },
         {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
+          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
+          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
+          "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 16时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "特朗普在宾夕法尼亚活动上称：我们有一个糟糕的美联储主席。将在美联储中进行大调整。",
@@ -175,13 +188,24 @@
           "time_info": "08时57分"
         },
         {
+          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
+          "url": "https://wallstreetcn.com/articles/3761053",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "俄罗斯外长拉夫罗夫：美国总统特朗普目前并未急于解除对莫斯科的制裁，反而加强了制裁措施。",
           "url": "https://flash.jin10.com/detail/20251210153923552800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -258,7 +282,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -280,7 +304,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         }
@@ -364,8 +388,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时57分 ~ 16时18分]"
+          "appearance_count": 7,
+          "time_info": "[08时57分 ~ 18时14分]"
         }
       ]
     }
