@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T18:14:45.452774+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2025-12-11T20:25:58.189819+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
@@ -63,9 +63,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 20时25分]"
         },
         {
           "title": "美威胁国际刑事法院：不要调查特朗普",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时18分 ~ 16时19分]"
+        },
+        {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 20时25分]"
         },
         {
           "title": "特朗普回应美联储降息：幅度太小",
@@ -109,7 +120,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -125,24 +136,13 @@
           "time_info": "08时58分"
         },
         {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-11）",
           "url": "https://flash.jin10.com/detail/20251211180126675800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -153,7 +153,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -164,7 +164,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -175,7 +175,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -189,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "据英国金融时报：英国承诺在与美国总统特朗普达成关税协议后，额外投入15亿英镑用于国民医疗服务体系药品。",
@@ -248,8 +259,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时58分 ~ 18时14分]"
+          "appearance_count": 9,
+          "time_info": "[08时58分 ~ 20时25分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -293,7 +304,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -304,9 +315,37 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
+          "url": "https://www.zhihu.com/question/1980552349165564560",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "谷歌DeepMind将在英国开设实验室 探索新材料",
+          "url": "https://flash.jin10.com/detail/20251211082244495800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         }
       ]
     },
@@ -340,26 +379,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 2,
       "titles": [
         {
-          "title": "谷歌DeepMind将在英国开设实验室 探索新材料",
-          "url": "https://flash.jin10.com/detail/20251211082244495800",
+          "title": "机构：高赤字削弱长期美债吸引力",
+          "url": "https://flash.jin10.com/detail/20251211200521105800",
           "source": "金十数据",
           "ranks": [
-            18
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+          "time_info": "20时25分"
+        },
         {
           "title": "市场认为鲍威尔更关注劳动力市场疲软 欧元区国债收益率随美债走低",
           "url": "https://flash.jin10.com/detail/20251211154449329800",
