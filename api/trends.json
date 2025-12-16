@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-16T14:20:50.132040+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2025-12-16T16:19:15.033121+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时57分 ~ 16时19分]"
+        },
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
           "url": "https://news.ifeng.com/c/8p7mw3hu8Hs",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时18分 ~ 14时20分]"
-        },
-        {
-          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
-          "url": "https://wallstreetcn.com/articles/3761439",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 14时20分]"
         },
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -73,11 +73,12 @@
           "ranks": [
             15,
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 16时19分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -85,11 +86,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 16时19分]"
         },
         {
           "title": "法庭文件显示，特朗普就2024年拼接纪录片一事起诉BBC诽谤，要求BBC赔偿50亿美元。",
@@ -167,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "英国工党大臣金诺克：我认为BBC在特朗普诉讼案上坚持立场是正确的。",
+          "url": "https://flash.jin10.com/detail/20251216152842242800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "特朗普正式起诉BBC 索赔50亿美元",
@@ -310,9 +323,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 16时19分]"
         }
       ]
     },
@@ -330,6 +343,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "盛宝银行：美债收益率明年可能进一步趋陡",
+          "url": "https://flash.jin10.com/detail/20251216154958479800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     }
