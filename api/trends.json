@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T12:18:50.708936+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2025-12-20T14:19:15.052747+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 12时18分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时19分]"
+        },
+        {
+          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3024224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 14时19分]"
         },
         {
           "title": "特朗普拟并购的核聚变初创公司TAE面临欠款指控",
@@ -30,18 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时54分 ~ 11时10分]"
-        },
-        {
-          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3024224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时18分]"
         },
         {
           "title": "美国总统特朗普：我们正在对极端组织“伊斯兰国”在叙利亚的据点进行非常强烈的打击，叙利亚政府完全支持我们。",
@@ -75,7 +76,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
@@ -160,7 +161,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
@@ -171,8 +172,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 12时18分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时19分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -183,8 +184,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 12时18分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时19分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -192,11 +193,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            9
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时10分 ~ 14时19分]"
+        },
+        {
+          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
+          "url": "https://www.cls.cn/detail/2235373",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时18分]"
+          "time_info": "[14时18分 ~ 14时19分]"
         },
         {
           "title": "美股收盘：三大股指收涨 英伟达涨近4%",
@@ -268,8 +281,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 12时18分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时19分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -309,8 +322,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时09分 ~ 12时18分]"
+          "appearance_count": 5,
+          "time_info": "[11时09分 ~ 14时19分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -334,11 +347,12 @@
           "url": "https://flash.jin10.com/detail/20251220105539232800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 14时19分]"
         }
       ]
     }
