@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T14:19:15.052747+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2025-12-20T16:15:42.265534+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时54分 ~ 14时19分]"
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 16时15分]"
         },
         {
           "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
@@ -26,11 +26,12 @@
           "ranks": [
             5,
             8,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 16时15分]"
         },
         {
           "title": "特朗普拟并购的核聚变初创公司TAE面临欠款指控",
@@ -172,8 +173,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时54分 ~ 14时19分]"
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 16时15分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -181,11 +182,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时54分 ~ 14时19分]"
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 16时15分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -194,22 +196,24 @@
           "ranks": [
             6,
             9,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 14时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 16时15分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
           "url": "https://www.cls.cn/detail/2235373",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 16时15分]"
         },
         {
           "title": "美股收盘：三大股指收涨 英伟达涨近4%",
@@ -281,8 +285,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时54分 ~ 14时19分]"
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 16时15分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -312,7 +316,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗为何不饱和攻击机场，让以战机无法起飞？",
@@ -322,8 +326,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时09分 ~ 14时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时09分 ~ 16时15分]"
+        },
+        {
+          "title": "伊朗处决一名为以色列工作的间谍",
+          "url": "https://flash.jin10.com/detail/20251220153845757800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -348,11 +363,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 14时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 16时15分]"
         }
       ]
     }
