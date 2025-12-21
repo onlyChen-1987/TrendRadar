@@ -1,481 +1,122 @@
 {
-  "generated_at": "2025-12-20T22:11:17.880269+08:00",
-  "total_titles_processed": 1029,
+  "generated_at": "2025-12-21T09:01:37.200645+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
-          "url": "https://wallstreetcn.com/articles/3761733",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时54分 ~ 20时21分]"
-        },
-        {
-          "title": "特朗普提名特战副司令执掌南方司令部",
-          "url": "https://wallstreetcn.com/livenews/3024305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3024224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 16时15分]"
-        },
-        {
-          "title": "特朗普拟并购的核聚变初创公司TAE面临欠款指控",
-          "url": "https://flash.jin10.com/detail/20251220082409385800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 11时10分]"
-        },
-        {
-          "title": "美国总统特朗普：我们正在对极端组织“伊斯兰国”在叙利亚的据点进行非常强烈的打击，叙利亚政府完全支持我们。",
-          "url": "https://flash.jin10.com/detail/20251220081426145800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 11时10分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 22时11分]"
-        },
-        {
-          "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
-          "url": "https://wallstreetcn.com/livenews/3024204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时18分]"
-        },
-        {
-          "title": "Coinbase：特朗普的“大漂亮法案”或将赌客推向预测市场",
-          "url": "https://wallstreetcn.com/livenews/3024294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "美国肯尼迪中心更名「特朗普 - 肯尼迪中心」，此举会对美国政治和文化产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1985346277517595512",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
-        },
-        {
-          "title": "特朗普媒体的核聚变合作伙伴面临欠款指控",
-          "url": "https://wallstreetcn.com/livenews/3024186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "特朗普为何推出史上最高金额对台军售",
-          "url": "https://www.toutiao.com/trending/7585013065943859238/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "金十提示：美国总统特朗普讲话结束。",
-          "url": "https://flash.jin10.com/detail/20251220040556442800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "美国总统特朗普：保险公司必须赚更少的钱。",
-          "url": "https://flash.jin10.com/detail/20251220040257481800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "美国总统特朗普：保险公司会议旨在降低价格。",
-          "url": "https://flash.jin10.com/detail/20251220040213570800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
-          "url": "https://flash.jin10.com/detail/20251220040203208800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "扎克伯格旗下Meta Platforms刚刚履新八个月的董事Dina Powell McCormick将退出。 在美国总统特朗普第一任期内，Powell McCormick曾担任副国家安全顾问。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3024182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
-          "url": "https://flash.jin10.com/detail/20251220035945921800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
-          "url": "https://wallstreetcn.com/articles/3761704",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时54分 ~ 22时11分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
-          "url": "https://www.cls.cn/detail/2235346",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时54分 ~ 22时11分]"
-        },
-        {
-          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
-          "url": "https://www.cls.cn/detail/2235373",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时18分 ~ 22时11分]"
-        },
-        {
-          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
-          "url": "https://wallstreetcn.com/livenews/3024266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 22时11分]"
-        },
-        {
-          "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
-          "url": "https://wallstreetcn.com/livenews/3024223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 16时15分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 英伟达涨近4%",
-          "url": "https://flash.jin10.com/detail/20251220080957264800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251220080420639800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "金十图示：2025年12月19日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251220080418199800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
-          "url": "https://wallstreetcn.com/livenews/3024176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3024174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
-          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
-          "url": "https://wallstreetcn.com/articles/3761711",
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时54分 ~ 16时15分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
-          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
-          "url": "https://wallstreetcn.com/articles/3761690",
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时10分]"
-        },
-        {
-          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
-          "url": "https://wallstreetcn.com/livenews/3024206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时18分]"
-        },
-        {
-          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
-          "url": "https://wallstreetcn.com/articles/3761757",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 22时11分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
           "url": "https://wallstreetcn.com/articles/3761763",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 22时11分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
-          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
-          "url": "https://wallstreetcn.com/articles/3761764",
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时11分"
+          "time_info": "09时01分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "特朗普",
       "match_count": 3,
       "titles": [
         {
-          "title": "伊朗为何不饱和攻击机场，让以战机无法起飞？",
-          "url": "https://www.zhihu.com/question/1918243705258751137",
-          "source": "知乎",
+          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
+          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普提名特战副司令执掌南方司令部",
+          "url": "https://flash.jin10.com/detail/20251220214727409800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
+          "url": "https://flash.jin10.com/detail/20251220214239757800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时09分 ~ 18时13分]"
-        },
-        {
-          "title": "伊朗处决一名为以色列工作的间谍",
-          "url": "https://flash.jin10.com/detail/20251220153845757800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 22时11分]"
-        },
-        {
-          "title": "以色列暗杀伊朗核专家细节曝光",
-          "url": "https://news.ifeng.com/c/8pDtj9kdFzQ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "09时01分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "美股",
       "match_count": 2,
       "titles": [
         {
-          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
-          "url": "https://flash.jin10.com/detail/20251220105539232800",
-          "source": "金十数据",
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            18,
-            27
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 16时15分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
-          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
-          "url": "https://wallstreetcn.com/livenews/3024274",
-          "source": "华尔街见闻-快讯",
+          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
+          "url": "https://www.cls.cn/detail/2235373",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            20
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 22时11分]"
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     }
