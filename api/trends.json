@@ -1,22 +1,62 @@
 {
-  "generated_at": "2025-12-22T14:21:26.783079+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2025-12-22T16:19:32.823931+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
           "url": "https://wallstreetcn.com/articles/3761799",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 16时19分]"
+        },
+        {
+          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 16时19分]"
+        },
+        {
+          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 16时19分]"
+        },
+        {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 16时19分]"
         },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -41,53 +81,26 @@
           "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 14时21分]"
-        },
-        {
-          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 14时21分]"
-        },
-        {
           "title": "特朗普表态：必须是“超级鸽派”！",
           "url": "https://news.ifeng.com/c/8pI2JngwUGB",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时21分]"
+          "time_info": "[14时21分 ~ 16时19分]"
+        },
+        {
+          "title": "飞机闯入特朗普官邸上空被紧急拦截",
+          "url": "https://www.toutiao.com/trending/7586445374106796082/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
@@ -95,11 +108,35 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 16时19分]"
+        },
+        {
+          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
+          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时21分]"
+          "time_info": "[14时21分 ~ 16时19分]"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 16时19分]"
         },
         {
           "title": "曝高市早苗急着求见特朗普",
@@ -113,17 +150,6 @@
           "time_info": "[11时25分 ~ 11时26分]"
         },
         {
-          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
-          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
           "title": "特朗普任命美国格陵兰岛特使",
           "url": "https://flash.jin10.com/detail/20251222105005973800",
           "source": "金十数据",
@@ -135,6 +161,17 @@
           "time_info": "11时26分"
         },
         {
+          "title": "丹麦外交部长：美国总统特朗普任命驻格陵兰岛特别使节，证实美国仍对格陵兰岛感兴趣。",
+          "url": "https://flash.jin10.com/detail/20251222155222383800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "美国中东问题特使威特科夫：过去两天在佛罗里达州，俄罗斯主权财富基金总裁德米特里耶夫与美国代表团举行了富有成效和建设性的会议，以推进特朗普总统对乌克兰的和平计划。",
           "url": "https://flash.jin10.com/detail/20251222081646625800",
           "source": "金十数据",
@@ -144,17 +181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
         },
         {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
@@ -183,8 +209,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时00分 ~ 16时19分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -229,6 +255,36 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
+          "url": "https://www.cls.cn/detail/2235916",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 16时19分]"
+        },
+        {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -246,20 +302,19 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
-          "url": "https://www.cls.cn/detail/2235916",
-          "source": "财联社热门",
+          "title": "黄金白银价格创新高",
+          "url": "https://www.douyin.com/hot/2344085",
+          "source": "抖音",
           "ranks": [
-            10,
-            7
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         }
       ]
     },
