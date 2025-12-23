@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T18:14:50.659618+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2025-12-23T20:24:32.032775+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 18时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 20时24分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -26,11 +27,12 @@
           "ranks": [
             4,
             6,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 18时14分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 20时24分]"
         },
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -50,7 +52,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -163,6 +165,30 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 20时24分]"
+        },
+        {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 20时24分]"
+        },
+        {
           "title": "特朗普：美国还将增加航空母舰数量",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E8%BF%98%E5%B0%86%E5%A2%9E%E5%8A%A0%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%88%B0%E6%95%B0%E9%87%8F",
           "source": "百度热搜",
@@ -174,28 +200,6 @@
           "time_info": "[08时56分 ~ 08时57分]"
         },
         {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
           "title": "金银强势刷新历史新高！特朗普下周或任命新美联储主席；俄罗斯开始撤离驻委内瑞拉外交官家属，日本财相发出强烈干预警告……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251223103135457800",
           "source": "金十数据",
@@ -205,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司：特朗普政府寻求撤销数千起庇护案件，申请人可被驱逐至第三国。",
+          "url": "https://flash.jin10.com/detail/20251223190328466800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "美国司法部官员表示，美国在委内瑞拉附近追击油轮的行动，是特朗普政府一项新的法律战略的一部分，目的是扣押在世界各地运输黑市石油的船只。",
@@ -262,6 +277,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "专家：特朗普战列舰政治意义大于实战",
+          "url": "https://www.toutiao.com/trending/7586991061680000531/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "“特朗普级”战列舰性能如何",
           "url": "https://www.toutiao.com/trending/7586915482419072538/",
           "source": "今日头条",
@@ -309,7 +335,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
@@ -318,7 +344,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -339,11 +365,23 @@
           "url": "https://www.cls.cn/detail/2237629",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 20时24分]"
+        },
+        {
+          "title": "金价彻底爆了 有人拖行李箱抢购",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "20时24分"
         },
         {
           "title": "金十图示：2025年12月23日（周二）上海金早盘价为1010.37元/克，较国际金价(1013.6元/克)，低3.23元/克",
@@ -362,6 +400,45 @@
           "source": "百度热搜",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3025481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "美元指数DXY日内下跌0.4%，跌至10月3日以来新低，报97.853。",
+          "url": "https://flash.jin10.com/detail/20251223192922576800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "美元指数DXY跌破98，创5日新低。",
+          "url": "https://flash.jin10.com/detail/20251223161014189800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -423,8 +500,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 18时14分]"
+          "appearance_count": 8,
+          "time_info": "[08时56分 ~ 20时24分]"
         },
         {
           "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
@@ -462,37 +539,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3025481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "美元指数DXY跌破98，创5日新低。",
-          "url": "https://flash.jin10.com/detail/20251223161014189800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
         }
       ]
     }
