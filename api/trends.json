@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-25T16:18:01.509892+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2025-12-25T18:14:16.126620+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "特朗普这一年如何搅乱全球",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E4%B8%80%E5%B9%B4%E5%A6%82%E4%BD%95%E6%90%85%E4%B9%B1%E5%85%A8%E7%90%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
           "url": "https://wallstreetcn.com/articles/3761983",
@@ -20,6 +31,28 @@
           "time_info": "[08时56分 ~ 12时31分]"
         },
         {
+          "title": "高市早苗：想尽快与特朗普会晤",
+          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
+        },
+        {
           "title": "帕劳与特朗普政府签署备忘录，从美国接收75名移民",
           "url": "https://flash.jin10.com/detail/20251225121328471800",
           "source": "金十数据",
@@ -29,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
+          "url": "https://flash.jin10.com/detail/20251225173408748800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "高市早苗为何要赶在特朗普访华前访美",
@@ -139,11 +183,12 @@
           "url": "https://wallstreetcn.com/articles/3761989",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时56分 ~ 16时18分]"
+          "appearance_count": 9,
+          "time_info": "[08时56分 ~ 18时14分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -162,11 +207,12 @@
           "url": "https://wallstreetcn.com/articles/3762016",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 16时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 18时14分]"
         }
       ]
     },
