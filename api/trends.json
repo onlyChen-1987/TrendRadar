@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T12:31:27.101755+08:00",
-  "total_titles_processed": 576,
+  "generated_at": "2025-12-25T14:20:27.504219+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
@@ -26,7 +26,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -76,11 +76,12 @@
           "ranks": [
             13,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 14时20分]"
         },
         {
           "title": "金价又创历史新高",
@@ -130,8 +131,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 14时20分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -153,8 +154,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 14时20分]"
         }
       ]
     },
