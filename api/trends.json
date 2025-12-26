@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T20:23:21.123950+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2025-12-26T22:13:11.474662+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时18分 ~ 20时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时18分 ~ 22时13分]"
         },
         {
           "title": "金银亚盘暴力拉升，现货白银一度上破75美元/盎司；特朗普宣称美军打击尼日利亚ISIS恐怖分子，此前曾警告美国将“火力全开”进入尼日利亚……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 20时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 22时13分]"
         },
         {
           "title": "据AXIOS记者：乌克兰官员透露，美国总统特朗普将于周日在海湖庄园会见乌克兰总统泽连斯基。",
@@ -85,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "泽连斯基：预计将于周日在佛罗里达与特朗普会面",
+          "url": "https://wallstreetcn.com/livenews/3027347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "特朗普称美军对尼日利亚西北部“伊斯兰国”目标发动打击",
@@ -129,12 +140,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：想与特朗普讨论对俄罗斯施加额外压力的问题。",
+          "url": "https://flash.jin10.com/detail/20251226205730248800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
@@ -145,8 +167,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时18分 ~ 20时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时18分 ~ 22时13分]"
         },
         {
           "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
@@ -181,6 +203,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时19分 ~ 16时17分]"
+        },
+        {
+          "title": "金价暴涨还能买吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -230,8 +263,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2241565",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
+        },
         {
           "title": "美股太空概念股Sidus Space盘前延续大涨，现涨超30%，前一交易日收涨33%。",
           "url": "https://flash.jin10.com/detail/20251226172626463800",
@@ -253,6 +297,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-26）",
+          "url": "https://flash.jin10.com/detail/20251226211205705800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
+          "url": "https://wallstreetcn.com/articles/3762068",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时57分 ~ 18时14分]"
+        },
+        {
+          "title": "谷歌将允许用户更改Gmail邮箱地址",
+          "url": "https://flash.jin10.com/detail/20251226220031392800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         }
       ]
     },
@@ -281,24 +365,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
-          "url": "https://wallstreetcn.com/articles/3762068",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时57分 ~ 18时14分]"
         }
       ]
     }
