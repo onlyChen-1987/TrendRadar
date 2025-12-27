@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T20:22:21.358377+08:00",
-  "total_titles_processed": 954,
+  "generated_at": "2025-12-27T22:11:26.478209+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 20时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 22时11分]"
         },
         {
           "title": "泽连斯基：将与特朗普会晤，讨论“敏感”问题",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
+          "url": "https://flash.jin10.com/detail/20251227214522049800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "美国总统特朗普将于当地时间周日下午3点在海湖庄园会见泽连斯基。",
@@ -57,16 +68,15 @@
           "time_info": "[12时25分 ~ 18时12分]"
         },
         {
-          "title": "特朗普：美国目前没有承认索马里兰的计划",
-          "url": "https://flash.jin10.com/detail/20251227140350372800",
-          "source": "金十数据",
+          "title": "她说特朗普有“酒鬼性格”",
+          "url": "https://news.ifeng.com/c/8pQlyArpb5f",
+          "source": "凤凰网",
           "ranks": [
-            2,
-            17
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 16时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -77,8 +87,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 20时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 22时11分]"
+        },
+        {
+          "title": "特朗普：美国目前没有承认索马里兰的计划",
+          "url": "https://flash.jin10.com/detail/20251227140350372800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 16时16分]"
         },
         {
           "title": "特朗普：未经我批准 泽连斯基一无所有",
@@ -118,6 +140,18 @@
           "time_info": "[14时18分 ~ 16时16分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
+          "url": "https://flash.jin10.com/detail/20251227191857626800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 22时11分]"
+        },
+        {
           "title": "加利福尼亚州确认已撤回针对美国总统特朗普政府撤销逾40亿美元高铁资金决定的诉讼。",
           "url": "https://flash.jin10.com/detail/20251227122711483800",
           "source": "金十数据",
@@ -142,24 +176,24 @@
           "time_info": "[16时16分 ~ 18时12分]"
         },
         {
+          "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
+          "url": "https://flash.jin10.com/detail/20251227213217547800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "美军圣诞节突袭尼日利亚，特朗普政府有何考量？",
           "url": "https://news.ifeng.com/c/8pQfSUcW5fL",
           "source": "凤凰网",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：美国提供的安全保障将取决于美国总统特朗普准备提供什么。",
-          "url": "https://flash.jin10.com/detail/20251227191857626800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -170,7 +204,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -181,7 +215,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -203,7 +237,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -214,7 +248,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -254,8 +288,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时56分 ~ 20时22分]"
+          "appearance_count": 10,
+          "time_info": "[08时56分 ~ 22时11分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -356,26 +390,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "黄金",
+      "match_count": 2,
       "titles": [
         {
-          "title": "金价上涨的受益者这里有一屋",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E8%BF%99%E9%87%8C%E6%9C%89%E4%B8%80%E5%B1%8B&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "金饰价格破1400元黄金回收加工却遇冷",
+          "url": "https://www.toutiao.com/trending/7588294573819101226/",
+          "source": "今日头条",
           "ranks": [
-            22
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
+          "time_info": "22时11分"
+        },
         {
           "title": "金饰价格突破1400元黄金回收遇冷",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E7%AA%81%E7%A0%B41400%E5%85%83%E9%BB%84%E9%87%91%E5%9B%9E%E6%94%B6%E9%81%87%E5%86%B7%23&t=31&band_rank=28&Refer=top",
@@ -387,6 +415,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时24分 ~ 14时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价上涨的受益者这里有一屋",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E8%BF%99%E9%87%8C%E6%9C%89%E4%B8%80%E5%B1%8B&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         }
       ]
     }
