@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T11:31:01.596718+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2025-12-28T12:38:16.429752+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
           "url": "https://flash.jin10.com/detail/20251228094750696800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时38分]"
         },
         {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
@@ -69,7 +70,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -80,7 +81,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -91,7 +92,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         }
@@ -106,11 +107,12 @@
           "url": "https://news.ifeng.com/c/8pRrVSRVRbc",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时30分 ~ 11时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时30分 ~ 12时38分]"
         },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
@@ -119,7 +121,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -130,7 +132,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         }
@@ -145,11 +147,12 @@
           "url": "https://flash.jin10.com/detail/20251228100400527800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时38分]"
         }
       ]
     }
