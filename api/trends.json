@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T14:20:38.366198+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-12-31T16:18:24.515033+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 16时18分]"
+        },
+        {
+          "title": "国台办回应特朗普称不担心台海局势",
+          "url": "https://www.toutiao.com/trending/7589884892247543346/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 16时18分]"
         },
         {
           "title": "得知普京官邸遭袭，特朗普：我很生气！",
@@ -54,24 +66,13 @@
           "time_info": "08时59分"
         },
         {
-          "title": "国台办回应特朗普称不担心台海局势",
-          "url": "https://www.toutiao.com/trending/7589884892247543346/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "特朗普集团旗下Trump Mobile推迟原定于今年发布的金色智能手机",
           "url": "https://flash.jin10.com/detail/20251231131511777800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -82,7 +83,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -173,8 +174,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 16时18分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
@@ -202,7 +203,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金十图示：2025年12月31日（周三）上海金早盘价为980.89元/克，较国际金价(976.71元/克)，高4.18元/克",
@@ -214,6 +215,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）上海金午盘价为973.33元/克，较国际金价(971.38元/克)，高1.95元/克",
+          "url": "https://flash.jin10.com/detail/20251231151034955800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     },
