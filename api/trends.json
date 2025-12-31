@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T16:18:24.515033+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2025-12-31T18:13:59.042827+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "特朗普集团旗下Trump Mobile推迟原定于今年发布的金色智能手机",
@@ -174,8 +185,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 16时18分]"
+          "appearance_count": 6,
+          "time_info": "[08时59分 ~ 18时13分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
@@ -223,9 +234,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "内塔尼亚胡喊话伊朗：不要犯这样的错误",
+          "url": "https://news.ifeng.com/c/8pXFMyQDXcJ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗正在恢复弹道导弹生产。",
+          "url": "https://flash.jin10.com/detail/20251231071734858800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     },
@@ -244,23 +283,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时20分 ~ 14时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "以色列总理内塔尼亚胡：伊朗正在恢复弹道导弹生产。",
-          "url": "https://flash.jin10.com/detail/20251231071734858800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
         }
       ]
     }
