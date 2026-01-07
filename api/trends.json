@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T12:33:22.646397+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-01-07T14:20:46.633874+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 14时20分]"
         },
         {
           "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
           "url": "https://news.ifeng.com/c/8piFwnPic7a",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 14时20分]"
         },
         {
           "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
@@ -39,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 14时20分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -51,8 +52,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 14时20分]"
+        },
+        {
+          "title": "特朗普为何恨他入骨？",
+          "url": "https://news.ifeng.com/c/8piZCNfE8JZ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
+          "title": "特朗普不满马杜罗：他学我跳舞",
+          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
@@ -81,11 +104,12 @@
           "url": "https://news.ifeng.com/c/8piCojZXRGw",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 14时20分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -95,8 +119,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时20分]"
         },
         {
           "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
@@ -107,8 +131,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时20分]"
         },
         {
           "title": "美国高院更新日程表 最早于9日宣布特朗普关税案裁决",
@@ -139,7 +163,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -188,6 +212,17 @@
           "time_info": "08时59分"
         },
         {
+          "title": "特朗普称“梅拉尼娅讨厌他跳舞”",
+          "url": "https://www.toutiao.com/trending/7592307235930325034/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "研究：特朗普关税未明显推高美国通胀 关税收入已开始下滑",
           "url": "https://www.cls.cn/detail/2249781",
           "source": "财联社热门",
@@ -221,6 +256,17 @@
           "time_info": "08时59分"
         },
         {
+          "title": "特朗普称莫迪对关税不满 印度的俄罗斯原油进口量已减少",
+          "url": "https://wallstreetcn.com/livenews/3032131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
+        },
+        {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
           "source": "百度热搜",
@@ -241,6 +287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "特朗普模仿举重动作嘲讽跨性别运动员",
+          "url": "https://www.toutiao.com/trending/7592416851683033142/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时20分"
         },
         {
           "title": "特朗普将于美国东部时间周三下午2:30（北京时间次日凌晨3:30）签署行政命令。",
@@ -300,8 +357,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 14时20分]"
         },
         {
           "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
@@ -313,8 +370,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 14时20分]"
         },
         {
           "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
@@ -351,7 +408,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
@@ -399,8 +456,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 12时33分]"
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 14时20分]"
         }
       ]
     }
