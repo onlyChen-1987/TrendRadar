@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T09:01:36.019351+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-14T11:29:41.979199+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时29分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
           "url": "https://www.cls.cn/detail/2256844",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时29分]"
         },
         {
           "title": "据纽约时报：特朗普政府最早将于今天宣布成立一个技术官僚委员会来监督加沙的计划。据官员和知情人士透露，巴勒斯坦前规划部副部长Ali Shaath已被选为该委员会主席。",
@@ -41,6 +42,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
           "title": "特朗普建议美国盟友撤离伊朗",
           "url": "https://www.toutiao.com/trending/7594994411935747622/",
           "source": "今日头条",
@@ -52,6 +64,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
           "title": "法院文件显示，特朗普政府寻求撤回一项对下级法院裁决的上诉。该裁决此前阻止了一项行政命令，即要求各州必须配合移民执法，方可获得数十亿美元的交通运输资金。",
           "url": "https://flash.jin10.com/detail/20260114081827832800",
           "source": "金十数据",
@@ -61,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         },
         {
           "title": "特朗普称取消与伊朗官员所有会面",
@@ -110,7 +144,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
@@ -120,8 +154,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时29分]"
         },
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -131,8 +165,31 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时29分]"
+        },
+        {
+          "title": "外交部回应伊朗局势",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时29分]"
+        },
+        {
+          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
+          "url": "https://www.zhihu.com/question/1994353599640270638",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "11时29分"
         },
         {
           "title": "中信证券：伊朗骚乱事件下，中东局势将走向何方？",
@@ -146,6 +203,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "中方回应“是否建议公民去伊朗”",
+          "url": "https://www.douyin.com/hot/2366959",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
           "title": "卡塔尔外交部：各方就伊朗局势展开密集接触",
           "url": "https://wallstreetcn.com/livenews/3036498",
           "source": "华尔街见闻-快讯",
@@ -157,15 +225,26 @@
           "time_info": "09时01分"
         },
         {
-          "title": "外交部回应伊朗局势",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
-          "source": "bilibili 热搜",
+          "title": "如何评价伊朗的星链干扰器？",
+          "url": "https://www.zhihu.com/question/1993953352652956332",
+          "source": "知乎",
           "ranks": [
-            24
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "11时29分"
+        },
+        {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         }
       ]
     },
@@ -181,15 +260,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时29分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
           "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月14日（周三）上海金早盘价为1033.73元/克，较国际金价（1036.81元/克）低3.08元/克",
+          "url": "https://flash.jin10.com/detail/20260114110243081800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "金价亚盘走高 分析师称美国对伊朗进行军事干预的可能性上升",
+          "url": "https://flash.jin10.com/detail/20260114074105316800",
+          "source": "金十数据",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -209,19 +317,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时29分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
           "url": "https://www.cls.cn/detail/2256863",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时29分]"
         }
       ]
     },
@@ -234,28 +343,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价亚盘走高 分析师称美国对伊朗进行军事干预的可能性上升",
-          "url": "https://flash.jin10.com/detail/20260114074105316800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时29分]"
         }
       ]
     }
