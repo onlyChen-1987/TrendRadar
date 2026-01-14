@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T11:29:41.979199+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-01-14T12:40:37.264746+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时29分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 12时40分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
@@ -24,11 +24,47 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 12时40分]"
+        },
+        {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时29分]"
+          "time_info": "[11时29分 ~ 12时40分]"
+        },
+        {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 12时40分]"
+        },
+        {
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 12时40分]"
         },
         {
           "title": "据纽约时报：特朗普政府最早将于今天宣布成立一个技术官僚委员会来监督加沙的计划。据官员和知情人士透露，巴勒斯坦前规划部副部长Ali Shaath已被选为该委员会主席。",
@@ -42,17 +78,6 @@
           "time_info": "09时01分"
         },
         {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
           "title": "特朗普建议美国盟友撤离伊朗",
           "url": "https://www.toutiao.com/trending/7594994411935747622/",
           "source": "今日头条",
@@ -62,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
         },
         {
           "title": "法院文件显示，特朗普政府寻求撤回一项对下级法院裁决的上诉。该裁决此前阻止了一项行政命令，即要求各州必须配合移民执法，方可获得数十亿美元的交通运输资金。",
@@ -86,15 +100,15 @@
           "time_info": "09时01分"
         },
         {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
           "source": "财联社热门",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时29分"
+          "time_info": "12时40分"
         },
         {
           "title": "特朗普称取消与伊朗官员所有会面",
@@ -130,6 +144,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "特朗普回应格陵兰岛总理选择丹麦而非美国：我不同意，他会有大麻烦",
+          "url": "https://wallstreetcn.com/livenews/3036636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "美国总统特朗普：机器人将成为一股重要力量，并将有助于就业。",
           "url": "https://flash.jin10.com/detail/20260114074548582800",
           "source": "金十数据",
@@ -154,8 +179,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时29分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 12时40分]"
         },
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -165,8 +190,31 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 12时40分]"
+        },
+        {
+          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
+          "url": "https://www.zhihu.com/question/1994353599640270638",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时29分]"
+          "time_info": "[11时29分 ~ 12时40分]"
+        },
+        {
+          "title": "中方回应“是否建议公民去伊朗”",
+          "url": "https://www.douyin.com/hot/2366959",
+          "source": "抖音",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 12时40分]"
         },
         {
           "title": "外交部回应伊朗局势",
@@ -181,15 +229,16 @@
           "time_info": "[09时01分 ~ 11时29分]"
         },
         {
-          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
-          "url": "https://www.zhihu.com/question/1994353599640270638",
-          "source": "知乎",
+          "title": "美国会对伊朗动武吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
-            6
+            19,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时29分 ~ 12时40分]"
         },
         {
           "title": "中信证券：伊朗骚乱事件下，中东局势将走向何方？",
@@ -201,17 +250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "中方回应“是否建议公民去伊朗”",
-          "url": "https://www.douyin.com/hot/2366959",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
         },
         {
           "title": "卡塔尔外交部：各方就伊朗局势展开密集接触",
@@ -231,18 +269,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "美国会对伊朗动武吗",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         }
@@ -253,23 +280,24 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时29分]"
-        },
-        {
           "title": "梁文锋新论文剧透下一代模型",
           "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            14
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 12时40分]"
+        },
+        {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -288,7 +316,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
         },
@@ -317,8 +345,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时29分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 12时40分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -329,8 +357,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时29分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 12时40分]"
         }
       ]
     },
@@ -347,8 +375,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时29分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 12时40分]"
         }
       ]
     }
