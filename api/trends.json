@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-14T12:40:37.264746+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-01-14T14:25:01.879347+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
+          "url": "https://www.cls.cn/detail/2256844",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 14时25分]"
+        },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
           "url": "https://news.ifeng.com/c/8pspQ2slRcl",
@@ -19,28 +32,27 @@
           "time_info": "[09时01分 ~ 12时40分]"
         },
         {
-          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
-          "url": "https://www.cls.cn/detail/2256844",
-          "source": "财联社热门",
+          "title": "美媒：特朗普曾深夜发短信追问军舰“生锈”问题，美海军抓紧制定解决方案",
+          "url": "https://wallstreetcn.com/livenews/3036708",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            3,
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 12时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "特朗普建议盟友“撤离”伊朗",
           "url": "https://www.cls.cn/detail/2256898",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 14时25分]"
         },
         {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
@@ -51,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 14时25分]"
         },
         {
           "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
@@ -60,11 +72,35 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 14时25分]"
+        },
+        {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 14时25分]"
+        },
+        {
+          "title": "特朗普参观汽车工厂遭工人辱骂",
+          "url": "https://www.douyin.com/hot/2367043",
+          "source": "抖音",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时40分]"
+          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "据纽约时报：特朗普政府最早将于今天宣布成立一个技术官僚委员会来监督加沙的计划。据官员和知情人士透露，巴勒斯坦前规划部副部长Ali Shaath已被选为该委员会主席。",
@@ -76,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "特朗普将率“最大美国代表团”出席达沃斯论坛",
+          "url": "https://wallstreetcn.com/livenews/3036705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "特朗普建议美国盟友撤离伊朗",
@@ -98,17 +145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
         },
         {
           "title": "特朗普称取消与伊朗官员所有会面",
@@ -150,7 +186,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
         },
@@ -169,18 +205,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
           "url": "https://news.ifeng.com/c/8psTbSveNse",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 12时40分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 14时25分]"
         },
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -201,8 +238,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 14时25分]"
         },
         {
           "title": "中方回应“是否建议公民去伊朗”",
@@ -210,11 +247,25 @@
           "source": "抖音",
           "ranks": [
             8,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 14时25分]"
+        },
+        {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 14时25分]"
         },
         {
           "title": "外交部回应伊朗局势",
@@ -229,16 +280,26 @@
           "time_info": "[09时01分 ~ 11时29分]"
         },
         {
-          "title": "美国会对伊朗动武吗",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
-          "source": "百度热搜",
+          "title": "中方是否仍然建议中国公民前往伊朗旅游？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32374637",
+          "source": "澎湃新闻",
           "ranks": [
-            19,
-            15
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时29分 ~ 12时40分]"
+          "time_info": "[14时24分 ~ 14时25分]"
+        },
+        {
+          "title": "白宫：空袭只是对付伊朗的选项之一",
+          "url": "https://www.toutiao.com/trending/7594215539677888548/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
         },
         {
           "title": "中信证券：伊朗骚乱事件下，中东局势将走向何方？",
@@ -263,6 +324,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "伊朗外长与阿联酋外长通话 强调加强地区稳定",
+          "url": "https://wallstreetcn.com/livenews/3036694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "如何评价伊朗的星链干扰器？",
           "url": "https://www.zhihu.com/question/1993953352652956332",
           "source": "知乎",
@@ -276,38 +348,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "梁文锋新论文剧透下一代模型",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 12时40分]"
-        },
-        {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时29分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年01月14日（周三）上海金早盘价为1033.73元/克，较国际金价（1036.81元/克）低3.08元/克",
@@ -319,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "澳新银行预计2026年下半年黄金价格将高于5000美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3036683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "金价亚盘走高 分析师称美国对伊朗进行军事干预的可能性上升",
@@ -334,6 +387,66 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "梁文锋新论文剧透下一代模型",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            14,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 14时25分]"
+        },
+        {
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 11时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 14时25分]"
+        },
+        {
+          "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
+          "url": "https://www.zhihu.com/question/1994310970621859099",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 14时25分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -345,8 +458,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 12时40分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 14时25分]"
         },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
@@ -357,26 +470,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 12时40分]"
+          "appearance_count": 5,
+          "time_info": "[09时01分 ~ 14时25分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
+          "title": "澳新银行预计，2026年下半年黄金交易价格将高于5000美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260114133123697800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            6
+            15
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 12时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     }
