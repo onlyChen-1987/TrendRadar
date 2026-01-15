@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-15T14:20:56.436890+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-01-15T16:19:40.612042+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 26,
       "titles": [
+        {
+          "title": "美媒：美国已制定多套方案，或直接针对伊朗最高领导层",
+          "url": "https://news.ifeng.com/c/8pvokQP3xu7",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 16时19分]"
+        },
         {
           "title": "伊朗：骚乱事件主要幕后人员落网",
           "url": "https://news.ifeng.com/c/8pv17Vq3RFg",
@@ -30,15 +41,15 @@
           "time_info": "[08时57分 ~ 11时24分]"
         },
         {
-          "title": "美媒：美国已制定多套方案，或直接针对伊朗最高领导层",
-          "url": "https://news.ifeng.com/c/8pvokQP3xu7",
+          "title": "伊朗情报部门：骚乱事件主要幕后人员落网",
+          "url": "https://news.ifeng.com/c/8pvx2THKanp",
           "source": "凤凰网",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时20分]"
+          "time_info": "[14时20分 ~ 16时19分]"
         },
         {
           "title": "金十提示：伊朗两个小时前关闭领空的航行通告现已失效，目前民航客机仍选择绕道而行。",
@@ -74,17 +85,6 @@
           "time_info": "11时24分"
         },
         {
-          "title": "伊朗情报部门：骚乱事件主要幕后人员落网",
-          "url": "https://news.ifeng.com/c/8pvx2THKanp",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
-        {
           "title": "印度驻伊朗大使馆：建议目前身处伊朗的印度公民通过可行的交通方式离开伊朗",
           "url": "https://flash.jin10.com/detail/20260115121028937800",
           "source": "金十数据",
@@ -107,6 +107,30 @@
           "time_info": "08时57分"
         },
         {
+          "title": "伊朗对德黑兰飞行情报区空域管控",
+          "url": "https://www.douyin.com/hot/2368070",
+          "source": "抖音",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 16时19分]"
+        },
+        {
+          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1995060884632987422",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 16时19分]"
+        },
+        {
           "title": "聚焦中东局势：美军从乌代德空军基地撤人 伊朗警告若发动打击将实施报复",
           "url": "https://www.cls.cn/detail/2258108",
           "source": "财联社热门",
@@ -118,29 +142,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时24分 ~ 14时20分]"
-        },
-        {
-          "title": "伊朗对德黑兰飞行情报区空域管控",
-          "url": "https://www.douyin.com/hot/2368070",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 14时20分]"
-        },
-        {
-          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
-          "url": "https://www.zhihu.com/question/1995060884632987422",
-          "source": "知乎",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时20分]"
         },
         {
           "title": "伊朗外长：政府已完全掌控局面",
@@ -250,7 +251,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -302,18 +303,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
           "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 16时19分]"
         },
         {
           "title": "韩国官员：若法院对特朗普的关税裁决不利 韩国将寻求“最佳”应对方案",
@@ -327,6 +329,17 @@
           "time_info": "11时24分"
         },
         {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
           "url": "https://news.ifeng.com/c/8puu58c2sSy",
           "source": "凤凰网",
@@ -338,6 +351,31 @@
           "time_info": "08时57分"
         },
         {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 16时19分]"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 16时19分]"
+        },
+        {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
           "url": "https://www.cls.cn/detail/2258166",
           "source": "财联社热门",
@@ -345,17 +383,6 @@
             10,
             6,
             7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 14时20分]"
-        },
-        {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
-          "ranks": [
             8
           ],
           "is_new": false,
@@ -373,18 +400,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时24分 ~ 14时20分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时20分]"
         },
         {
           "title": "哥伦比亚总统称将于2月3日同特朗普会晤",
@@ -449,7 +464,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
@@ -485,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "外媒：特朗普称会前往委内瑞拉，并预计委代总统将访问美国",
+          "url": "https://wallstreetcn.com/livenews/3037765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "特朗普暗示暂缓对伊朗采取行动后，油价下跌",
@@ -560,7 +586,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
@@ -578,8 +604,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时57分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 16时19分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
@@ -608,8 +634,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 16时19分]"
         }
       ]
     }
