@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T18:32:11.570178+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-02-05T20:38:11.732776+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 20时38分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 20时38分]"
         },
         {
           "title": "特朗普：中美元首通话内容详实，气氛积极",
@@ -87,6 +87,17 @@
           "time_info": "09时09分"
         },
         {
+          "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
+          "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
+        },
+        {
           "title": "特朗普：美联储“理论上”是一个独立机构",
           "url": "https://flash.jin10.com/detail/20260205083156252800",
           "source": "金十数据",
@@ -115,9 +126,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "英国央行：特朗普关税对英国进口价格构成压力。",
+          "url": "https://wallstreetcn.com/livenews/3050656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -178,7 +200,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
@@ -209,7 +231,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -222,8 +244,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 20时38分]"
+        },
+        {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
         },
         {
           "title": "蔚来美股盘前涨超8.6%，公司预计2025年第四季度经调整经营利润约7亿元至12亿元。",
@@ -232,7 +265,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -243,7 +276,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -284,19 +317,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "美伊谈判在即 伊朗：只谈核问题",
-          "url": "https://wallstreetcn.com/livenews/3050506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
         {
           "title": "鲁比奥否认向伊朗让步，透露美方条件",
           "url": "https://news.ifeng.com/c/8qUUgmewA1z",
@@ -306,8 +328,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时06分 ~ 20时38分]"
         },
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -320,8 +342,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时06分 ~ 20时38分]"
+        },
+        {
+          "title": "美伊谈判在即 伊朗：只谈核问题",
+          "url": "https://wallstreetcn.com/livenews/3050506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
@@ -357,13 +390,24 @@
           "time_info": "14时45分"
         },
         {
+          "title": "伊朗扣押两艘走私船 查获100万升燃油",
+          "url": "https://wallstreetcn.com/livenews/3050653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "土耳其总统埃尔多安表示，土耳其正尽最大努力防止美伊紧张局势将该地区拖入新的冲突。美国和伊朗希望为外交铺平道路，这是积极的。",
           "url": "https://flash.jin10.com/detail/20260205180015593800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -394,8 +438,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 18时32分]"
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 20时38分]"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 20时38分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -424,17 +480,6 @@
           "time_info": "[14时45分 ~ 18时32分]"
         },
         {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 18时32分]"
-        },
-        {
           "title": "谷歌母公司Alphabet业绩报告要点总结",
           "url": "https://wallstreetcn.com/livenews/3050191",
           "source": "华尔街见闻-快讯",
@@ -452,7 +497,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         }
@@ -460,8 +505,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "摩根大通：预计今年官方净购金量将达到800吨，仍比2022年前高出70%。 今年央行和投资者的需求足以最终在2026年底将金价推高至每盎司6300美元。 预计近期银价有更高的底部（未来几个季度约为每盎司75-80美元）。 到明年初，银价最终将平均回升至每盎司90美元左右。",
+          "url": "https://wallstreetcn.com/livenews/3050662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
         {
           "title": "金价巨震之下，水贝难寻金条现货|传真",
           "url": "https://www.cls.cn/detail/2280847",
@@ -475,6 +531,17 @@
           "time_info": "[09时09分 ~ 12时06分]"
         },
         {
+          "title": "瑞银：黄金和白银在2026年仍有进一步上涨空间。 银价应受益于更高的金价以及近期基本面趋紧。",
+          "url": "https://wallstreetcn.com/livenews/3050644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -484,6 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "瑞银集团：白银应受益于更高的黄金价格和更紧张的近期基本面。",
+          "url": "https://flash.jin10.com/detail/20260205195550945800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     },
@@ -500,8 +578,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 20时38分]"
         }
       ]
     },
