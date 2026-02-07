@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T18:16:47.193757+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-02-07T20:26:42.314180+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：下周将再与伊朗谈判",
@@ -25,11 +25,53 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时00分 ~ 18时16分]"
+          "appearance_count": 8,
+          "time_info": "[12时00分 ~ 20时26分]"
+        },
+        {
+          "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551398",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时00分 ~ 20时26分]"
+        },
+        {
+          "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32550953",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时00分 ~ 20时26分]"
+        },
+        {
+          "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
+          "url": "https://www.zhihu.com/question/2001670984583902597",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时00分 ~ 20时26分]"
         },
         {
           "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
@@ -52,45 +94,6 @@
             13,
             9,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时00分 ~ 18时16分]"
-        },
-        {
-          "title": "特朗普起诉美两部门索赔百亿美元，美财长：若胜诉，费用将由民众承担",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551398",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时00分 ~ 18时16分]"
-        },
-        {
-          "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32550953",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时00分 ~ 18时16分]"
-        },
-        {
-          "title": "特朗普是否参与了爱泼斯坦萝莉岛的犯罪行为？",
-          "url": "https://www.zhihu.com/question/2001670984583902597",
-          "source": "知乎",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -139,6 +142,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时01分 ~ 18时16分]"
+        },
+        {
+          "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
+          "url": "https://flash.jin10.com/detail/20260207200111862800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "特朗普称下周将再次与伊朗谈判",
@@ -260,6 +274,17 @@
           "time_info": "[12时00分 ~ 13时06分]"
         },
         {
+          "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
+          "url": "https://wallstreetcn.com/articles/3765201",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 20时26分]"
+        },
+        {
           "title": "特朗普：美国与伊朗进行了“非常好的会谈”伊朗“非常渴望”达成协议",
           "url": "https://flash.jin10.com/detail/20260207095625549800",
           "source": "金十数据",
@@ -284,6 +309,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时01分 ~ 14时31分]"
+        },
+        {
+          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
+          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 20时26分]"
+        },
+        {
+          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
+          "url": "https://wallstreetcn.com/articles/3765222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 20时26分]"
         },
         {
           "title": "美国总统特朗普：伊朗不得拥有核武器。",
@@ -334,17 +382,6 @@
           "time_info": "[09时07分 ~ 12时01分]"
         },
         {
-          "title": "贝森特和特朗普“表忠心”：澄清强美元政策，重申起诉沃什是玩笑，暗示鲍威尔失职",
-          "url": "https://wallstreetcn.com/articles/3765201",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 18时16分]"
-        },
-        {
           "title": "美国总统特朗普谈奥巴马视频：我没有犯错，我关注成千上万的事情。",
           "url": "https://flash.jin10.com/detail/20260207083032901800",
           "source": "金十数据",
@@ -381,26 +418,48 @@
           "time_info": "[14时31分 ~ 16时19分]"
         },
         {
-          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
-          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
+          "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
+          "url": "https://news.ifeng.com/c/8qY8hiEtDth",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "20时26分"
         },
         {
-          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
-          "url": "https://wallstreetcn.com/articles/3765222",
-          "source": "华尔街见闻",
+          "title": "尽管物价上涨 特朗普近来已20次声称通胀得到控制",
+          "url": "https://flash.jin10.com/detail/20260207191137605800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "20时26分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-07）",
+          "url": "https://flash.jin10.com/detail/20260207181103862800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
+          "url": "https://wallstreetcn.com/livenews/3051720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "美国总统特朗普谈奥巴马视频：我没把整个视频看完。",
@@ -431,7 +490,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -450,8 +509,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "伊朗外长：会谈是良好开端，最大挑战是不信任",
+          "url": "https://news.ifeng.com/c/8qXlsCyK0HX",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时00分 ~ 20时26分]"
+        },
         {
           "title": "伊朗就美伊核谈判发表声明",
           "url": "https://news.ifeng.com/c/8qXCGc0ACP1",
@@ -465,17 +535,6 @@
           "time_info": "[09时07分 ~ 16时19分]"
         },
         {
-          "title": "伊朗外长：会谈是良好开端，最大挑战是不信任",
-          "url": "https://news.ifeng.com/c/8qXlsCyK0HX",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时00分 ~ 18时16分]"
-        },
-        {
           "title": "美伊核谈判在阿曼重启 伊朗武装部队今晚起将进入最高级别戒备状态",
           "url": "https://www.cls.cn/detail/2283240",
           "source": "财联社热门",
@@ -485,6 +544,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时07分 ~ 12时01分]"
+        },
+        {
+          "title": "伊朗外长会见卡塔尔首相兼外交大臣，就地区局势交换意见",
+          "url": "https://wallstreetcn.com/livenews/3051730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "伊朗外长会见卡塔尔首相兼外交大臣 就地区局势交换意见",
+          "url": "https://flash.jin10.com/detail/20260207195937294800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "美国再发警告，敦促本国公民尽快离开伊朗",
@@ -498,15 +579,41 @@
           "time_info": "09时07分"
         },
         {
-          "title": "伊朗外长：下一轮核谈判日期未定，若遭美袭击将攻击美军基地",
-          "url": "https://wallstreetcn.com/livenews/3051705",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
+          "url": "https://flash.jin10.com/detail/20260207193925361800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "20时26分"
+        },
+        {
+          "title": "伊朗外长：下一轮核谈判日期未定，若遭美袭击将攻击美军基地",
+          "url": "https://wallstreetcn.com/livenews/3051705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 20时26分]"
+        },
+        {
+          "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32555521",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 20时26分]"
         },
         {
           "title": "伊朗亮出新型导弹和地下城有何用意",
@@ -533,17 +640,16 @@
           "time_info": "[09时07分 ~ 12时01分]"
         },
         {
-          "title": "伊美谈判“暂时”结束，伊朗外长称开局良好",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32555521",
-          "source": "澎湃新闻",
+          "title": "伊朗外长：下一轮核谈判日期尚未确定",
+          "url": "https://flash.jin10.com/detail/20260207165424168800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            14,
-            12
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 18时16分]"
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 20时26分]"
         },
         {
           "title": "伊朗陆军司令说伊朗武装部队将坚决捍卫领土完整",
@@ -558,6 +664,28 @@
           "time_info": "[12时01分 ~ 13时06分]"
         },
         {
+          "title": "伊朗外长为伊美谈判划定“红线”",
+          "url": "https://wallstreetcn.com/livenews/3051726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：军队始终保持高度戒备状态",
+          "url": "https://wallstreetcn.com/livenews/3051724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "伊朗外长敦促国际社会对以色列实施制裁。",
           "url": "https://flash.jin10.com/detail/20260207153623196800",
           "source": "金十数据",
@@ -569,24 +697,13 @@
           "time_info": "16时19分"
         },
         {
-          "title": "伊朗外长：下一轮核谈判日期尚未确定",
-          "url": "https://flash.jin10.com/detail/20260207165424168800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
           "title": "伊朗外交部长：目前尚未就与美国的新一轮核谈判确定日期，但我们认为谈判应尽快举行。",
           "url": "https://flash.jin10.com/detail/20260207164116783800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -597,7 +714,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }
@@ -615,8 +732,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 18时16分]"
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 20时26分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -624,11 +741,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 18时16分]"
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 20时26分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -638,11 +756,12 @@
             7,
             8,
             10,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 18时16分]"
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 20时26分]"
         },
         {
           "title": "美股成交额前20：英伟达结束五连跌",
@@ -690,11 +809,12 @@
           "ranks": [
             10,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 18时16分]"
+          "appearance_count": 4,
+          "time_info": "[14时31分 ~ 20时26分]"
         }
       ]
     },
@@ -732,8 +852,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时07分 ~ 18时16分]"
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 20时26分]"
         }
       ]
     },
