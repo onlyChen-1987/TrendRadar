@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T12:15:29.327049+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-02-12T14:50:47.747455+08:00",
+  "total_titles_processed": 643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
@@ -30,16 +30,28 @@
           "time_info": "09时13分"
         },
         {
+          "title": "从Deepseek到Seedance中国AI成了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
           "title": "UP主实测DeepSeek新模型",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 14时50分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -50,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 14时50分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -62,8 +74,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 14时50分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -71,6 +83,91 @@
           "source": "华尔街见闻",
           "ranks": [
             8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
+          "url": "https://wallstreetcn.com/articles/3765521",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 14时50分]"
+        },
+        {
+          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
+          "url": "https://www.cls.cn/detail/2287759",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 14时50分]"
+        },
+        {
+          "title": "特朗普否认了，仅拒邀两人",
+          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
+          "url": "https://www.cls.cn/detail/2288046",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
+          "url": "https://www.cls.cn/detail/2287874",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "特朗普关税政策正迎来新的挑战",
+          "url": "https://www.toutiao.com/trending/7605755745048464905/",
+          "source": "今日头条",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -91,8 +188,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 14时50分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -112,49 +209,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
-          "url": "https://wallstreetcn.com/articles/3765521",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时13分 ~ 12时15分]"
-        },
-        {
-          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
-          "url": "https://www.cls.cn/detail/2287759",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "特朗普关税政策正迎来新的挑战",
-          "url": "https://www.toutiao.com/trending/7605755745048464905/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
+          "time_info": "[12时15分 ~ 14时50分]"
         }
       ]
     },
@@ -162,6 +219,17 @@
       "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
+        {
+          "title": "伊朗总统：愿接受任何形式的核查",
+          "url": "https://www.douyin.com/hot/2397305",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 14时50分]"
+        },
         {
           "title": "伊朗总统道歉",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=10&Refer=top",
@@ -172,17 +240,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
-        },
-        {
-          "title": "伊朗总统：愿接受任何形式的核查",
-          "url": "https://www.douyin.com/hot/2397305",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         }
       ]
     },
@@ -215,8 +272,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[09时13分 ~ 14时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY短线走高10点，现报96.97。",
+          "url": "https://flash.jin10.com/detail/20260212141854807800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         }
       ]
     }
