@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T12:48:24.420090+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-02-28T14:25:16.295943+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 14时25分]"
         },
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 14时25分]"
         },
         {
           "title": "特朗普扬言：美国或“友好接管”古巴",
@@ -40,8 +40,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 14时25分]"
+        },
+        {
+          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
+          "url": "https://wallstreetcn.com/articles/3766396",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 14时25分]"
         },
         {
           "title": "特朗普对伊核谈判不满",
@@ -53,18 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        },
-        {
-          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
-          "url": "https://wallstreetcn.com/articles/3766396",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时48分]"
         },
         {
           "title": "特朗普：尚未就对伊动武作最终决定",
@@ -87,8 +87,21 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 14时25分]"
+        },
+        {
+          "title": "特朗普政府表示，关税退款流程将继续进行，退款流程可能需要很长时间。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3060581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            14,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时48分]"
+          "time_info": "[11时46分 ~ 14时25分]"
         },
         {
           "title": "特朗普政府正在考虑对Anthropic公司采取更强有力的措施。",
@@ -109,18 +122,6 @@
           "ranks": [
             10,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时48分]"
-        },
-        {
-          "title": "特朗普政府表示，关税退款流程将继续进行，退款流程可能需要很长时间。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3060581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -168,7 +169,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -195,15 +196,48 @@
           "time_info": "09时03分"
         },
         {
+          "title": "Anthropic拒绝五角大楼要求，特朗普下令联邦机构停用Anthropic产品",
+          "url": "https://wallstreetcn.com/articles/3766399",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "克林顿闭门作证爱泼斯坦案，特朗普表态",
           "url": "https://news.ifeng.com/c/8r6bGfY13Ho",
           "source": "凤凰网",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
+        },
+        {
+          "title": "“特朗普的安全芭比”，危险了",
+          "url": "https://news.ifeng.com/c/8r6sxbP9dJN",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297953",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "美国总统特朗普在得克萨斯州科珀斯克里斯蒂的一家Whataburger餐厅请民众吃汉堡。特朗普称：人人有汉堡。",
@@ -215,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "美国总统特朗普：（谈白俄罗斯时表示）我们关系非常好。我非常喜欢这个领导人——我对他非常尊重。",
+          "url": "https://flash.jin10.com/detail/20260228134622338800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "伊朗同意不拥有「可制造核弹的核材料」，特朗普称「更愿和平解决问题」，美伊局势是否会有缓和？",
@@ -237,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "特朗普媒体与科技集团2025年财务资产达25亿美元",
+          "url": "https://flash.jin10.com/detail/20260228131710675800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "特朗普：更愿和平解决伊朗问题，希望达成“有意义的协议”",
@@ -314,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "美国前总统拜登在南卡罗来纳州的演讲中宣称，他将“最强的南部边界”和“世界上最强的经济”交给了现任总统特朗普。“这不是夸大其词。”",
+          "url": "https://flash.jin10.com/detail/20260228124443012800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "美国总统特朗普：移民与海关执法局（ICE，国土安全部/DHS下辖机构）做得不错。",
@@ -418,7 +485,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "美军最大航母抵达中东，美官方：美国公民尽快离开以色列！我外交部：中国公民尽快撤离伊朗",
@@ -428,8 +495,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 14时25分]"
         },
         {
           "title": "信号已很明显，伊朗进入空前高危时刻",
@@ -439,8 +506,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 14时25分]"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗，在当地中国公民尽快撤离",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32667152",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 14时25分]"
         },
         {
           "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
@@ -448,11 +527,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 14时25分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -466,28 +546,39 @@
           "time_info": "09时03分"
         },
         {
+          "title": "以色列防长：已对伊朗发起先发制人的打击",
+          "url": "https://flash.jin10.com/detail/20260228142214538800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "伊朗首都德黑兰市中心发生爆炸",
+          "url": "https://wallstreetcn.com/livenews/3060612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "中国驻伊朗大使馆郑重提醒",
           "url": "https://www.douyin.com/hot/2413950",
           "source": "抖音",
           "ranks": [
             5,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时48分]"
-        },
-        {
-          "title": "外交部提醒中国公民暂勿前往伊朗，在当地中国公民尽快撤离",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32667152",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 14时25分]"
         },
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗警告伊朗“有时候不得不打”",
@@ -501,17 +592,15 @@
           "time_info": "09时03分"
         },
         {
-          "title": "伊朗同意不拥有可制造核弹的核材料",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E7%9A%84%E6%A0%B8%E6%9D%90%E6%96%99%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "市场消息：伊朗德黑兰发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260228141614546800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            8,
-            30
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "伊朗危!提醒中国公民撤离",
@@ -520,7 +609,21 @@
           "ranks": [
             3,
             11,
-            15
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 14时25分]"
+        },
+        {
+          "title": "伊朗同意不拥有可制造核弹的核材料",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E7%9A%84%E6%A0%B8%E6%9D%90%E6%96%99%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            8,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -540,6 +643,19 @@
           "time_info": "[09时03分 ~ 12时48分]"
         },
         {
+          "title": "伊朗同意不拥有可制造核弹核材料",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E6%A0%B8%E6%9D%90%E6%96%99",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 14时25分]"
+        },
+        {
           "title": "多国呼吁避免前往伊朗等中东地区",
           "url": "https://wallstreetcn.com/livenews/3060563",
           "source": "华尔街见闻-快讯",
@@ -553,17 +669,29 @@
           "time_info": "[09时03分 ~ 12时48分]"
         },
         {
-          "title": "伊朗同意不拥有可制造核弹核材料",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E6%A0%B8%E6%9D%90%E6%96%99",
-          "source": "百度热搜",
+          "title": "伊朗同意不拥有制造核弹的核材料",
+          "url": "https://www.douyin.com/hot/2414004",
+          "source": "抖音",
           "ranks": [
-            17,
-            13,
-            15
+            20,
+            23,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时48分]"
+          "time_info": "[11时46分 ~ 14时25分]"
+        },
+        {
+          "title": "中国公民暂勿前往伊朗",
+          "url": "https://www.douyin.com/hot/2413685",
+          "source": "抖音",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 14时25分]"
         },
         {
           "title": "美国对伊朗提了4项要求",
@@ -614,30 +742,6 @@
           "time_info": "[09时03分 ~ 11时46分]"
         },
         {
-          "title": "伊朗同意不拥有制造核弹的核材料",
-          "url": "https://www.douyin.com/hot/2414004",
-          "source": "抖音",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时48分]"
-        },
-        {
-          "title": "中国公民暂勿前往伊朗",
-          "url": "https://www.douyin.com/hot/2413685",
-          "source": "抖音",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时46分]"
-        },
-        {
           "title": "伊朗核问题到底咋回事",
           "url": "https://www.douyin.com/hot/2413953",
           "source": "抖音",
@@ -666,7 +770,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         },
@@ -726,13 +830,24 @@
           "time_info": "09时03分"
         },
         {
+          "title": "在伊华人讲述伊朗首都现状",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BC%8A%E5%8D%8E%E4%BA%BA%E8%AE%B2%E8%BF%B0%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "多国呼吁避免前往伊朗",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E5%91%BC%E5%90%81%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时48分"
         }
@@ -740,19 +855,8 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
-          "url": "https://flash.jin10.com/detail/20260228120317791800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
         {
           "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
           "url": "https://wallstreetcn.com/articles/3766389",
@@ -763,8 +867,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 14时25分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -777,6 +881,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时46分 ~ 12时48分]"
+        },
+        {
+          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
+          "url": "https://www.cls.cn/detail/2297763",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 14时25分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
@@ -815,16 +931,16 @@
           "time_info": "[11时46分 ~ 12时48分]"
         },
         {
-          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
-          "url": "https://www.cls.cn/detail/2297763",
-          "source": "财联社热门",
+          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
+          "url": "https://flash.jin10.com/detail/20260228120317791800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            7
+            5,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时48分]"
+          "appearance_count": 2,
+          "time_info": "[12时48分 ~ 14时25分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
@@ -832,11 +948,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 14时25分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
@@ -863,6 +980,17 @@
           "time_info": "[11时46分 ~ 12时48分]"
         },
         {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
           "url": "https://flash.jin10.com/detail/20260228080935525800",
           "source": "金十数据",
@@ -872,6 +1000,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "AWS与OpenAI联合开发“有状态运行时环境”，预计数月内推出",
+          "url": "https://flash.jin10.com/detail/20260228132543765800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         }
       ]
     },
@@ -887,8 +1026,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 14时25分]"
         },
         {
           "title": "10年期美债收益率跌穿3.94%，2月份累跌将近30个基点",
@@ -916,8 +1055,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 14时25分]"
         },
         {
           "title": "美股下跌对普通人有何启示",
@@ -941,11 +1080,12 @@
           "url": "https://www.cls.cn/detail/2297724",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时48分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 14时25分]"
         }
       ]
     }
