@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T12:44:35.837196+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-04-16T15:19:24.265869+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "内塔尼亚胡：对伊朗战事可能再度爆发",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 15时19分]"
+        },
+        {
+          "title": "伊朗战争丨穆杰塔巴顾问威胁击沉美国军舰",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时44分]"
+          "time_info": "[12时44分 ~ 15时19分]"
         },
         {
           "title": "伊朗战争丨美民主党对防长赫格塞思发起弹劾",
@@ -30,26 +41,26 @@
           "time_info": "09时29分"
         },
         {
-          "title": "伊朗战争丨穆杰塔巴顾问威胁击沉美国军舰",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
           "title": "“比两伊战争还糟糕”：伊朗经济被炸回原点，谈判压力骤增",
           "url": "https://flash.jin10.com/detail/20260416122438797800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "伊朗军方：伊朗武装力量当前处于高度戒备状态",
+          "url": "https://wallstreetcn.com/livenews/3089088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "伊朗说美国封锁霍尔木兹海峡或导致停火协议破裂",
@@ -82,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 15时19分]"
         },
         {
           "title": "美以袭击伊朗进入第 48 天，当前局势如何？哪些信息值得关注？",
@@ -93,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 15时19分]"
         },
         {
           "title": "伊朗或考虑允许船只通航霍尔木兹海峡阿曼一侧",
@@ -104,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 15时19分]"
         },
         {
           "title": "伊朗将使用替代港口绕开美国封锁，有油轮已“成功闯关”霍尔木兹",
@@ -116,8 +127,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 15时19分]"
+        },
+        {
+          "title": "伊朗或用3种手段反制美军封锁",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%88%96%E7%94%A83%E7%A7%8D%E6%89%8B%E6%AE%B5%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%86%9B%E5%B0%81%E9%94%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 15时19分]"
+        },
+        {
+          "title": "那个打出6:0的元帅，去了伊朗",
+          "url": "https://news.ifeng.com/c/8sMaxiuOabf",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 15时19分]"
+        },
+        {
+          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
+          "url": "https://www.zhihu.com/question/2027115873823973436",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 15时19分]"
         },
         {
           "title": "伊朗总统连发数问怒斥美国凭什么",
@@ -132,50 +179,16 @@
           "time_info": "[09时29分 ~ 12时44分]"
         },
         {
-          "title": "伊朗或用3种手段反制美军封锁",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%88%96%E7%94%A83%E7%A7%8D%E6%89%8B%E6%AE%B5%E5%8F%8D%E5%88%B6%E7%BE%8E%E5%86%9B%E5%B0%81%E9%94%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时44分]"
-        },
-        {
-          "title": "那个打出6:0的元帅，去了伊朗",
-          "url": "https://news.ifeng.com/c/8sMaxiuOabf",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时44分]"
-        },
-        {
-          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
-          "url": "https://www.zhihu.com/question/2027115873823973436",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时44分]"
-        },
-        {
           "title": "伊朗：已做好打持久战准备",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E6%89%93%E6%8C%81%E4%B9%85%E6%88%98%E5%87%86%E5%A4%87",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 15时19分]"
         },
         {
           "title": "白宫高级官员称美国可“无限期”封锁伊朗港口",
@@ -184,9 +197,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "美伊“海上封锁战”白热化：伊朗威胁若美封锁持续将切断红海航道",
+          "url": "https://www.cls.cn/detail/2345830",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "日本外相告诉伊朗，维护停火最为重要。",
@@ -211,15 +235,59 @@
           "time_info": "09时29分"
         },
         {
+          "title": "伊朗称将全力推进战后重建 指美国已成以色列“第七个行政区”",
+          "url": "https://wallstreetcn.com/livenews/3089073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "如何评价伊朗遭袭时美制通信设备集体失灵？发展本土技术有多重要？",
           "url": "https://www.zhihu.com/question/2027751325488694656",
           "source": "知乎",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "伊朗首都突发炸弹袭击",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E7%AA%81%E5%8F%91%E7%82%B8%E5%BC%B9%E8%A2%AD%E5%87%BB%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "伊朗军方：伊朗武装力量当前处于高度戒备状态",
+          "url": "https://flash.jin10.com/detail/20260416150551083800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "日经225指数收涨2.4%，报59,518.34点，创历史新高，抹去伊朗战争带来的跌幅。 日本东证指数收涨1.2%，报3,814.46点。 韩国首尔综指收涨2.2%，报6,226.05点。",
+          "url": "https://wallstreetcn.com/livenews/3089066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "伊朗提出战争赔偿问题有何考量",
@@ -228,7 +296,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -261,7 +329,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
@@ -279,8 +347,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 15时19分]"
+        },
+        {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 15时19分]"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
@@ -294,15 +374,17 @@
           "time_info": "[09时29分 ~ 12时44分]"
         },
         {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
+          "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
+          "url": "https://www.cls.cn/detail/2345537",
+          "source": "财联社热门",
           "ranks": [
-            4
+            7,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 15时19分]"
         },
         {
           "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
@@ -316,18 +398,6 @@
           "time_info": "09时29分"
         },
         {
-          "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
-          "url": "https://www.cls.cn/detail/2345537",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时44分]"
-        },
-        {
           "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
           "url": "https://wallstreetcn.com/articles/3770050",
           "source": "华尔街见闻",
@@ -336,8 +406,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 15时19分]"
+        },
+        {
+          "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
+          "url": "https://www.cls.cn/detail/2345555",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时44分]"
+          "time_info": "[12时44分 ~ 15时19分]"
         },
         {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
@@ -351,24 +433,13 @@
           "time_info": "09时29分"
         },
         {
-          "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
-          "url": "https://www.cls.cn/detail/2345555",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
           "title": "白宫顾问兼特朗普高级助手斯蒂芬·米勒表示，如果伊朗选择错误的道路，美国有能力“无限期”继续封锁伊朗港口。",
           "url": "https://flash.jin10.com/detail/20260416121450223800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -379,7 +450,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
@@ -405,11 +476,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E6%96%B0%E9%AB%98",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 15时19分]"
         },
         {
           "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
@@ -425,6 +497,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价这一宽幅整理区间，究竟说明了什么？",
+          "url": "https://flash.jin10.com/detail/20260416151238132800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "金十图示：2026年04月16日（周四）上海金午盘价为1058.62元/克，较国际金价(1057.54元/克)，高1.08元/克",
+          "url": "https://flash.jin10.com/detail/20260416150149486800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -434,11 +534,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 15时19分]"
         }
       ]
     },
