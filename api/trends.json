@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T15:19:45.885077+08:00",
-  "total_titles_processed": 665,
+  "generated_at": "2026-04-17T17:08:48.602397+08:00",
+  "total_titles_processed": 817,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 17时08分]"
         },
         {
           "title": "美方对伊朗启动代号为“经济狂怒”的行动",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 17时08分]"
         },
         {
           "title": "伊朗：将就官员被暗杀追究美以责任",
@@ -94,7 +94,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -106,8 +106,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 17时08分]"
         },
         {
           "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
@@ -116,11 +116,12 @@
           "ranks": [
             16,
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 17时08分]"
         },
         {
           "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
@@ -129,11 +130,12 @@
           "ranks": [
             19,
             14,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 17时08分]"
         },
         {
           "title": "美方对伊朗启动代号为「经济狂怒」的行动，其具体措施与以往制裁会有何差异？可能对双方谈判有怎样的影响？",
@@ -211,7 +213,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -299,7 +301,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -321,7 +323,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -340,7 +342,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
@@ -349,11 +351,24 @@
           "ranks": [
             6,
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 17时08分]"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 17时08分]"
         },
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
@@ -368,18 +383,6 @@
           "time_info": "[09时27分 ~ 15时19分]"
         },
         {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时19分]"
-        },
-        {
           "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
           "url": "https://wallstreetcn.com/articles/3770137",
           "source": "华尔街见闻",
@@ -387,8 +390,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 17时08分]"
         },
         {
           "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
@@ -398,8 +401,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 15时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 17时08分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "巴基斯坦总理：我欢迎在美国总统特朗普领导的大胆而明智的外交努力下促成的黎巴嫩停火，并希望这将为可持续和平铺平道路。巴基斯坦重申坚定支持黎巴嫩的主权和领土完整，并将继续支持旨在实现该地区持久和平的一切努力。",
@@ -408,7 +422,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -463,7 +477,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -515,7 +529,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
@@ -525,8 +539,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 17时08分]"
         },
         {
           "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
@@ -573,6 +587,17 @@
           "time_info": "09时27分"
         },
         {
+          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
+          "url": "https://www.cls.cn/detail/2347485",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "美股纳指12连涨创新高",
           "url": "https://www.toutiao.com/trending/7629380678262095878/",
           "source": "今日头条",
@@ -590,7 +615,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -615,6 +640,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)美股盘前涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260417165256011800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         }
       ]
     },
@@ -658,7 +694,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -672,6 +708,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄仁勋：DeepSeek如果先在华为平台适配，对美国来说非常糟糕。（每经网）",
+          "url": "https://wallstreetcn.com/livenews/3089919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         }
       ]
     },
