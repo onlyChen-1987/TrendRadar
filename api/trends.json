@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T16:06:40.360392+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-04-28T19:32:13.869094+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 16时06分]"
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 19时32分]"
         },
         {
           "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 16时06分]"
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 19时32分]"
         },
         {
           "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
@@ -45,6 +46,42 @@
           "time_info": "[09时55分 ~ 16时06分]"
         },
         {
+          "title": "断联42天的8岁伊朗男孩回绍兴上学",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%AD%E8%81%9442%E5%A4%A9%E7%9A%848%E5%B2%81%E4%BC%8A%E6%9C%97%E7%94%B7%E5%AD%A9%E5%9B%9E%E7%BB%8D%E5%85%B4%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
+          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
+          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 19时32分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032226305366647567",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 19时32分]"
+        },
+        {
           "title": "伊朗战争丨伊朗拟推控制霍尔木兹海峡11条方案",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -56,28 +93,16 @@
           "time_info": "13时22分"
         },
         {
-          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
-          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "title": "伊朗“蚊子舰队”如何控制海峡",
+          "url": "https://www.toutiao.com/trending/7632881081640976430/",
           "source": "今日头条",
           "ranks": [
-            11,
-            16,
-            17
+            13,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时55分 ~ 16时06分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032226305366647567",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 16时06分]"
+          "time_info": "[13时22分 ~ 19时32分]"
         },
         {
           "title": "德国总理：美国就伊朗战事缺乏战略性退出方案 | 环球市场",
@@ -114,15 +139,15 @@
           "time_info": "[09时55分 ~ 09时56分]"
         },
         {
-          "title": "伊朗“蚊子舰队”如何控制海峡",
-          "url": "https://www.toutiao.com/trending/7632881081640976430/",
+          "title": "伊朗称在间谍活动基地发现“星链”",
+          "url": "https://www.toutiao.com/trending/7633725221346328627/",
           "source": "今日头条",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时22分 ~ 16时06分]"
+          "time_info": "[19时31分 ~ 19时32分]"
         },
         {
           "title": "伊朗边见普京边提方案 美闭门研判",
@@ -134,6 +159,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "伊朗警方发现“星链”设备等间谍装备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E6%96%B9%E5%8F%91%E7%8E%B0%E2%80%9C%E6%98%9F%E9%93%BE%E2%80%9D%E8%AE%BE%E5%A4%87%E7%AD%89%E9%97%B4%E8%B0%8D%E8%A3%85%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
         },
         {
           "title": "伊朗外长：美方请求谈判 伊方正考虑",
@@ -178,6 +214,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "美国能源部长Wright：美国不考虑禁止出口本国能源产品。 今日将在欧洲宣布具有历史意义的协议。 动态增长将出现在中欧和东欧。 如果我们不出口，将不得不让炼油厂减产。 伊朗剩下的石油储存“并不多了”。 伊朗没有大量的存储能力。",
+          "url": "https://wallstreetcn.com/livenews/3095697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "伊朗多种钢铁产品出口海关执行指令发布",
+          "url": "https://flash.jin10.com/detail/20260428183704702800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "伊朗外长感谢俄方声援和外交支持",
@@ -230,7 +288,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -241,7 +299,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         },
@@ -260,7 +318,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "事关霍尔木兹！伊朗提出“重开新方案” 白宫证实特朗普与团队讨论",
@@ -286,6 +344,17 @@
           "time_info": "[09时55分 ~ 09时56分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-28）",
+          "url": "https://flash.jin10.com/detail/20260428190146182800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "特朗普：希望白宫记者协会晚宴在“约30天内”重启",
           "url": "https://wallstreetcn.com/livenews/3095346",
           "source": "华尔街见闻-快讯",
@@ -309,6 +378,40 @@
           "time_info": "[13时22分 ~ 16时06分]"
         },
         {
+          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 19时32分]"
+        },
+        {
+          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时06分 ~ 19时32分]"
+        },
+        {
+          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
+          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时06分 ~ 19时32分]"
+        },
+        {
           "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
           "url": "https://m.thepaper.cn/newsDetail_forward_33060737",
           "source": "澎湃新闻",
@@ -320,6 +423,17 @@
           "time_info": "[09时55分 ~ 13时22分]"
         },
         {
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
           "title": "主持人读枪手宣言让特朗普破防",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%AF%BB%E6%9E%AA%E6%89%8B%E5%AE%A3%E8%A8%80%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E7%A0%B4%E9%98%B2",
           "source": "百度热搜",
@@ -329,40 +443,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时55分 ~ 09时56分]"
-        },
-        {
-          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 16时06分]"
-        },
-        {
-          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
-          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
-          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
         },
         {
           "title": "特朗普被曝不满意伊朗提案：因为接受就“赢麻”不了",
@@ -404,9 +484,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
+        },
+        {
+          "title": "美国能源部长Wright：特朗普专注于与伊朗达成恰当的协议。",
+          "url": "https://wallstreetcn.com/livenews/3095689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "美官员：特朗普不满伊朗新提案 核问题须优先解决",
@@ -434,8 +525,42 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时06分 ~ 19时32分]"
+        },
+        {
+          "title": "DeepSeek还是最强国产AI吗",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%BF%98%E6%98%AF%E6%9C%80%E5%BC%BA%E5%9B%BD%E4%BA%A7AI%E5%90%97%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
+          "title": "DeepSeek V4有多强 普通人咋用",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E6%9C%89%E5%A4%9A%E5%BC%BA+%E6%99%AE%E9%80%9A%E4%BA%BA%E5%92%8B%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云的算力资源？",
           "url": "https://www.zhihu.com/question/2031729357580919027",
@@ -448,17 +573,6 @@
           "time_info": "13时22分"
         },
         {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
           "title": "DeepSeek注册资本提高50%",
           "url": "https://wallstreetcn.com/livenews/3095322",
           "source": "华尔街见闻-快讯",
@@ -468,6 +582,118 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
+          "url": "https://www.cls.cn/detail/2357431",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 13时22分]"
+        },
+        {
+          "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
+          "url": "https://www.cls.cn/detail/2357399",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 13时22分]"
+        },
+        {
+          "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
+          "url": "https://www.cls.cn/detail/2357471",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 13时22分]"
+        },
+        {
+          "title": "可口可乐第一季度净营收125亿美元，预估122.5亿美元。 第一季度可比每股收益0.86美元，预估0.81美元。 可口可乐仍然预测全年资本支出22亿美元，市场预估22.1亿美元。 可口可乐预计全年可比每股收益增长8％至9％。 可口可乐美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3095726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "通用汽车第一季度调整后每股收益3.70美元，预估2.60美元。 第一季度净销售额和营收436.2亿美元，预估434亿美元。 第一季度调整后息税前利润42.5亿美元，预估30.2亿美元。 第一季度自由现金流12.7亿美元，预估19.2亿美元。 第一季度汽车销量899000辆，预估902126辆。 通用汽车预计全年调整后每股收益11.50美元至13.50美元。 通用汽车预计全年调整后EBIT 135亿美元至155亿美元。 通用汽车预计全年净利润99亿美元至114亿美元，市场预估111.4亿美元。 通用汽车美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3095702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 09时56分]"
+        },
+        {
+          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3095321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "报道称OpenAI未达销售目标 相关股票下跌",
+          "url": "https://wallstreetcn.com/livenews/3095675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     },
@@ -511,77 +737,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
-          "url": "https://www.cls.cn/detail/2357431",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 13时22分]"
-        },
-        {
-          "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
-          "url": "https://www.cls.cn/detail/2357399",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 13时22分]"
-        },
-        {
-          "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
-          "url": "https://www.cls.cn/detail/2357471",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 13时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "金价",
       "match_count": 2,
       "titles": [
         {
-          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2357129",
-          "source": "财联社热门",
+          "title": "金价涨不动了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%B6%A8%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时55分 ~ 09时56分]"
+          "time_info": "[19时31分 ~ 19时32分]"
         },
-        {
-          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3095321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
         {
           "title": "黄金价格跌跌不休",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%23&t=31&band_rank=13&Refer=top",
@@ -589,7 +758,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
         }
