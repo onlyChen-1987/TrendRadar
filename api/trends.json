@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T14:13:35.217262+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-05-28T19:29:43.204184+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗先发制人了",
@@ -64,15 +64,48 @@
           "time_info": "10时00分"
         },
         {
+          "title": "【美军称伊朗向科威特发射的导弹遭拦截】美军中央司令部28日说，美国东部时间27日22时17分，伊朗向科威特发射了一枚弹道导弹，该导弹被科威特军队成功拦截。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3110694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "伊朗：美国必须给所有被冻结的伊朗资产解冻。",
           "url": "https://wallstreetcn.com/livenews/3110500",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：将对任何破坏霍尔木兹海峡的行为予以“果断”回应。",
+          "url": "https://wallstreetcn.com/livenews/3110693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "伊朗在过去24小时内允许26艘船只通过霍尔木兹海峡。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3110692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "美国伊朗开始爆发直接冲突",
@@ -91,11 +124,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 14时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 19时29分]"
         },
         {
           "title": "美以袭击伊朗进入第 90 天，当前局势如何？哪些信息值得关注？",
@@ -103,33 +137,24 @@
           "source": "知乎",
           "ranks": [
             7,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 14时13分]"
-        },
-        {
-          "title": "伊朗官员：伊朗被冻结资产必须被无条件释放",
-          "url": "https://wallstreetcn.com/livenews/3110493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 19时29分]"
         },
         {
           "title": "伊朗对美国空军基地实施打击",
           "url": "https://www.toutiao.com/trending/7644776648142753286/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 19时29分]"
         },
         {
           "title": "伊朗对美国空军基地实施打击",
@@ -138,9 +163,53 @@
           "ranks": [
             12
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 19时29分]"
+        },
+        {
+          "title": "美国：伊朗向科威特发射的导弹已被拦截。 伊朗此举是对停火协议的严重违反。",
+          "url": "https://wallstreetcn.com/livenews/3110688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "伊朗官员：伊朗被冻结资产必须被无条件释放",
+          "url": "https://wallstreetcn.com/livenews/3110493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊称敌人寻求制造分裂。",
+          "url": "https://wallstreetcn.com/livenews/3110685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "科威特方面对伊朗周四对其领土的攻击表示谴责，称保留采取一切措施以维护国家安全的权利。",
+          "url": "https://flash.jin10.com/detail/20260528190833770800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "伊朗总统：伊朗和巴基斯坦领导人讨论了旨在结束战争的外交努力。 巴基斯坦希望当前外交努力能尽快取得最终结果。",
@@ -149,7 +218,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -160,7 +229,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -204,7 +273,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         },
@@ -226,7 +295,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
         }
@@ -234,18 +303,32 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
           "url": "https://news.ifeng.com/c/8tTuRYfuC5R",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 14时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 19时29分]"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 19时29分]"
         },
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
@@ -257,17 +340,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
-        },
-        {
-          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
-          "url": "https://news.ifeng.com/c/8tUdFRDVef2",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
         },
         {
           "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
@@ -282,16 +354,27 @@
           "time_info": "[10时00分 ~ 14时13分]"
         },
         {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
+          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
+          "url": "https://news.ifeng.com/c/8tUdFRDVef2",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            4
+            4,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时00分 ~ 14时13分]"
+          "time_info": "[14时13分 ~ 19时29分]"
+        },
+        {
+          "title": "特朗普的两张稀土王牌，先打上“内战”了",
+          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "特朗普政府正在就资助美国无人机公司进行谈判。（华尔街日报）",
@@ -308,18 +391,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 14时13分]"
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 19时29分]"
         },
         {
           "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
@@ -334,6 +418,17 @@
           "time_info": "[10时00分 ~ 14时13分]"
         },
         {
+          "title": "美股期货走低，纳斯达克100指数期货跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3110691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
           "title": "美股期指集体走高 美光盘前再度大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2383334",
           "source": "财联社热门",
@@ -343,13 +438,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
+        },
+        {
+          "title": "礼来美股盘前涨近2%，美国大型医疗保健公司CVS将礼来公司的Zepbound纳入首选药物清单，此举与之前做法相反。",
+          "url": "https://wallstreetcn.com/livenews/3110687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
         {
           "title": "DeepSeek网页及API服务中断 现已恢复",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BD%91%E9%A1%B5%E5%8F%8AAPI%E6%9C%8D%E5%8A%A1%E4%B8%AD%E6%96%AD+%E7%8E%B0%E5%B7%B2%E6%81%A2%E5%A4%8D",
@@ -357,9 +474,37 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "金价跌了反而不敢买了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E5%8F%8D%E8%80%8C%E4%B8%8D%E6%95%A2%E4%B9%B0%E4%BA%86%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         }
       ]
     },
