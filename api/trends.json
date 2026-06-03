@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-03T10:45:23.148142+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-06-03T16:47:31.073569+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗突袭美军中东基地，科威特拦截导弹画面曝光",
           "url": "https://news.ifeng.com/c/8teM8SFj90x",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 16时47分]"
         },
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
@@ -36,7 +37,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -52,6 +53,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "伊朗谴责美对格什姆岛侵略性袭击",
+          "url": "https://wallstreetcn.com/livenews/3113635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "以总理扬言伊朗政权将覆灭",
           "url": "https://news.ifeng.com/c/8tdSbmQMMVt",
           "source": "凤凰网",
@@ -61,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
+          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         },
         {
           "title": "国际原子能机构总干事格罗西：如果没有对协议条款进行非常严格的核查和监督，就不可能达成结束伊朗核问题的协议。",
@@ -74,13 +97,58 @@
           "time_info": "01时59分"
         },
         {
+          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 16时47分]"
+        },
+        {
+          "title": "伊朗谴责美国袭击伊朗油轮和电信站点。",
+          "url": "https://wallstreetcn.com/livenews/3113626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "伊朗议会副议长：伊朗愿意进行谈判，但不信任美国的承诺。",
+          "url": "https://flash.jin10.com/detail/20260603161312634800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
+          "url": "https://wallstreetcn.com/articles/3773721",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "美军袭击伊朗油轮录音曝光",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%E5%BD%95%E9%9F%B3%E6%9B%9D%E5%85%89",
           "source": "bilibili 热搜",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -91,7 +159,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -113,20 +181,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
         {
-          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
-          "source": "澎湃新闻",
+          "title": "伊朗外交部：科威特和巴林对允许美国袭击负有直接责任",
+          "url": "https://flash.jin10.com/detail/20260603160928340800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "伊朗外交部：科威特和巴林的统治者应对美国的袭击承担责任。",
+          "url": "https://flash.jin10.com/detail/20260603160634309800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "伊朗外交部：强烈谴责美国对伊朗一艘油轮和格什姆岛一座电信塔的侵略性袭击。这些侵略行为不仅违反了4月8日的停火协议，也公然违背了《联合国宪章》所载禁止使用武力的基本原则以及国际法。",
+          "url": "https://flash.jin10.com/detail/20260603160536957800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时45分"
+          "time_info": "16时47分"
         },
         {
           "title": "又一批伊朗无人机袭击驻科威特美军 美军称无人受伤",
@@ -135,7 +225,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -154,7 +244,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普：美伊暂停谈判？假新闻！",
@@ -179,6 +269,28 @@
           "time_info": "01时59分"
         },
         {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡“疯了”：要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "地产商治国？“小特朗普”将任代理国家情报总监",
+          "url": "https://news.ifeng.com/c/8teUlNkkPvO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
           "url": "https://wallstreetcn.com/articles/3773609",
           "source": "华尔街见闻",
@@ -196,7 +308,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -219,9 +331,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
+          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         },
         {
           "title": "美伊谈判陷“断联”疑云，特朗普怒斥假新闻！真主党与以色列激战持续；美联储迎来保守派新顾问……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
@@ -230,7 +364,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -246,13 +380,24 @@
           "time_info": "01时59分"
         },
         {
+          "title": "“罗生门”再现！伊方曝信息交换“已暂停数日” 特朗普坚称对话持续进行",
+          "url": "https://www.cls.cn/detail/2389030",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
           "url": "https://www.cls.cn/detail/2388943",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         }
@@ -260,7 +405,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -269,9 +414,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 16时47分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -280,7 +425,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -305,6 +450,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "“巨无霸IPO”即将接踵而至，以史为鉴美股要崩了？一文看懂",
+          "url": "https://www.cls.cn/detail/2389038",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "迈威尔科技(MRVL.O)美股盘前延续涨势，涨幅达13%，昨日收涨逾30%。",
+          "url": "https://flash.jin10.com/detail/20260603160359106800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         }
       ]
     },
@@ -330,7 +497,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -349,7 +516,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
@@ -369,15 +536,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "三大科技明星企业扎堆IPO：SpaceX之后，Anthropic要领先OpenAI了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年06月03日（周三）上海金早盘价为976.52元/克，较国际金价(973.55元/克)，高2.97元/克",
@@ -386,7 +564,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -397,9 +575,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "国内金价跌破980元每克",
+          "url": "https://www.toutiao.com/trending/7646967437870747187/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         }
       ]
     },
@@ -412,11 +601,12 @@
           "url": "https://wallstreetcn.com/articles/3773688",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 16时47分]"
         }
       ]
     },
