@@ -1,638 +1,205 @@
 {
-  "generated_at": "2026-06-23T22:26:05.196731+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-06-24T10:12:02.000037+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 33,
-      "titles": [
-        {
-          "title": "伊朗谈判团队称伊美谈判达成5项要点",
-          "url": "https://wallstreetcn.com/articles/3775177",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 15时39分]"
-        },
-        {
-          "title": "顽强战平比利时队，伊朗议长、外长发图致敬球队",
-          "url": "https://news.ifeng.com/c/8uBnCRJdvtz",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
-        },
-        {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            22,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 22时26分]"
-        },
-        {
-          "title": "美总统称若伊朗不遵守协议将采取必要行动",
-          "url": "https://wallstreetcn.com/livenews/3123124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "伊朗公布首批解冻资金用途",
-          "url": "https://news.ifeng.com/c/8uBeuEEfSWu",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 18时54分]"
-        },
-        {
-          "title": "伊朗总统抵达巴基斯坦进行正式访问。（伊朗国家电视台）",
-          "url": "https://wallstreetcn.com/livenews/3123384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
-          "url": "https://www.zhihu.com/question/2052442119843701055",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
-          "url": "https://news.ifeng.com/c/8u8tDRAoBuA",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
-          "url": "https://www.zhihu.com/question/2050890957483202069",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 15时39分]"
-        },
-        {
-          "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
-          "url": "https://wallstreetcn.com/articles/3775244",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "内塔尼亚胡：只要我还是以色列总理，伊朗就别想拥有核武器",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33428620",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
-        },
-        {
-          "title": "伊朗总统致敬伊朗国家队",
-          "url": "https://www.toutiao.com/trending/7654016350054613011/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "伊朗世界杯特种兵式参赛",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%B9%E7%A7%8D%E5%85%B5%E5%BC%8F%E5%8F%82%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "美总统称若伊朗不遵守协议将采取必要行动",
-          "url": "https://flash.jin10.com/detail/20260623095835566800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "伊朗代表称美伊技术层级会谈“非常顺利”",
-          "url": "https://wallstreetcn.com/livenews/3123377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "内塔尼亚胡称与伊朗对抗“尚未结束”",
-          "url": "https://wallstreetcn.com/livenews/3123376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "伊朗称将继续追究参与侵略伊朗者的责任",
-          "url": "https://wallstreetcn.com/livenews/3123375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "据巴基斯坦国家电视台：伊朗总统抵达巴基斯坦进行正式访问。",
-          "url": "https://flash.jin10.com/detail/20260623183101502800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "伊朗总统说协议外言论无助于谈判",
-          "url": "https://wallstreetcn.com/livenews/3123257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "当足球穿过战争阴霾：伊朗队的世界杯坎坷之路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33421321",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "伊朗首席谈判代表卡利巴夫：德黑兰与马斯喀特成立了一个联合委员会讨论霍尔木兹海峡问题，具体细节待定。",
-          "url": "https://flash.jin10.com/detail/20260623182818302800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "市场消息：伊朗总统佩泽希齐扬周二出发前往巴基斯坦前表示，德黑兰正在寻求与美国达成的谅解备忘录的全面落实。如果所有谅解备忘录的条款得到落实，许多地区问题将得到解决。",
-          "url": "https://flash.jin10.com/detail/20260623152525289800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "市场消息：伊朗外长阿拉格齐抵达巴基斯坦。",
-          "url": "https://flash.jin10.com/detail/20260623182234824800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：周一已与美国财长贝森特通话。 重申美日有关外汇的协议。 通话还提及霍尔木兹海峡和伊朗。",
-          "url": "https://wallstreetcn.com/livenews/3123091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "伊朗：伊美瑞士谈判未涉及核问题",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%BC%8A%E7%BE%8E%E7%91%9E%E5%A3%AB%E8%B0%88%E5%88%A4%E6%9C%AA%E6%B6%89%E5%8F%8A%E6%A0%B8%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "日企掏钱,伊朗白捡三千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "美国暂时放松对伊朗石油制裁措施",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%9A%82%E6%97%B6%E6%94%BE%E6%9D%BE%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9%E5%88%B6%E8%A3%81%E6%8E%AA%E6%96%BD",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，此次访问巴基斯坦旨在感谢其在促成美伊谅解备忘录过程中发挥的作用。",
-          "url": "https://flash.jin10.com/detail/20260623151903458800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "伊朗代表称美伊技术层级会谈“非常顺利”",
-          "url": "https://flash.jin10.com/detail/20260623181908163800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "市场消息：伊朗谈判代表团已从阿曼首都马斯喀特启程返回德黑兰，伊朗议会议长卡利巴夫在此次会晤中与阿曼方面就霍尔木兹海峡新管理安排的稳定化问题进行了讨论。",
-          "url": "https://flash.jin10.com/detail/20260623181750973800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "伊朗讲述终止瑞士谈判过程",
-          "url": "https://wallstreetcn.com/livenews/3123242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
-          "title": "伊朗：近期通过海峡运输了大量石油。",
-          "url": "https://wallstreetcn.com/livenews/3123346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡对商船完全开放。（ISNA）",
-          "url": "https://wallstreetcn.com/livenews/3123343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 6,
       "titles": [
         {
-          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2052711074215081192",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时38分 ~ 22时26分]"
-        },
-        {
-          "title": "美部长拍特朗普马屁，当场被打脸",
-          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
+          "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
+          "url": "https://news.ifeng.com/c/8uClVTnMwCW",
           "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时54分 ~ 22时26分]"
-        },
-        {
-          "title": "哥伦比亚右翼大选中险胜，特朗普背书成助力",
-          "url": "https://news.ifeng.com/c/8uBgi1AZcfM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
-        },
-        {
-          "title": "特朗普：美汽车巨头将开始生产导弹",
-          "url": "https://www.toutiao.com/trending/7654379948538855478/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
-        },
-        {
-          "title": "特朗普表示允许海峡保持开放",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA%E5%85%81%E8%AE%B8%E6%B5%B7%E5%B3%A1%E4%BF%9D%E6%8C%81%E5%BC%80%E6%94%BE%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "特朗普威胁伊朗,美伊谈判暂停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
-          "source": "贴吧",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
-          "url": "https://www.cls.cn/detail/2406197",
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8uD1v25JY2x",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "美参议院通过涉伊战争权力决议 特朗普遭遇象征性挫败",
+          "url": "https://www.cls.cn/detail/2407367",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "特朗普未转向经济议题，共和党内部期待落空",
-          "url": "https://flash.jin10.com/detail/20260623183311095800",
+          "title": "美参议院通过决议要求特朗普结束对伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3123726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "美国会两院历史性通过撤军决议，特朗普对伊军事政策遭遇强力制衡",
+          "url": "https://flash.jin10.com/detail/20260624093242995800",
           "source": "金十数据",
           "ranks": [
-            13
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "10时12分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普和我明白债券市场的力量",
+          "url": "https://wallstreetcn.com/livenews/3123707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
-          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
-          "url": "https://www.cls.cn/detail/2406186",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 15时39分]"
-        },
-        {
-          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
-          "url": "https://www.cls.cn/detail/2406236",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 15时39分]"
-        },
-        {
-          "title": "美股：纳指跌1.32% SpaceX跌超16%",
-          "url": "https://www.toutiao.com/trending/7654363973835296302/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2405983",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "美股指期货盘前集体下跌",
-          "url": "https://www.douyin.com/hot/2544962",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "美股盘初：纳指跌2.4%，费城半导体指数跌超7%，美光科技跌约11%，SpaceX市值跌破2万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3123486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
-          "url": "https://www.cls.cn/detail/2406212",
+          "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
+          "url": "https://www.cls.cn/detail/2407391",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 15时39分]"
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "金价又又又崩了",
-          "url": "https://news.ifeng.com/c/8uBh0V2wuzK",
-          "source": "凤凰网",
+          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2407361",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
+          "url": "https://www.cls.cn/detail/2407435",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 18时54分]"
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "国际金价跌破4100美元整数关口，A股黄金股全线重挫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33436473",
-          "source": "澎湃新闻",
+          "title": "美股芯片股全线重挫",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E9%87%8D%E6%8C%AB",
+          "source": "百度热搜",
           "ranks": [
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "金价狂泻30%",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E6%B3%BB30%25%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时54分"
-        },
-        {
-          "title": "金价暴跌黄金该买还是该卖",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E9%BB%84%E9%87%91%E8%AF%A5%E4%B9%B0%E8%BF%98%E6%98%AF%E8%AF%A5%E5%8D%96",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
+          "time_info": "[10时11分 ~ 10时12分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
+          "url": "https://news.ifeng.com/c/8uCdaH694Zv",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "美参议院通过涉伊朗的战争权力决议",
+          "url": "https://www.toutiao.com/trending/7653777689459310634/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2052882056875603762",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "美国财长贝森特：我们已告诉伊朗人我们想要一个“大协议”。 伊朗谈判将是一个过程。 如果伊朗降低其石油价格，对世界更好。 我们给伊朗提供胡萝卜，也有大棒。",
+          "url": "https://wallstreetcn.com/livenews/3123708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
       "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
-          "url": "https://www.cls.cn/detail/2406155",
-          "source": "财联社热门",
+          "title": "金价见底三大信号",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%A7%81%E5%BA%95%E4%B8%89%E5%A4%A7%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            11
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 15时39分]"
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "谷歌借助员工校友网络支持AI初创孵化计划",
-          "url": "https://flash.jin10.com/detail/20260623183808986800",
+          "title": "澳新银行：市场情绪疲软，金价走势承压",
+          "url": "https://flash.jin10.com/detail/20260624093804557800",
           "source": "金十数据",
           "ranks": [
-            9
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "10时12分"
         }
       ]
     },
@@ -641,28 +208,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时10分 ~ 22时26分]"
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         },
         {
-          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
-          "url": "https://wallstreetcn.com/articles/3775250",
+          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
+          "url": "https://wallstreetcn.com/articles/3775294",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时54分 ~ 22时26分]"
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         }
       ]
     },
@@ -671,34 +236,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2044875348719005741",
-          "source": "知乎",
+          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
+          "url": "https://wallstreetcn.com/articles/3775315",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            6,
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时38分 ~ 22时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科技热潮降温 ，全球股市“黑色星期二”，费城半导体指数跌超7%，SpaceX市值跌破2万亿美元，现货黄金跌近2%",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
+          "time_info": "[10时11分 ~ 10时12分]"
         }
       ]
     }
