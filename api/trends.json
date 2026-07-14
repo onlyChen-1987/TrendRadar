@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T19:17:47.258442+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-07-14T21:06:03.778282+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[15时47分 ~ 21时06分]"
+        },
+        {
+          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
+          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时47分 ~ 21时06分]"
         },
         {
           "title": "美军首次使用海上无人艇打击伊朗，现场画面公布",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时24分 ~ 12时41分]"
-        },
-        {
-          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
-          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 19时17分]"
         },
         {
           "title": "伊朗发起行动，回应“敌方最新侵略行径”",
@@ -152,6 +152,18 @@
           "time_info": "[09时24分 ~ 12时41分]"
         },
         {
+          "title": "伊朗称布什尔市四个地区遭美军袭击",
+          "url": "https://www.toutiao.com/trending/7662322212086484530/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 21时06分]"
+        },
+        {
           "title": "最高领袖誓言复仇，伊朗锁死霍尔木兹海峡，硬刚美国最后通牒",
           "url": "https://news.ifeng.com/c/8ujWVX3Tjrl",
           "source": "凤凰网",
@@ -176,6 +188,28 @@
           "time_info": "[00时21分 ~ 09时24分]"
         },
         {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.douyin.com/hot/2571461",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
+        },
+        {
           "title": "伊朗袭击美国海军第五舰队司令部",
           "url": "https://www.toutiao.com/trending/7661886519921573894/",
           "source": "今日头条",
@@ -186,6 +220,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 15时47分]"
+        },
+        {
+          "title": "伊朗前总统内贾德被软禁",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%89%8D%E6%80%BB%E7%BB%9F%E5%86%85%E8%B4%BE%E5%BE%B7%E8%A2%AB%E8%BD%AF%E7%A6%81%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "美军连续第三晚空袭伊朗",
@@ -298,15 +343,15 @@
           "time_info": "00时21分"
         },
         {
-          "title": "伊朗称布什尔市四个地区遭美军袭击",
-          "url": "https://www.toutiao.com/trending/7662322212086484530/",
-          "source": "今日头条",
+          "title": "【伊朗称美进入正式战争状态】据伊朗媒体报道，伊朗最高领袖穆杰塔巴·哈梅内伊的军事顾问雷扎伊今天（7月14日）表示，“已不再存在伊美谅解备忘录，敌人已正式进入战争状态。” (CCTV国际时讯)",
+          "url": "https://wallstreetcn.com/livenews/3133647",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "21时06分"
         },
         {
           "title": "三名伊斯兰革命卫队成员在周一美国袭击伊朗的行动中丧生。（伊朗媒体法尔斯通讯社）",
@@ -318,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：（向伊朗领导人喊话）如果你们攻击我们，这次将不再是重播。回应将比过去强大得多。",
+          "url": "https://flash.jin10.com/detail/20260714203844435800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "伊朗外交部谴责英国将革命卫队列为国家支持的威胁",
@@ -348,7 +404,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -389,7 +445,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -401,8 +457,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 19时17分]"
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 21时06分]"
         },
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -415,8 +471,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 19时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 21时06分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -427,8 +483,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 19时17分]"
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 21时06分]"
+        },
+        {
+          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            16,
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 21时06分]"
         },
         {
           "title": "特朗普点名中东六国",
@@ -440,21 +512,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 12时41分]"
-        },
-        {
-          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14,
-            16,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 19时17分]"
         },
         {
           "title": "特朗普点名以色列和海湾5国",
@@ -501,6 +558,19 @@
           "time_info": "00时21分"
         },
         {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 21时06分]"
+        },
+        {
           "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
           "url": "https://www.cls.cn/detail/2425302",
           "source": "财联社热门",
@@ -511,6 +581,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时40分 ~ 17时46分]"
+        },
+        {
+          "title": "如何看特朗普在霍尔木兹收费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "特朗普通知国会伊朗战事重新爆发，伊朗称袭击美国海军第五舰队司令部，局势将如何发展？本轮战事会持续多久？",
@@ -535,18 +616,6 @@
           "time_info": "[12时40分 ~ 12时41分]"
         },
         {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 19时17分]"
-        },
-        {
           "title": "“送他人儿女上战场”，特朗普政治盟友猝死：他为何被叫“战争贩子”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33575452",
           "source": "澎湃新闻",
@@ -557,6 +626,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时47分 ~ 17时46分]"
+        },
+        {
+          "title": "曝特朗普支持沙特对胡塞采取军事行动",
+          "url": "https://www.toutiao.com/trending/7662172518904365062/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -587,7 +667,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -661,7 +741,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -669,11 +749,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 19时17分]"
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 21时06分]"
         },
         {
           "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
@@ -697,8 +778,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时24分 ~ 19时17分]"
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 21时06分]"
+        },
+        {
+          "title": "静待沃什证词和CPI，美股盘前存储芯片股普涨，IBM跌17%，原油涨近5%，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -718,7 +810,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -763,9 +855,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "花旗集团第二季度营收为247.7亿美元，预期为237亿美元。 第二季度每股收益为3.15美元。 第二季度股票销售及交易收入23亿美元，预期为19亿美元。 第二季度FICC（固定收益、外汇及大宗商品）销售与交易收入为47.1亿美元，预期为45.6亿美元。 第二季度净利息收入为171.3亿美元，预期为160.1亿美元。 第二季度投资银行业务收入为15.5亿美元。 花旗集团预计2026年股票回购规模将高于2025年。 花旗美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3133646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -785,7 +888,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -796,15 +899,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "IBM美股盘前跌幅扩大至逾20%，公司第二财季初步营收不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3133637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        },
+        {
+          "title": "高盛第二季度净营收203.4亿美元。 第二季度每股收益20.98美元。 第二季度股票销售和交易业务营收74.2亿美元，预估50.2亿美元。 第二季度FICC业务销售和交易营收45.9亿美元，预估37.6亿美元。 第二季度净利息收入39.5亿美元，预估35.3亿美元。 第二季度投资银行业务营收34.0亿美元，预估28.8亿美元。 第二季度贷款2,610亿美元，预估2,554.4亿美元。 第二季度坏账拨备1.02亿美元，预估1.712亿美元。 第二季度管理资产4.04万亿美元，预估3.79万亿美元。 高盛美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3133630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
@@ -816,6 +941,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时24分 ~ 15时47分]"
+        },
+        {
+          "title": "国际金价失守4100美元，地缘冲突为何没能提振走势？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33577078",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "国际黄金疲态源于多重技术性因素叠加，今夜CPI能否提振金价？| Live分析更新中",
@@ -854,7 +990,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -863,11 +999,23 @@
           "ranks": [
             15,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 19时17分]"
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 21时06分]"
+        },
+        {
+          "title": "DeepSeek梁文锋成AI公司新首富",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%88%90AI%E5%85%AC%E5%8F%B8%E6%96%B0%E9%A6%96%E5%AF%8C",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
         },
         {
           "title": "DeepSeek最新一轮融资后，梁文锋身家超越Anthropic达里奥和OpenAI布罗克曼",
@@ -883,6 +1031,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌：Chrome浏览器AI功能将于下月扩展至iOS平台。 将Chrome浏览器内嵌Gemini AI功能扩展至英国用户。",
+          "url": "https://wallstreetcn.com/livenews/3133659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -893,11 +1058,12 @@
           "ranks": [
             8,
             13,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[15时47分 ~ 21时06分]"
         }
       ]
     },
@@ -911,11 +1077,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 19时17分]"
+          "appearance_count": 5,
+          "time_info": "[15时47分 ~ 21时06分]"
         }
       ]
     }
