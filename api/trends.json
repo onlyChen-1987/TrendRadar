@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-21T12:59:13.005156+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-07-21T16:07:09.554930+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
+          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 16时07分]"
+        },
         {
           "title": "伊朗公布打击多国美军基地战果",
           "url": "https://news.ifeng.com/c/8uvTwaa2exp",
@@ -20,15 +31,15 @@
           "time_info": "[09时31分 ~ 12时59分]"
         },
         {
-          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
-          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
+          "title": "美军被曝隐瞒伊朗战事中受伤人员数量",
+          "url": "https://news.ifeng.com/c/8uwFQqRkygA",
           "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时59分]"
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 16时07分]"
         },
         {
           "title": "美国军方：最新一轮对伊朗的打击已结束。",
@@ -69,11 +80,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 16时07分]"
         },
         {
           "title": "伊朗海军同时从3个方向猛烈打击美军",
@@ -83,8 +95,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 16时07分]"
         },
         {
           "title": "“全面战争”！伊朗总统最新发声",
@@ -94,8 +106,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 16时07分]"
         },
         {
           "title": "伊朗外长：到目前还没见过新最高领袖",
@@ -105,30 +117,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 16时07分]"
         },
         {
           "title": "一油化船在霍尔木兹海峡附近遭袭 美军称对伊朗发动新一轮打击 | 环球市场",
           "url": "https://www.cls.cn/detail/2431950",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 16时07分]"
         },
         {
           "title": "美军伤亡不断攀升 美国如何报复伊朗",
           "url": "https://www.toutiao.com/trending/7664792452200500746/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 16时07分]"
+        },
+        {
+          "title": "据报道，约旦拦截5架伊朗发射的无人机。",
+          "url": "https://wallstreetcn.com/livenews/3137435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         },
         {
           "title": "伊朗革命卫队：在针对巴林里法（Riffa）的导弹与无人机袭击中，将目标锁定为部署在那里的美制“爱国者”防空系统。",
@@ -164,6 +190,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "伊朗革命卫队称打击约旦和巴林境内的美国目标",
+          "url": "https://wallstreetcn.com/livenews/3137419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
           "title": "伊朗革命卫队：一小时前，两艘油轮在美军的误导下，试图经由霍尔木兹海峡以南的危险航道通过，结果发生爆炸起火并被迫停航。目前，救援部队正在将这些船只上的船员撤离该区域。",
           "url": "https://flash.jin10.com/detail/20260721090114844800",
           "source": "金十数据",
@@ -173,24 +210,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "媒体：提出停火10天的是伊朗，而非调解方",
+          "url": "https://flash.jin10.com/detail/20260721154629305800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "美官员称特朗普预计数日内决定是否扩大对伊军事行动",
-          "url": "https://wallstreetcn.com/livenews/3137316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
         {
           "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
           "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
@@ -200,8 +237,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 16时07分]"
         },
         {
           "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
@@ -209,11 +246,23 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 16时07分]"
+        },
+        {
+          "title": "美官员称特朗普预计数日内决定是否扩大对伊军事行动",
+          "url": "https://wallstreetcn.com/livenews/3137316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
@@ -224,8 +273,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 16时07分]"
         },
         {
           "title": "舒默称特朗普是美国史上最腐败总统",
@@ -237,6 +286,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "西班牙，你太不给特朗普面子了",
+          "url": "https://news.ifeng.com/c/8uvtuVSVeUb",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 16时07分]"
         },
         {
           "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
@@ -261,6 +321,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "以媒：10天停火提议系由伊方提出，特朗普要求伊朗“付出代价”",
+          "url": "https://flash.jin10.com/detail/20260721155023953800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
           "url": "https://www.zhihu.com/question/2062557149230903440",
           "source": "知乎",
@@ -275,7 +346,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -285,8 +356,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 16时07分]"
         },
         {
           "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
@@ -296,8 +367,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 16时07分]"
         },
         {
           "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
@@ -308,8 +379,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 16时07分]"
         },
         {
           "title": "摩根士丹利：美股存储芯片股票最近的回调是一个买入机会，存储芯片短缺的情况将持续恶化，直至后年。消费电子、PC和智能手机市场出现了各种不同的信号，这些信号会在不同时间点影响现货市场和库存水平。过去几天拖累股价的消息似乎与这些因素有关。",
@@ -323,6 +394,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "美股盘前，存储芯片股普涨，闪迪涨约7%，SK海力士涨约6%，美光科技涨约5%，西部数据涨约5%，希捷科技涨约5%。",
+          "url": "https://wallstreetcn.com/livenews/3137441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
           "title": "美股回调背后暗藏激烈博弈：空头押注水平创纪录",
           "url": "https://www.cls.cn/detail/2431824",
           "source": "财联社热门",
@@ -332,6 +414,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 16时07分]"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
@@ -347,9 +440,50 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+          "url": "https://www.zhihu.com/question/2062579631564093084",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 16时07分]"
+        },
+        {
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 16时07分]"
+        },
         {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
           "url": "https://www.cls.cn/detail/2431896",
@@ -357,18 +491,6 @@
           "ranks": [
             6,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时59分]"
-        },
-        {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -389,19 +511,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 16时07分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 16时07分]"
         }
       ]
     },
@@ -427,26 +550,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
-          "url": "https://www.zhihu.com/question/2061575313973416591",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
+          "time_info": "12时59分"
         }
       ]
     }
