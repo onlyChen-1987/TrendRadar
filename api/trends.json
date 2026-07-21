@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T21:16:25.406423+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-07-21T23:29:12.446164+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 35,
       "titles": [
         {
           "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 21时16分]"
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 23时29分]"
         },
         {
           "title": "美军被曝隐瞒伊朗战事中受伤人员数量",
@@ -67,6 +67,17 @@
           "time_info": "[12时58分 ~ 21时16分]"
         },
         {
+          "title": "伊朗还有两大杀手锏",
+          "url": "https://news.ifeng.com/c/8uwrsyeC1bU",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
+        },
+        {
           "title": "美国军方：最新一轮对伊朗的打击已结束。",
           "url": "https://flash.jin10.com/detail/20260721091955522800",
           "source": "金十数据",
@@ -109,6 +120,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "科威特借油轮遇袭事件召见伊朗大使。",
+          "url": "https://wallstreetcn.com/livenews/3137653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "伊朗部长会见巴基斯坦陆军元帅和总理。",
+          "url": "https://wallstreetcn.com/livenews/3137652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "伊朗海军同时从3个方向猛烈打击美军",
@@ -169,6 +202,17 @@
           "time_info": "16时07分"
         },
         {
+          "title": "美军连续第十晚打击伊朗 调解方提议美伊停火十日",
+          "url": "https://wallstreetcn.com/livenews/3137651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "伊朗革命卫队：在针对巴林里法（Riffa）的导弹与无人机袭击中，将目标锁定为部署在那里的美制“爱国者”防空系统。",
           "url": "https://flash.jin10.com/detail/20260721090958775800",
           "source": "金十数据",
@@ -202,6 +246,17 @@
           "time_info": "19时42分"
         },
         {
+          "title": "PRESS TV：伊朗伊斯兰革命卫队击中科威特贾比尔基地的美军雷达。",
+          "url": "https://wallstreetcn.com/livenews/3137646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "据华尔街日报：以色列认为伊朗已将核离心机转移至“镐山”设施。",
           "url": "https://flash.jin10.com/detail/20260721090212803800",
           "source": "金十数据",
@@ -222,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
+        },
+        {
+          "title": "巴基斯坦总理会见伊朗内政部长 讨论中东局势",
+          "url": "https://wallstreetcn.com/livenews/3137640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "伊朗革命卫队：一小时前，两艘油轮在美军的误导下，试图经由霍尔木兹海峡以南的危险航道通过，结果发生爆炸起火并被迫停航。目前，救援部队正在将这些船只上的船员撤离该区域。",
@@ -263,9 +329,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
+        },
+        {
+          "title": "科威特召见伊朗大使 抗议该国船只遭袭",
+          "url": "https://flash.jin10.com/detail/20260721230813844800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "传伊朗主动提出停火，抄底资金涌入科技股大反弹",
+          "url": "https://flash.jin10.com/detail/20260721230709082800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "伊朗总统称与最高领袖的沟通有所增加 且能更方便地与其接触",
@@ -285,9 +373,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
+        },
+        {
+          "title": "伊朗外长披露伊美停火谈判幕后细节",
+          "url": "https://wallstreetcn.com/livenews/3137628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "伊朗官员周二开始在巴基斯坦与调解人会面。（美联社）",
@@ -303,207 +402,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 21时16分]"
-        },
-        {
-          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
-          "url": "https://www.cls.cn/detail/2431956",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 16时07分]"
-        },
-        {
-          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
-          "url": "https://www.cls.cn/detail/2431934",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 16时07分]"
-        },
-        {
-          "title": "摩根士丹利：美股存储芯片股票最近的回调是一个买入机会，存储芯片短缺的情况将持续恶化，直至后年。消费电子、PC和智能手机市场出现了各种不同的信号，这些信号会在不同时间点影响现货市场和库存水平。过去几天拖累股价的消息似乎与这些因素有关。",
-          "url": "https://flash.jin10.com/detail/20260721091943813800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "嘉信理财第二财季净新增资产1187亿美元，预期1111.3亿美元。 第二季度调整后每股收益为1.62美元，预期1.55美元。 嘉信理财美股盘前跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3137565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "美股盘前，存储芯片股普涨，闪迪涨约7%，SK海力士涨约6%，美光科技涨约5%，西部数据涨约5%，希捷科技涨约5%。",
-          "url": "https://wallstreetcn.com/livenews/3137441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "90后清华天才 干崩了美股",
-          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时06分 ~ 21时16分]"
-        },
-        {
-          "title": "美股回调背后暗藏激烈博弈：空头押注水平创纪录",
-          "url": "https://www.cls.cn/detail/2431824",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
-          "title": "90后清华天才 干崩了美股",
-          "url": "https://s.weibo.com/weibo?q=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D%20%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 21时16分]"
-        },
-        {
-          "title": "全球科技股反弹！美股盘前闪迪涨超7%，布油重回90美元上方，现货白银涨超4%",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2431734",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2433005",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3137596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "美股盘前三大股指期货齐涨",
-          "url": "https://www.douyin.com/hot/2579826",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "芯片股反弹盖过伊朗局势担忧 美股期货走高",
-          "url": "https://flash.jin10.com/detail/20260721205409686800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "通用汽车美股盘前走低，现跌超4%，此前一度涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3137535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "通用汽车第二季度净销售额和营收480.3亿美元，预估466.1亿美元。 第二季度调整后每股收益3.57美元，预估3.19美元。 第二季度调整后息税前利润39.4亿美元，预估37亿美。 通用汽车预计全年调整后每股收益12美元至14美元，此前预计11.50美元至13.50美元，市场预估12.81美元。 通用汽车预计全年调整后息税前利润140亿美元至160亿美元，此前预计135亿美元至155亿美元，市场预估143.8亿美元。 通用汽车预计全年汽车部门调整后自由现金流95亿美元至115亿美元，此前预计90亿美元至110亿美元。 通用汽车预计全年净利润84亿美元至98亿美元，此前预计99亿美元至114亿美元。 通用汽车预计全年资本支出100亿美元至120亿美元。 通用汽车美股盘前涨近2%。",
-          "url": "https://wallstreetcn.com/livenews/3137529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 28,
       "titles": [
         {
           "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
@@ -554,6 +454,62 @@
           "time_info": "12时59分"
         },
         {
+          "title": "加拿大总理卡尼周二与美国总统特朗普通话。",
+          "url": "https://wallstreetcn.com/livenews/3137656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美国总统特朗普：如果红海被封锁，将不得不处理相关业务。",
+          "url": "https://flash.jin10.com/detail/20260721231902762800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美国总统特朗普：（在被记者问及可能的红海封锁时表示）如果发生，我们会处理好。",
+          "url": "https://flash.jin10.com/detail/20260721231816030800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及胡塞封锁）我们拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260721231753948800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
+          "url": "https://www.zhihu.com/question/2062849285499138343",
+          "source": "知乎",
+          "ranks": [
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 23时29分]"
+        },
+        {
           "title": "西班牙，你太不给特朗普面子了",
           "url": "https://news.ifeng.com/c/8uvtuVSVeUb",
           "source": "凤凰网",
@@ -574,6 +530,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
+          "url": "https://wallstreetcn.com/articles/3777496",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
         },
         {
           "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
@@ -598,6 +565,72 @@
           "time_info": "09时31分"
         },
         {
+          "title": "黎巴嫩总统奥恩感谢美国总统特朗普在签署框架协议方面取得的历史性成就。",
+          "url": "https://flash.jin10.com/detail/20260721231555478800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美国总统特朗普：将妥善对待黎巴嫩，给予应有的尊重。",
+          "url": "https://flash.jin10.com/detail/20260721231518766800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美国总统特朗普：我们将大力帮助黎巴嫩。",
+          "url": "https://flash.jin10.com/detail/20260721231438448800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美国总统特朗普：将与黎巴嫩的黎巴嫩总统奥恩取得重大进展。",
+          "url": "https://flash.jin10.com/detail/20260721231419836800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美国总统特朗普：黎巴嫩遭受重创已达数十年之久。",
+          "url": "https://flash.jin10.com/detail/20260721231410402800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美国总统特朗普：与黎巴嫩的关系非常好。",
+          "url": "https://flash.jin10.com/detail/20260721231407346800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "以媒：10天停火提议系由伊方提出，特朗普要求伊朗“付出代价”",
           "url": "https://flash.jin10.com/detail/20260721155023953800",
           "source": "金十数据",
@@ -607,6 +640,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时07分"
+        },
+        {
+          "title": "美国总统特朗普：我们对黎巴嫩的情况感到非常乐观。",
+          "url": "https://flash.jin10.com/detail/20260721231244822800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
@@ -626,20 +670,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         },
         {
-          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
-          "url": "https://www.zhihu.com/question/2062849285499138343",
-          "source": "知乎",
+          "title": "美国总统特朗普：黎巴嫩总统奥恩备受尊敬。",
+          "url": "https://flash.jin10.com/detail/20260721230922065800",
+          "source": "金十数据",
           "ranks": [
-            19
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时16分"
+          "time_info": "23时29分"
         },
         {
           "title": "美国贸易代表格里尔：美国总统特朗普希望减少贸易逆差。",
@@ -648,9 +692,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普在白宫接见黎巴嫩总统，准备举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260721230909971800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美国贸易代表格里尔：美国总统特朗普在某种程度上已经采取了相关行动。",
@@ -659,15 +714,237 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         }
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 23时29分]"
+        },
+        {
+          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
+          "url": "https://www.cls.cn/detail/2431956",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 16时07分]"
+        },
+        {
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 16时07分]"
+        },
+        {
+          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
+        },
+        {
+          "title": "摩根士丹利：美股存储芯片股票最近的回调是一个买入机会，存储芯片短缺的情况将持续恶化，直至后年。消费电子、PC和智能手机市场出现了各种不同的信号，这些信号会在不同时间点影响现货市场和库存水平。过去几天拖累股价的消息似乎与这些因素有关。",
+          "url": "https://flash.jin10.com/detail/20260721091943813800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "嘉信理财第二财季净新增资产1187亿美元，预期1111.3亿美元。 第二季度调整后每股收益为1.62美元，预期1.55美元。 嘉信理财美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3137565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普涨，闪迪涨约7%，SK海力士涨约6%，美光科技涨约5%，西部数据涨约5%，希捷科技涨约5%。",
+          "url": "https://wallstreetcn.com/livenews/3137441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时07分"
+        },
+        {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 23时29分]"
+        },
+        {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时06分 ~ 21时16分]"
+        },
+        {
+          "title": "美股回调背后暗藏激烈博弈：空头押注水平创纪录",
+          "url": "https://www.cls.cn/detail/2431824",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "美股全线高开 闪迪、西部数据均涨超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%85%A8%E7%BA%BF%E9%AB%98%E5%BC%80+%E9%97%AA%E8%BF%AA%E3%80%81%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E5%9D%87%E6%B6%A8%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时29分]"
+        },
+        {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://s.weibo.com/weibo?q=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D%20%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时16分]"
+        },
+        {
+          "title": "全球科技股反弹！美股盘前闪迪涨超7%，布油重回90美元上方，现货白银涨超4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2431734",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3137596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "美股盘前三大股指期货齐涨",
+          "url": "https://www.douyin.com/hot/2579826",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "芯片股反弹盖过伊朗局势担忧 美股期货走高",
+          "url": "https://flash.jin10.com/detail/20260721205409686800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "通用汽车美股盘前走低，现跌超4%，此前一度涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3137535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "通用汽车第二季度净销售额和营收480.3亿美元，预估466.1亿美元。 第二季度调整后每股收益3.57美元，预估3.19美元。 第二季度调整后息税前利润39.4亿美元，预估37亿美。 通用汽车预计全年调整后每股收益12美元至14美元，此前预计11.50美元至13.50美元，市场预估12.81美元。 通用汽车预计全年调整后息税前利润140亿美元至160亿美元，此前预计135亿美元至155亿美元，市场预估143.8亿美元。 通用汽车预计全年汽车部门调整后自由现金流95亿美元至115亿美元，此前预计90亿美元至110亿美元。 通用汽车预计全年净利润84亿美元至98亿美元，此前预计99亿美元至114亿美元。 通用汽车预计全年资本支出100亿美元至120亿美元。 通用汽车美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3137529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
@@ -691,8 +968,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 21时16分]"
+          "appearance_count": 4,
+          "time_info": "[19时42分 ~ 23时29分]"
+        },
+        {
+          "title": "113家私募打新长鑫科技获配，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://wallstreetcn.com/livenews/3137648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "为什么豆包没有被 DeepSeek「斩杀」？",
@@ -761,8 +1049,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时31分 ~ 21时16分]"
+          "appearance_count": 9,
+          "time_info": "[09时31分 ~ 23时29分]"
         },
         {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
@@ -783,6 +1071,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            15,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时58分 ~ 23时29分]"
+        },
+        {
           "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
           "url": "https://www.zhihu.com/question/2062575282591209175",
           "source": "知乎",
@@ -793,19 +1095,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时31分 ~ 16时07分]"
-        },
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时58分 ~ 21时16分]"
         }
       ]
     },
@@ -820,7 +1109,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
         }
