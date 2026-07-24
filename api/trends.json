@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T09:44:56.913900+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-24T13:02:01.848971+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -15,19 +15,64 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时02分]"
+        },
+        {
+          "title": "伊朗外长：扣押他国资产“极具煽动性”",
+          "url": "https://wallstreetcn.com/livenews/3139224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时44分"
+          "time_info": "13时02分"
+        },
+        {
+          "title": "胡塞武装开辟伊朗战争“第二战线”！曼德海峡告急，沙特出口面临新风险",
+          "url": "https://flash.jin10.com/detail/20260724124321790800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
           "url": "https://www.zhihu.com/question/2063259853338972886",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时02分]"
+        },
+        {
+          "title": "美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备",
+          "url": "https://www.cls.cn/detail/2435700",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：阿拉伯媒体称，位于巴林的美国海军第五舰队遭到空袭。",
+          "url": "https://flash.jin10.com/detail/20260724123512835800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时44分"
+          "time_info": "13时02分"
         },
         {
           "title": "伊朗、胡塞武装：已做好应战准备",
@@ -39,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "伊朗称伊斯法罕省遭美国袭击",
+          "url": "https://wallstreetcn.com/livenews/3139214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "美国中央司令部：打击目标包括伊朗的军事指挥中心、无人机储存设施、通信网络、海岸监视点及海上作战能力，旨在进一步削弱伊朗对途经霍尔木兹海峡的民用海员及商船构成的威胁。",
@@ -76,69 +132,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
-          "url": "https://wallstreetcn.com/articles/3777754",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
-          "url": "https://www.cls.cn/detail/2435717",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "美股科技七巨头市值蒸发近8千亿美元",
-          "url": "https://www.toutiao.com/trending/7665870757104193078/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
-          "url": "https://www.cls.cn/detail/2435694",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "美股七巨头齐跌 特斯拉重挫14%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -148,19 +143,54 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时02分]"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
           "url": "https://wallstreetcn.com/articles/3777791",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时02分]"
+        },
+        {
+          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时02分]"
+        },
+        {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
+          "url": "https://www.cls.cn/detail/2435732",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "A股油服工程板块高开，中曼石油涨超8%，科力股份涨超5%，潜能恒信、通源石油、博迈科、海油工程、中油工程、中海油服等个股跟涨。据纽约时报：伊朗和伊拉克官员透露，伊朗周四拒绝了美国总统特朗普提出的停火方案，该方案由伊拉克总理转交至德黑兰。",
@@ -174,22 +204,83 @@
           "time_info": "09时44分"
         },
         {
-          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
-          "source": "澎湃新闻",
+          "title": "据悉特朗普对伊朗战争久拖不决感到沮丧",
+          "url": "https://flash.jin10.com/detail/20260724092023743800",
+          "source": "金十数据",
           "ranks": [
-            16
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3777754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时02分]"
+        },
+        {
+          "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
+          "url": "https://www.cls.cn/detail/2435717",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时02分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时02分]"
+        },
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        },
+        {
+          "title": "美股科技七巨头市值蒸发近8千亿美元",
+          "url": "https://www.toutiao.com/trending/7665870757104193078/",
+          "source": "今日头条",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
         {
-          "title": "据悉特朗普对伊朗战争久拖不决感到沮丧",
-          "url": "https://flash.jin10.com/detail/20260724092023743800",
-          "source": "金十数据",
+          "title": "美股七巨头齐跌 特斯拉重挫14%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%83%E5%B7%A8%E5%A4%B4%E9%BD%90%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E9%87%8D%E6%8C%AB14%25",
+          "source": "百度热搜",
           "ranks": [
-            20
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -238,7 +329,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
@@ -261,6 +352,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "谷歌最新AI报告颠覆认知：AI没有取代白领，正在成为人类“协作者”",
+          "url": "https://flash.jin10.com/detail/20260724121536506800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新晋菲尔兹奖得主宣布加入OpenAI",
+          "url": "https://www.toutiao.com/trending/7665911607725149738/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "油价破百逼出加息交易，金价一夜跌去100美元",
+          "url": "https://flash.jin10.com/detail/20260724123124147800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     }
