@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-08-09T12:55:32.858158+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-08-09T14:38:22.125901+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "伊朗开出6项条件，美国该如何应对？",
+          "url": "https://news.ifeng.com/c/8vRTyrZzuDS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 14时38分]"
+        },
+        {
+          "title": "伊朗：美国不改，海峡不开",
+          "url": "https://news.ifeng.com/c/8vRHg8IEQV7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 14时38分]"
+        },
         {
           "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
           "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
@@ -20,6 +42,19 @@
           "time_info": "[08时53分 ~ 11时24分]"
         },
         {
+          "title": "伊朗：重开霍尔木兹海峡的前提是美国满足5个条件",
+          "url": "https://wallstreetcn.com/livenews/3147045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 14时38分]"
+        },
+        {
           "title": "伊媒发布伊朗最高领袖视频",
           "url": "https://news.ifeng.com/c/8vQYDcdSi9T",
           "source": "凤凰网",
@@ -29,40 +64,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时53分 ~ 08时54分]"
-        },
-        {
-          "title": "伊朗开出6项条件，美国该如何应对？",
-          "url": "https://news.ifeng.com/c/8vRTyrZzuDS",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时55分]"
-        },
-        {
-          "title": "伊朗：美国不改，海峡不开",
-          "url": "https://news.ifeng.com/c/8vRHg8IEQV7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时55分]"
-        },
-        {
-          "title": "伊朗：重开霍尔木兹海峡的前提是美国满足5个条件",
-          "url": "https://wallstreetcn.com/livenews/3147045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时55分]"
         },
         {
           "title": "伊朗媒体发布“被击落美以战机残骸”画面",
@@ -87,6 +88,17 @@
           "time_info": "08时54分"
         },
         {
+          "title": "伊朗总统说必须摆脱非战非和局面",
+          "url": "https://wallstreetcn.com/livenews/3147050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "伊朗革命卫队指挥官：美国和以色列在实现其针对伊斯兰体制的目标上已完全失败，其领导人在面对公众舆论、精英和本国人民时，对其接连不断的失败已无任何回应。",
           "url": "https://flash.jin10.com/detail/20260809060029178800",
           "source": "金十数据",
@@ -106,8 +118,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 14时38分]"
         },
         {
           "title": "万斯：过去几天在伊朗谈判方面取得了一些进展，对方不会征收海峡过境费",
@@ -116,11 +128,12 @@
           "ranks": [
             8,
             19,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 14时38分]"
         },
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -131,8 +144,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 14时38分]"
+        },
+        {
+          "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
+          "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 14时38分]"
         },
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -155,18 +180,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时53分 ~ 08时54分]"
-        },
-        {
-          "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
-          "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时55分]"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -250,7 +263,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -260,8 +273,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 14时38分]"
         },
         {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
@@ -272,8 +285,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 14时38分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -287,16 +300,15 @@
           "time_info": "[08时53分 ~ 08时54分]"
         },
         {
-          "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
-          "url": "https://flash.jin10.com/detail/20260809110518488800",
+          "title": "泰勒·斯威夫特下架特朗普团队音频",
+          "url": "https://flash.jin10.com/detail/20260809135228907800",
           "source": "金十数据",
           "ranks": [
-            1,
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -305,11 +317,25 @@
           "ranks": [
             4,
             15,
-            18
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 14时38分]"
+        },
+        {
+          "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
+          "url": "https://flash.jin10.com/detail/20260809110518488800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时55分]"
+          "time_info": "[11时24分 ~ 14时38分]"
         },
         {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
@@ -318,11 +344,12 @@
           "ranks": [
             9,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 12时55分]"
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 14时38分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -342,9 +369,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时38分]"
         }
       ]
     },
@@ -357,22 +384,24 @@
           "url": "https://www.cls.cn/detail/2448991",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 14时38分]"
         },
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
           "url": "https://wallstreetcn.com/articles/3778998",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 14时38分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -382,8 +411,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 14时38分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -394,8 +423,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时55分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 14时38分]"
         }
       ]
     },
@@ -409,11 +438,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 12时55分]"
+          "appearance_count": 5,
+          "time_info": "[08时53分 ~ 14时38分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -460,6 +490,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时53分 ~ 11时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价为何突然大涨",
+          "url": "https://www.douyin.com/hot/2602679",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         }
       ]
     }
