@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T12:58:08.159832+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-08-11T14:47:04.401799+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 12时58分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时47分]"
+        },
+        {
+          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
+          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 14时47分]"
         },
         {
           "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
@@ -30,15 +41,17 @@
           "time_info": "[11时26分 ~ 12时58分]"
         },
         {
-          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
-          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://news.ifeng.com/c/8vUncUovk9A",
           "source": "凤凰网",
           "ranks": [
-            2
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时58分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时47分]"
         },
         {
           "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
@@ -57,11 +70,12 @@
           "url": "https://www.toutiao.com/trending/7671499615899877402/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 14时47分]"
         },
         {
           "title": "伊朗最高领袖签署命令：6人任高级军事指挥官",
@@ -98,15 +112,14 @@
         },
         {
           "title": "伊朗更强硬的强硬派来了",
-          "url": "https://news.ifeng.com/c/8vUncUovk9A",
-          "source": "凤凰网",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            6
+            21
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时54分 ~ 12时58分]"
+          "time_info": "[12时57分 ~ 14时47分]"
         },
         {
           "title": "伊朗总统称最高领袖健康状况很好",
@@ -133,15 +146,15 @@
           "time_info": "[11时26分 ~ 12时58分]"
         },
         {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
+          "title": "伊朗警告乌克兰不赔偿就动手",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
           "ranks": [
-            21
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
+          "time_info": "[14时46分 ~ 14时47分]"
         },
         {
           "title": "伊朗称美以是造成中东地区动荡根源",
@@ -180,7 +193,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
@@ -190,8 +203,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 12时58分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时47分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -207,6 +220,28 @@
           "time_info": "[08时54分 ~ 12时58分]"
         },
         {
+          "title": "美媒：特朗普上月秘密乘运输机回国",
+          "url": "https://www.toutiao.com/trending/7672053116451389486/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
+        },
+        {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
+        },
+        {
           "title": "特朗普：美军已100%控制霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
           "source": "凤凰网",
@@ -214,8 +249,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 12时58分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时47分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -223,11 +258,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时58分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 14时47分]"
+        },
+        {
+          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
+          "url": "https://www.cls.cn/detail/2450709",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 14时47分]"
         },
         {
           "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
@@ -240,17 +288,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时54分 ~ 12时58分]"
-        },
-        {
-          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
-          "url": "https://www.cls.cn/detail/2450709",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时57分 ~ 12时58分]"
         },
         {
           "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
@@ -300,8 +337,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 12时58分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时47分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -311,8 +348,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 12时58分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时47分]"
         },
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
@@ -324,8 +361,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 12时58分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时47分]"
         },
         {
           "title": "摩根大通推演CPI剧本，明日数据恐引发美股剧震！",
@@ -333,6 +370,34 @@
           "source": "金十数据",
           "ranks": [
             13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时46分 ~ 14时47分]"
+        },
+        {
+          "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2067921583944085650",
+          "source": "知乎",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -365,23 +430,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/2067921583944085650",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
         }
       ]
     },
