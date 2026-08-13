@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T12:01:43.169048+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-08-13T13:39:46.124123+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时39分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
+          "url": "https://www.cls.cn/detail/2452920",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时39分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时39分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版上线",
@@ -30,40 +55,17 @@
           "time_info": "09时03分"
         },
         {
-          "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
-          "url": "https://www.cls.cn/detail/2452920",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时01分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时01分]"
-        },
-        {
           "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
           "url": "https://www.zhihu.com/question/2071019389479023642",
           "source": "知乎",
           "ranks": [
             5,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时39分]"
         },
         {
           "title": "DeepSeek重磅更新 V4Pro正式版上线",
@@ -124,7 +126,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国总统特朗普周四日程一览",
@@ -136,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 13时39分]"
         },
         {
           "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
@@ -150,17 +163,6 @@
           "time_info": "[09时03分 ~ 12时01分]"
         },
         {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
-        },
-        {
           "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
           "url": "https://www.cls.cn/detail/2452937",
           "source": "财联社热门",
@@ -168,8 +170,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 13时39分]"
         },
         {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
@@ -181,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "特朗普称“完全掌控”霍尔木兹，现实却狠狠打脸：通航量跌至近3个月低点",
+          "url": "https://flash.jin10.com/detail/20260813125705877800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         }
       ]
     },
@@ -206,11 +219,12 @@
           "source": "微博",
           "ranks": [
             18,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时39分]"
         },
         {
           "title": "金十图示：2026年08月13日（周四）上海金早盘价为956.44元/克，较国际金价(955.77元/克)，高0.67元/克",
@@ -219,7 +233,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
         }
@@ -237,19 +251,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时39分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
           "url": "https://www.cls.cn/detail/2452897",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时39分]"
         },
         {
           "title": "美股AI算力和存储芯片爆发",
@@ -273,11 +288,12 @@
           "url": "https://news.ifeng.com/c/8vXOuaWRIKP",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时39分]"
         },
         {
           "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
@@ -288,8 +304,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时39分]"
         }
       ]
     },
@@ -306,8 +322,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 13时39分]"
         }
       ]
     },
@@ -320,11 +336,12 @@
           "url": "https://www.cls.cn/detail/2452988",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时00分 ~ 12时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时00分 ~ 13时39分]"
         }
       ]
     }
