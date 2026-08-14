@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T20:40:25.166062+08:00",
-  "total_titles_processed": 1215,
+  "generated_at": "2026-08-14T22:45:05.751698+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时02分 ~ 20时40分]"
+          "appearance_count": 10,
+          "time_info": "[09时02分 ~ 22时45分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -74,6 +74,19 @@
           "time_info": "[09时02分 ~ 11时55分]"
         },
         {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            3,
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时07分 ~ 22时45分]"
+        },
+        {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
           "url": "https://www.zhihu.com/question/2071318356477662328",
           "source": "知乎",
@@ -83,18 +96,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
-        },
-        {
-          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
-          "url": "https://www.zhihu.com/question/2071361705183899939",
-          "source": "知乎",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 16时58分]"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -157,6 +158,17 @@
           "time_info": "[16时58分 ~ 20时40分]"
         },
         {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
+        },
+        {
           "title": "一个视频看懂DeepSeek Harness",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
           "source": "bilibili 热搜",
@@ -180,6 +192,17 @@
           "time_info": "[09时02分 ~ 11时55分]"
         },
         {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
+        },
+        {
           "title": "深度解读DeepSeek Harness",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek%20Harness",
           "source": "bilibili 热搜",
@@ -189,6 +212,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时07分 ~ 15时08分]"
+        },
+        {
+          "title": "深度体验DeepSeek Harness 原谅涨价",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8CDeepSeek+Harness+%E5%8E%9F%E8%B0%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -249,7 +283,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
@@ -262,6 +296,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时55分 ~ 16时58分]"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时07分 ~ 22时45分]"
+        },
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 22时45分]"
         },
         {
           "title": "特朗普专机上全是一箱又一箱麦当劳",
@@ -286,6 +343,17 @@
           "time_info": "16时58分"
         },
         {
+          "title": "特朗普请求美国最高法院允许其继续推进白宫宴会厅项目",
+          "url": "https://wallstreetcn.com/livenews/3149807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "最年轻新闻秘书，“弃特朗普而去”",
           "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
           "source": "凤凰网",
@@ -297,29 +365,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时02分 ~ 15时08分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 20时40分]"
-        },
-        {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 20时40分]"
         },
         {
           "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
@@ -383,7 +428,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -412,8 +457,124 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 15时08分]"
+        },
+        {
+          "title": "美股迭创新高触发“错失恐惧”！华尔街机构狂买看涨期权避险",
+          "url": "https://flash.jin10.com/detail/20260814221349595800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "美股存储板块持续走强，闪迪(SNDK.O)涨超9%，希捷科技(STX.O)涨7.2%，西部数据(WDC.O)涨4.5%，美光科技(MU.O)、SK海力士(SKHY.O)均涨超3.5%。",
+          "url": "https://flash.jin10.com/detail/20260814220812211800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3149692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "美股存储股大涨 闪迪飙升近14%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%82%A1%E5%A4%A7%E6%B6%A8+%E9%97%AA%E8%BF%AA%E9%A3%99%E5%8D%87%E8%BF%9114%25",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，生物科技指数ETF跌超1%，医疗业ETF跌近1%，公用事业ETF、能源业ETF微涨。",
+          "url": "https://wallstreetcn.com/livenews/3149790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3149787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "美股标普收新高 闪迪涨逾13%",
+          "url": "https://www.toutiao.com/trending/7673659542994947603/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
+        },
+        {
+          "title": "美股恐慌指数骤降 华尔街开始警惕",
+          "url": "https://www.toutiao.com/trending/7673504531824512521/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时58分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3149772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗最高领袖顾问：若条件得不到满足，或升级冲突",
@@ -486,6 +647,17 @@
           "time_info": "[09时02分 ~ 11时55分]"
         },
         {
+          "title": "伊朗方面的最新表态传递出哪些信号",
+          "url": "https://www.toutiao.com/trending/7673859930650054186/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
+        },
+        {
           "title": "美财长称将对伊朗实施前所未见措施",
           "url": "https://wallstreetcn.com/livenews/3149366",
           "source": "华尔街见闻-快讯",
@@ -514,70 +686,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
-          "url": "https://www.cls.cn/detail/2453979",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时02分 ~ 15时08分]"
-        },
-        {
-          "title": "美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3149692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "美股存储股大涨 闪迪飙升近14%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%82%A1%E5%A4%A7%E6%B6%A8+%E9%97%AA%E8%BF%AA%E9%A3%99%E5%8D%87%E8%BF%9114%25",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美股标普收新高 闪迪涨逾13%",
-          "url": "https://www.toutiao.com/trending/7673659542994947603/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        },
-        {
-          "title": "美股恐慌指数骤降 华尔街开始警惕",
-          "url": "https://www.toutiao.com/trending/7673504531824512521/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时58分"
         }
       ]
     },
@@ -632,8 +743,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 20时40分]"
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 22时45分]"
         },
         {
           "title": "OpenAI首席营收官任职不到一年离职",
@@ -660,11 +771,12 @@
             10,
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时25分 ~ 20时40分]"
+          "appearance_count": 8,
+          "time_info": "[13时25分 ~ 22时45分]"
         },
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
@@ -707,7 +819,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         }
